@@ -1,0 +1,120 @@
+import { readdir, readFile, writeFile } from 'node:fs/promises'
+import path from 'node:path'
+import { fileURLToPath } from 'node:url'
+
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
+const dataDir = path.resolve(__dirname, '..', 'data')
+
+function escapeInline (value) {
+    return String(value).
+        replaceAll('\\', '\\\\').
+        replaceAll('|', '\\|').
+        replaceAll('\n', '<br>')
+}
+
+function formatValue (key, value) {
+    if (value === null || value === undefined) {
+        return ''
+    }
+
+    if (key === 'coordinates' && value && typeof value === 'object' && !Array.isArray(value)) {
+        const lat = value.lat
+        const lng = value.lng
+        if (lat !== undefined && lng !== undefined) {
+            return `${escapeInline(lat)}, ${escapeInline(lng)}`
+        }
+    }
+
+    if (key === 'id' || key === 'region') {
+        return `\`${escapeInline(value)}\``
+    }
+
+    if (typeof value === 'object') {
+        return escapeInline(JSON.stringify(value))
+    }
+
+    return escapeInline(value)
+}
+
+function toTitleCase (value) {
+    const normalized = String(value).
+        replace(/([a-z0-9])([A-Z])/g, '$1 $2').
+        replaceAll('_', ' ').
+        replaceAll('-', ' ').
+        split(/\s+/).
+        filter(Boolean).
+        map((part) => part.charAt(0).toUpperCase() + part.slice(1).toLowerCase()).
+        join(' ')
+
+    if (normalized === 'Id') {
+        return 'ID'
+    }
+
+    return normalized
+}
+
+function toEntrySection (entry) {
+    if (!entry || typeof entry !== 'object' || Array.isArray(entry)) {
+        throw new Error('Expected each JSON entry to be an object')
+    }
+
+    const heading = typeof entry.name === 'string' && entry.name.trim().length > 0
+        ? entry.name.trim()
+        : '(Unnamed)'
+    const anchor = typeof entry.id === 'string' && entry.id.trim().length > 0
+        ? entry.id.trim()
+        : ''
+    const anchorTag = anchor ? `<a id="${escapeInline(anchor)}"></a> ` : ''
+
+    const rows = Object.entries(entry).map(([key, value]) => {
+        const field = `**${escapeInline(toTitleCase(key))}**`
+        return `| ${field} | ${formatValue(key, value)} |`
+    })
+
+    return [
+        `## ${anchorTag}${escapeInline(heading)}`,
+        '',
+        '| Field | Value |',
+        '| --- | --- |',
+        ...rows,
+        ''
+    ].join('\n')
+}
+
+function toDocument (sourceFileName, entries) {
+    const title = sourceFileName.replace(/\.json$/i, '')
+    const body = entries.map(toEntrySection).join('\n')
+
+    return `# \`${escapeInline(title)}\`\n\n${body}`.trimEnd() + '\n'
+}
+
+async function main () {
+    const files = (await readdir(dataDir)).
+        filter((file) => file.endsWith('.json')).
+        sort((a, b) => a.localeCompare(b))
+
+    let written = 0
+
+    for (const file of files) {
+        const fullPath = path.join(dataDir, file)
+        const raw = await readFile(fullPath, 'utf8')
+        const parsed = JSON.parse(raw)
+
+        if (!Array.isArray(parsed)) {
+            throw new Error(`Expected "${file}" to contain an array`)
+        }
+
+        const markdown = toDocument(file, parsed)
+        const outputPath = path.join(dataDir, file.replace(/\.json$/i, '.md'))
+        await writeFile(outputPath, markdown, 'utf8')
+        written += 1
+    }
+
+    console.log(`Generated ${written} Markdown file(s) from data/*.json`)
+}
+
+main().catch((error) => {
+    console.error(error instanceof Error ? error.message : error)
+    process.exitCode = 1
+})

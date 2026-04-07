@@ -1,0 +1,16 @@
+{
+    "private": true,
+    "type": "module",
+    "devDependencies": {
+        "ajv-cli": "^5.0.0",
+        "ajv-formats": "^3.0.1",
+        "uuid": "^13.0.0"
+    },
+    "scripts": {
+        "clean": "test -f data/gb.json && rm data/gb.json || true",
+        "format": "npm run clean && node scripts/format.js",
+        "markdown": "node scripts/generate-markdown.js",
+        "build": "npm run clean && npm run markdown && jq -s add data/*.json > data/gb.json",
+        "test:schema": "npm run clean && ajv validate -c ajv-formats -s schema.json -d 'data/*.json'"
+    }
+}

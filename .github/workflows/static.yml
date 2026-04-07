@@ -1,0 +1,54 @@
+name: Static Analysis
+
+on:
+  pull_request:
+
+jobs:
+
+  json-schema:
+    runs-on: ubuntu-latest
+
+    name: JSON Schema
+
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version-file: '.nvmrc'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run JSON schema validation
+        run: npm run test:schema
+
+  format:
+    runs-on: ubuntu-latest
+
+    name: Format
+
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version-file: '.nvmrc'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run formatting script
+        run: npm run format
+
+      - name: Run formatting script
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'style: apply automatic formatting'
+          file_pattern: 'data/*.json'

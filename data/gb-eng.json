@@ -1,0 +1,945 @@
+[
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e48de3328",
+        "name": "Acre Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 52.703551,
+            "lng": 0.69068
+        },
+        "built": "11-12th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/castle-acre-castle-and-bailey-gate",
+        "ownedBy": "English Heritage",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e53bbe335",
+        "name": "Ashby De La Zouch Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 52.746558,
+            "lng": -1.466471
+        },
+        "built": "12-15th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/ashby-de-la-zouch-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cc-73d2-a018-de7b34d6363e",
+        "name": "Barnard Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 54.54362,
+            "lng": -1.92644
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/barnard-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e4a992630",
+        "name": "Beeston Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 53.126792,
+            "lng": -2.688797
+        },
+        "built": "13-14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/beeston-castle-and-woodland-park",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e480968f1",
+        "name": "Berkhamsted Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.764232,
+            "lng": -0.55916
+        },
+        "built": "11-13th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/berkhamsted-castle",
+        "ownedBy": "English Heritage",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e61ba346e",
+        "name": "Berry Pomeroy Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.449,
+            "lng": -3.636595
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/berry-pomeroy-castle",
+        "ownedBy": "English Heritage",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e451ee3f7",
+        "name": "Berwick Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 55.773646,
+            "lng": -2.012935
+        },
+        "alternativeNames": [
+            "Berwick-upon-Tweed Castle"
+        ],
+        "built": "12-13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/berwick-upon-tweed-castle-and-ramparts",
+        "ownedBy": "English Heritage",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5373d829",
+        "name": "Bolingbroke Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 53.16502,
+            "lng": -0.018036
+        },
+        "built": "13-14th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/bolingbroke-castle",
+        "ownedBy": "English Heritage",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5275e587",
+        "name": "Bolsover Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 53.231301,
+            "lng": -1.297124
+        },
+        "built": "12-17th Century",
+        "condition": "Rebuilt",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/bolsover-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e44244034",
+        "name": "Bowes Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 54.51695,
+            "lng": -2.01317
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/bowes-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5d96c2ab",
+        "name": "Bramber Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.883231,
+            "lng": -0.315642
+        },
+        "built": "11-12th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/bramber-castle",
+        "ownedBy": "English Heritage",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e4b866484",
+        "name": "Brough Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 54.521704,
+            "lng": -2.323458
+        },
+        "built": "11-14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/brough-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e4c3b7eff",
+        "name": "Brougham Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 54.654151,
+            "lng": -2.718714
+        },
+        "built": "13-14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/brougham-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e599be4ae",
+        "name": "Carisbrooke Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.687345,
+            "lng": -1.313459
+        },
+        "built": "12-14th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/carisbrooke-castle",
+        "ownedBy": "English Heritage",
+        "type": "Shell Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e4d380e1e",
+        "name": "Carlisle Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 54.896975,
+            "lng": -2.941774
+        },
+        "built": "12-15th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/carlisle-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e4936c465",
+        "name": "Castle Rising",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 52.793481,
+            "lng": 0.469382
+        },
+        "alternativeNames": [
+            "Rising Castle"
+        ],
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/castle-rising-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e4b815bbb",
+        "name": "Chester Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 53.185309,
+            "lng": -2.892416
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/chester-castle-agricola-tower-and-castle-walls",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e60ae0032",
+        "name": "Christchurch Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.733352,
+            "lng": -1.77501
+        },
+        "built": "12-14th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/christchurch-castle-and-norman-house",
+        "ownedBy": "English Heritage",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e4f259585",
+        "name": "Cliffords Tower",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 53.95582,
+            "lng": -1.07994
+        },
+        "built": "13th Century",
+        "condition": "Restored",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/cliffords-tower-york",
+        "ownedBy": "English Heritage",
+        "type": "Shell Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e56116962",
+        "name": "Clun Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 52.422083,
+            "lng": -3.03303
+        },
+        "built": "13th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/clun-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e51fbd156",
+        "name": "Conisbrough Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 53.484426,
+            "lng": -1.225713
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/conisbrough-castle",
+        "ownedBy": "English Heritage",
+        "type": "Round Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e4ffd0d34",
+        "name": "Danby Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 54.244641,
+            "lng": -1.064225
+        },
+        "built": "12-13th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e57ea28cb",
+        "name": "Donnington Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.419498,
+            "lng": -1.338262
+        },
+        "built": "14th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/donnington-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e59f86fa6",
+        "name": "Dover Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.128771,
+            "lng": 1.323391
+        },
+        "built": "12-13th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/dover-castle",
+        "ownedBy": "English Heritage",
+        "type": "Concentric"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5e128d5c",
+        "name": "Dudley Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.316866,
+            "lng": -2.286566
+        },
+        "built": "14-15th Century",
+        "condition": "Ruins",
+        "ownedBy": "English Heritage",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e45342504",
+        "name": "Dunstanburgh Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 55.489421,
+            "lng": -1.594998
+        },
+        "built": "14th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/dunstanburgh-castle",
+        "ownedBy": "English Heritage",
+        "type": "Fragmented Remains"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e45f6875d",
+        "name": "Edlingham Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 55.376613,
+            "lng": -1.818206
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/edlingham-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e463b3a5e",
+        "name": "Etal Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 55.647478,
+            "lng": -2.120064
+        },
+        "built": "14th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/etal-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5a4ae57b",
+        "name": "Eynsford Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.370258,
+            "lng": 0.2135
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/eynsford-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5ce4c050",
+        "name": "Farnham Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.218552,
+            "lng": -0.802316
+        },
+        "accessible": false,
+        "built": "12th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/farnham-castle-keep",
+        "ownedBy": "English Heritage",
+        "type": "Shell Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e4a8b6a20",
+        "name": "Framlingham Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 52.223879,
+            "lng": 1.346682
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/framlingham-castle",
+        "ownedBy": "English Heritage",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e54ecde96",
+        "name": "Goodrich Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.876734,
+            "lng": -2.61582
+        },
+        "built": "12-13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/goodrich-castle",
+        "ownedBy": "English Heritage",
+        "type": "Concentric"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e57096ca1",
+        "name": "Kenilworth Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 52.348487,
+            "lng": -1.591351
+        },
+        "built": "12-14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/kenilworth-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e54639d87",
+        "name": "Kirby Muxloe Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 52.636626,
+            "lng": -1.227077
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/kirby-muxloe-castle",
+        "ownedBy": "English Heritage",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e629fcade",
+        "name": "Launceston Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.636892,
+            "lng": -4.361747
+        },
+        "built": "11-13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/launceston-castle",
+        "ownedBy": "English Heritage",
+        "type": "Shell Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5868af3f",
+        "name": "Lewes Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.87288,
+            "lng": 0.007417
+        },
+        "built": "12-14th Century",
+        "condition": "Ruins",
+        "homepage": "https://sussexpast.co.uk/attraction/lewes-castle",
+        "ownedBy": "The Sussex Archaeological Society",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e55b6220b",
+        "name": "Longtown Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.956984,
+            "lng": -2.989916
+        },
+        "built": "12-13th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/longtown-castle",
+        "ownedBy": "English Heritage",
+        "type": "Round Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5fbc517b",
+        "name": "Ludgershall Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.259453,
+            "lng": -1.622881
+        },
+        "built": "11-13th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/ludgershall-castle-and-cross",
+        "ownedBy": "English Heritage",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e61c48df5",
+        "name": "Lydford Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.643651,
+            "lng": -4.10936
+        },
+        "built": "12-13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/lydford-castle-and-saxon-town",
+        "ownedBy": "English Heritage",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e50611bc0",
+        "name": "Middleham Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 54.284083,
+            "lng": -1.806839
+        },
+        "built": "12-14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/middleham-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e563d98ca",
+        "name": "Moreton Corbet Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 52.804124,
+            "lng": -2.652254
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/moreton-corbet-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e46787fa0",
+        "name": "Norham Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 55.721382,
+            "lng": -2.151677
+        },
+        "built": "14th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/norham-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5ee33f40",
+        "name": "Nunney Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.210163,
+            "lng": -2.378304
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/nunney-castle",
+        "ownedBy": "English Heritage",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e623a0e0e",
+        "name": "Okehampton Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.731106,
+            "lng": -4.007792
+        },
+        "built": "11-14th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/okehampton-castle",
+        "ownedBy": "English Heritage",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5fc5fffe",
+        "name": "Old Sarum Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.093229,
+            "lng": -1.804878
+        },
+        "built": "11-13th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/old-sarum",
+        "ownedBy": "English Heritage",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e60841972",
+        "name": "Old Wardour Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.036409,
+            "lng": -2.088791
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/old-wardour-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e49e728f2",
+        "name": "Orford Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 52.094217,
+            "lng": 1.530753
+        },
+        "built": "12th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/orford-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e4dfca1af",
+        "name": "Penrith Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 54.662107,
+            "lng": -2.757499
+        },
+        "built": "14-15th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/penrith-castle",
+        "ownedBy": "English Heritage",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5895f306",
+        "name": "Pevensey Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.819264,
+            "lng": 0.33416
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/pevensey-castle",
+        "ownedBy": "English Heritage",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e53083a96",
+        "name": "Peveril Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 53.340745,
+            "lng": -1.776947
+        },
+        "built": "11-14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/peveril-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5139bce5",
+        "name": "Pickering Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 54.250079,
+            "lng": -0.775615
+        },
+        "built": "12-14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/pickering-castle",
+        "ownedBy": "English Heritage",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e4e300d80",
+        "name": "Piel Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 54.062187,
+            "lng": -3.17338
+        },
+        "built": "14-15th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/piel-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e58d6ee8f",
+        "name": "Portchester Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.837549,
+            "lng": -1.11377
+        },
+        "built": "11-12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/portchester-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e46aed775",
+        "name": "Prudhoe Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 54.965149,
+            "lng": -1.858419
+        },
+        "built": "12-14th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/prudhoe-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e638aa517",
+        "name": "Restormel Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.421766,
+            "lng": -4.670434
+        },
+        "built": "12-13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/restormel-castle",
+        "ownedBy": "English Heritage",
+        "type": "Shell Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e51b70287",
+        "name": "Richmond Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 54.402139,
+            "lng": -1.73757
+        },
+        "built": "11-14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/richmond-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5ad64e4e",
+        "name": "Rochester Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.389777,
+            "lng": 0.501484
+        },
+        "built": "12th Century",
+        "condition": "Restored",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/rochester-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e60db470b",
+        "name": "Sherborne Old Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.949435,
+            "lng": -2.502253
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/sherborne-old-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e51f9c698",
+        "name": "Skipsea Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 53.978869,
+            "lng": -0.229366
+        },
+        "built": "11th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/skipsea-castle",
+        "ownedBy": "English Heritage",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5bbb70e3",
+        "name": "St Leonard's Tower",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.288203,
+            "lng": 0.40209
+        },
+        "built": "11th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/st-leonards-tower",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e5c86beca",
+        "name": "Sutton Valence Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.212369,
+            "lng": 0.597749
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/sutton-valence-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e63ebe21d",
+        "name": "Tintagel Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.667281,
+            "lng": -4.758505
+        },
+        "built": "13th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/tintagel-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e6297c66d",
+        "name": "Totnes Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.432027,
+            "lng": -3.690597
+        },
+        "built": "11-14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/totnes-castle",
+        "ownedBy": "English Heritage",
+        "type": "Shell Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e47c5ef80",
+        "name": "Tynemouth Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 55.017708,
+            "lng": -1.419801
+        },
+        "built": "13-14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/tynemouth-priory-and-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e47a2f909",
+        "name": "Warkworth Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 55.345244,
+            "lng": -1.611788
+        },
+        "built": "12-14th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/warkworth-castle-and-hermitage",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e55d51358",
+        "name": "Wigmore Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 52.317987,
+            "lng": -2.868935
+        },
+        "built": "11-14th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/wigmore-castle",
+        "ownedBy": "English Heritage",
+        "type": "Shell Keep"
+    },
+    {
+        "id": "019d6948-63cd-715f-909e-ad8e58dabd9f",
+        "name": "Wolvesey Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.059061,
+            "lng": -1.310023
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/wolvesey-castle-old-bishops-palace",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    }
+]

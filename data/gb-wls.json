@@ -1,0 +1,538 @@
+[
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a9776b23a",
+        "name": "Beaumaris Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.264838,
+            "lng": -4.089704
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/beaumaris-castle",
+        "ownedBy": "Cadw",
+        "type": "Concentric"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3aa60f6496",
+        "name": "Caerphilly Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.576089,
+            "lng": -3.220249
+        },
+        "built": "13th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/caerphilly-castle",
+        "ownedBy": "Cadw",
+        "type": "Concentric"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a99c90bd9",
+        "name": "Castell Bronllys",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 52.003559,
+            "lng": -3.240527
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-bronllys",
+        "ownedBy": "Cadw",
+        "type": "Round Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a95376045",
+        "name": "Castell Caernarfon",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.13914,
+            "lng": -4.27693
+        },
+        "built": "13th Century",
+        "condition": "Intact",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-caernarfon",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a9cfb90e8",
+        "name": "Castell Carreg Cennen",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.854383,
+            "lng": -3.935647
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-carreg-cennen",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a9c210ca0",
+        "name": "Castell Cilgerran",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 52.057216,
+            "lng": -4.634195
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-cilgerran",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3aa635c416",
+        "name": "Castell Coch",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.535809,
+            "lng": -3.254635
+        },
+        "built": "11-19th Century",
+        "condition": "Intact",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-coch",
+        "ownedBy": "Cadw",
+        "type": "Round Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3aa3a7ccc7",
+        "name": "Castell Coety",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.522189,
+            "lng": -3.554243
+        },
+        "alternativeNames": [
+            "Coity Castle"
+        ],
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-coety",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a97eab7dd",
+        "name": "Castell Conwy",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.280059,
+            "lng": -3.825619
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-conwy",
+        "ownedBy": "Cadw",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a956b90b7",
+        "name": "Castell Criccieth",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 52.916012,
+            "lng": -4.232472
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-cricieth",
+        "ownedBy": "Cadw",
+        "type": "Round Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a9d9fbec9",
+        "name": "Castell Dinefwr",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.876781,
+            "lng": -4.018293
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-dinefwr",
+        "ownedBy": "Cadw",
+        "type": "Round Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a9622f416",
+        "name": "Castell Dolbadarn",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.116523,
+            "lng": -4.114069
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-dolbadarn",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a9aa48c18",
+        "name": "Castell Dolforwyn",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 52.54637,
+            "lng": -3.251835
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-dolforwyn",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a98000ad2",
+        "name": "Castell Dolwyddelan",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.052955,
+            "lng": -3.908201
+        },
+        "built": "13th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-dolwyddelan",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a99c3f561",
+        "name": "Castell Ewloe",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.199956,
+            "lng": -3.067152
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-ewloe",
+        "ownedBy": "Cadw",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a970e90ff",
+        "name": "Castell Harlech",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 52.860004,
+            "lng": -4.108908
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-harlech",
+        "ownedBy": "Cadw",
+        "type": "Concentric"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3aa022aa43",
+        "name": "Castell Llansteffan",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.765722,
+            "lng": -4.390626
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-llansteffan",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3aa74ed3de",
+        "name": "Castell Oxwich",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.555478,
+            "lng": -4.168383
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-oxwich",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a98fecc3d",
+        "name": "Castell Rhuddlan",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.289212,
+            "lng": -3.464601
+        },
+        "built": "13th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-rhuddlan",
+        "ownedBy": "Cadw",
+        "type": "Concentric"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a9544385b",
+        "name": "Castell Y Bere",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 52.658371,
+            "lng": -3.97082
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-y-bere",
+        "ownedBy": "Cadw",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3aa0fda941",
+        "name": "Chepstow Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.644322,
+            "lng": -2.674872
+        },
+        "built": "11th Century",
+        "condition": "Intact",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/chepstow-castle",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a9804a3df",
+        "name": "Denbigh Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.181043,
+            "lng": -3.420545
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/denbigh-castle",
+        "ownedBy": "Cadw",
+        "type": "Round Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3aa1839b14",
+        "name": "Grosmont Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.915339,
+            "lng": -2.865986
+        },
+        "built": "11th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/grosmont-castle",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3aa4616dd8",
+        "name": "Kenfig Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.530327,
+            "lng": -3.729992
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a9e807078",
+        "name": "Kidwelly Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.739499,
+            "lng": -4.305713
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/kidwelly-castle",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a9f3415e8",
+        "name": "Laugharne Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.769999,
+            "lng": -4.462252
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/laugharne-castle",
+        "ownedBy": "Cadw",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3aa7e882b0",
+        "name": "Llanblethian Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.457564,
+            "lng": -3.455873
+        },
+        "alternativeNames": [
+            "St Quentin's Castle"
+        ],
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/llanblethian-castle",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a9c820974",
+        "name": "Llawhaden Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.822327,
+            "lng": -4.797603
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/llawhaden-castle",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3aa67a4f10",
+        "name": "Loughor Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.662421,
+            "lng": -4.077301
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/loughor-castle",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3aa1eb4d9b",
+        "name": "Monmouth Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.812353,
+            "lng": -2.717158
+        },
+        "built": "11th Century",
+        "condition": "Intact",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/monmouth-castle",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a9b365355",
+        "name": "Montgomery Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 52.56346,
+            "lng": -3.149868
+        },
+        "built": "11th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/montgomery-castle",
+        "ownedBy": "Cadw",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3aa52e02ce",
+        "name": "Newcastle Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.508941,
+            "lng": -3.583178
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/newcastle-castle",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6c8d-73d6-774c-bc35-4132a1c29ed0",
+        "name": "Pembroke Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.676903,
+            "lng": -4.920534
+        },
+        "built": "11th Century",
+        "condition": "Partially Restored",
+        "ownedBy": "Pembrokeshire Castle Trust",
+        "type": "Round Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3aa25b6cbc",
+        "name": "Raglan Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.77016,
+            "lng": -2.849919
+        },
+        "built": "12th Century",
+        "condition": "Intact",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/raglan-castle",
+        "ownedBy": "Cadw",
+        "type": "Shell Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a9bf7793e",
+        "name": "Tretower Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.883836,
+            "lng": -3.185563
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/tretower-court-and-castle",
+        "ownedBy": "Cadw",
+        "type": "Shell Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a999e2383",
+        "name": "Twtil Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.286958,
+            "lng": -3.46182
+        },
+        "built": "11th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/twtil-castle-motte",
+        "ownedBy": "Cadw",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3aa30f3dd4",
+        "name": "White Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.845957,
+            "lng": -2.902066
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/white-castle",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6947-63ce-7320-bd1b-4f3a9cdbf26f",
+        "name": "Wiston Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.82716,
+            "lng": -4.870909
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/wiston-castle",
+        "ownedBy": "Cadw",
+        "type": "Motte and Bailey"
+    }
+]

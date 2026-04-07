@@ -1,0 +1,5 @@
+/.build/
+/data/gb.json
+/data/*.md
+/node_modules/
+/vendor/

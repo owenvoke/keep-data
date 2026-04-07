@@ -1,0 +1,12 @@
+# Meta
+title: Keep
+
+# Build
+destination: .build
+
+# Files
+exclude:
+  - node_modules/
+  - package.json
+  - package-lock.json
+  - scripts/

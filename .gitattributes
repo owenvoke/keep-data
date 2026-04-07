@@ -1,0 +1,12 @@
+* text=auto
+
+# Path-based git attributes
+# https://git-scm.com/docs/gitattributes
+
+# Ignore all dotfiles with "export-ignore".
+/.editorconfig      export-ignore
+/.gitattributes     export-ignore
+/.github            export-ignore
+/.gitignore         export-ignore
+/_config.yml        export-ignore
+/CNAME              export-ignore
