@@ -1,5 +1,18 @@
 [
     {
+        "id": "019d6d1d-5e40-7587-842f-46bf581189db",
+        "name": "Abergavenny Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.820076,
+            "lng": -3.017753
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "ownedBy": "Local Authorities",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6947-63ce-7320-bd1b-4f3a9776b23a",
         "name": "Beaumaris Castle",
         "region": "GB-WLS",
@@ -14,6 +27,19 @@
         "type": "Concentric"
     },
     {
+        "id": "019d6d16-4e5e-76cf-906a-99a6a0809a98",
+        "name": "Caerleon Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.609571,
+            "lng": -2.95061
+        },
+        "built": "11-13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
+        "type": "Round Keep"
+    },
+    {
         "id": "019d6947-63ce-7320-bd1b-4f3aa60f6496",
         "name": "Caerphilly Castle",
         "region": "GB-WLS",
@@ -26,6 +52,34 @@
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/caerphilly-castle",
         "ownedBy": "Cadw",
         "type": "Concentric"
+    },
+    {
+        "id": "019d6d19-35f4-725c-a863-d88a440ac488",
+        "name": "Caldicot Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.592851,
+            "lng": -2.742473
+        },
+        "built": "12th Century",
+        "condition": "Restored",
+        "homepage": "https://www.visitmonmouthshire.com/caldicot-castle",
+        "ownedBy": "Monmouthshire County Council",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d19-35f5-7365-8ae7-a8add9c5bc20",
+        "name": "Cardiff Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.482234,
+            "lng": -3.181178
+        },
+        "built": "12th Century",
+        "condition": "Intact",
+        "homepage": "https://www.cardiffcastle.com",
+        "ownedBy": "Cardiff Council",
+        "type": "Shell Keep"
     },
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a99c90bd9",
@@ -383,6 +437,19 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d6d1d-5e41-730f-82c2-98104fbc2203",
+        "name": "Llandovery Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.992748,
+            "lng": -3.796498
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6947-63ce-7320-bd1b-4f3a9c820974",
         "name": "Llawhaden Castle",
         "region": "GB-WLS",
@@ -439,6 +506,33 @@
         "type": "Keepless"
     },
     {
+        "id": "019d6d16-4e5e-76cf-906a-9decaad96dff",
+        "name": "Morlais Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.776935,
+            "lng": -3.379369
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Unknown",
+        "type": "Shell Keep"
+    },
+    {
+        "id": "019d6d16-4e5e-76cf-906a-a5c84172c034",
+        "name": "Neath Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.665044,
+            "lng": -3.803674
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.neathtowncouncil.gov.uk/council-services/neath-castle",
+        "ownedBy": "Neath Town Council",
+        "type": "Shell Keep"
+    },
+    {
         "id": "019d6947-63ce-7320-bd1b-4f3aa52e02ce",
         "name": "Newcastle Castle",
         "region": "GB-WLS",
@@ -481,6 +575,19 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d6d16-4e5e-76cf-906a-a05bd5910172",
+        "name": "Oystermouth Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.577136,
+            "lng": -4.002687
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "ownedBy": "Swansea Council",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6c8d-73d6-774c-bc35-4132a1c29ed0",
         "name": "Pembroke Castle",
         "region": "GB-WLS",
@@ -506,6 +613,20 @@
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/raglan-castle",
         "ownedBy": "Cadw",
         "type": "Shell Keep"
+    },
+    {
+        "id": "019d6d19-35f5-7365-8ae7-a239209ca105",
+        "name": "Skenfrith Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.878231,
+            "lng": -2.790366
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.nationaltrust.org.uk/visit/wales/skenfrith-castle",
+        "ownedBy": "National Trust",
+        "type": "Round Keep"
     },
     {
         "id": "019d6d0e-be90-7199-a90f-55c24dedaea6",
@@ -548,6 +669,20 @@
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/twtil-castle-motte",
         "ownedBy": "Cadw",
         "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6d19-35f5-7365-8ae7-a6fa83314729",
+        "name": "Usk Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.705082,
+            "lng": -2.903407
+        },
+        "built": "12th Century",
+        "condition": "Intact",
+        "homepage": "https://uskcastle.com",
+        "ownedBy": "Private",
+        "type": "Round Keep"
     },
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa30f3dd4",
