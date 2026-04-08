@@ -26,6 +26,10 @@ function formatValue (key, value) {
         }
     }
 
+    if (key === 'homepage') {
+        return `[${escapeInline(value)}](${escapeInline(value)})`
+    }
+
     if (key === 'id' || key === 'region') {
         return `\`${escapeInline(value)}\``
     }
