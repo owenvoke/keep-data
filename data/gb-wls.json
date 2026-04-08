@@ -453,6 +453,34 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d6d10-075d-70bd-90f4-33cb26232ec0",
+        "name": "Newport Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.590696,
+            "lng": -2.995077
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/newport-castle",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d0e-be90-7199-a90f-5a15b10217bc",
+        "name": "Ogmore Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.480648,
+            "lng": -3.611519
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/ogmore-castle",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6c8d-73d6-774c-bc35-4132a1c29ed0",
         "name": "Pembroke Castle",
         "region": "GB-WLS",
@@ -478,6 +506,20 @@
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/raglan-castle",
         "ownedBy": "Cadw",
         "type": "Shell Keep"
+    },
+    {
+        "id": "019d6d0e-be90-7199-a90f-55c24dedaea6",
+        "name": "Swansea Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.620318,
+            "lng": -3.941383
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/swansea-castle",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
     },
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9bf7793e",

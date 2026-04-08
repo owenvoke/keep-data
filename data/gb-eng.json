@@ -56,6 +56,20 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d6d02-d27b-714c-9598-6c30826a5ec9",
+        "name": "Berkeley Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.688587,
+            "lng": -2.456694
+        },
+        "built": "12-14th Century",
+        "condition": "Intact",
+        "homepage": "https://www.berkeley-castle.com",
+        "ownedBy": "Berkeley Castle Charitable Trust",
+        "type": "Round Keep"
+    },
+    {
         "id": "019d6948-63cd-715f-909e-ad8e480968f1",
         "name": "Berkhamsted Castle",
         "region": "GB-ENG",

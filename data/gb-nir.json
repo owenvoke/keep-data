@@ -1,1 +1,100 @@
-[]
+[
+    {
+        "id": "019d6d0a-bb30-721d-b925-542fa89789b9",
+        "name": "Carrickfergus Castle",
+        "region": "GB-NIR",
+        "coordinates": {
+            "lat": 54.71367,
+            "lng": -5.806411
+        },
+        "built": "12th Century",
+        "condition": "Intact",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/carrickfergus-castle",
+        "ownedBy": "Northern Ireland Environment Agency",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d0a-bb30-721d-b925-5e77b6930d00",
+        "name": "Castle Balfour",
+        "region": "GB-NIR",
+        "coordinates": {
+            "lat": 54.250624,
+            "lng": -7.445246
+        },
+        "built": "17th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/castle-balfour",
+        "ownedBy": "Northern Ireland Environment Agency",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d0a-bb30-721d-b925-45bf9790794c",
+        "name": "Clough Castle",
+        "region": "GB-NIR",
+        "coordinates": {
+            "lat": 54.292142,
+            "lng": -5.836565
+        },
+        "built": "12-13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/clough-castle",
+        "ownedBy": "State Care Historic Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d6d0a-bb30-721d-b925-4a6bf06eda04",
+        "name": "Dundrum Castle",
+        "region": "GB-NIR",
+        "coordinates": {
+            "lat": 54.261932,
+            "lng": -5.844958
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/dundrum-castle",
+        "ownedBy": "State Care Historic Monument",
+        "type": "Round Keep"
+    },
+    {
+        "id": "019d6d0a-bb30-721d-b925-5a465f3a35a8",
+        "name": "Dunluce Castle",
+        "region": "GB-NIR",
+        "coordinates": {
+            "lat": 55.210692,
+            "lng": -6.579606
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/dunluce-castle",
+        "ownedBy": "Northern Ireland Environment Agency",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d0a-bb30-721d-b925-4debd214e03a",
+        "name": "Greencastle",
+        "region": "GB-NIR",
+        "coordinates": {
+            "lat": 54.040933,
+            "lng": -6.097016
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/greencastle",
+        "ownedBy": "State Care Historic Monument",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d0a-bb30-721d-b925-535af73272e3",
+        "name": "Harry Avery's Castle",
+        "region": "GB-NIR",
+        "coordinates": {
+            "lat": 54.713352,
+            "lng": -7.39312
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/harry-averys-castle",
+        "ownedBy": "Northern Ireland Environment Agency",
+        "type": "Motte and Bailey"
+    }
+]
