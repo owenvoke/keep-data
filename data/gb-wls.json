@@ -13,6 +13,19 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d6d61-7386-73ba-8f97-74ccbac6c748",
+        "name": "Aberystwyth Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 52.413263,
+            "lng": -4.089427
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Local Council",
+        "type": "Round Keep"
+    },
+    {
         "id": "019d6947-63ce-7320-bd1b-4f3a9776b23a",
         "name": "Beaumaris Castle",
         "region": "GB-WLS",
@@ -68,6 +81,19 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d6d61-7386-73ba-8f97-8509ccc146a4",
+        "name": "Camarthen Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.856021,
+            "lng": -4.30569
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "ownedBy": "Local Council",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6d19-35f5-7365-8ae7-a8add9c5bc20",
         "name": "Cardiff Castle",
         "region": "GB-WLS",
@@ -80,6 +106,19 @@
         "homepage": "https://www.cardiffcastle.com",
         "ownedBy": "Cardiff Council",
         "type": "Shell Keep"
+    },
+    {
+        "id": "019d6d61-7386-73ba-8f97-796145f131d4",
+        "name": "Carew Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.69839,
+            "lng": -4.830036
+        },
+        "built": "13th Century",
+        "condition": "Partially Restored",
+        "ownedBy": "Carew Family",
+        "type": "Keepless"
     },
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a99c90bd9",
@@ -351,6 +390,19 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d6d61-7386-73ba-8f97-7320f392208b",
+        "name": "Crickhowell Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.857205,
+            "lng": -3.137105
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6947-63ce-7320-bd1b-4f3a9804a3df",
         "name": "Denbigh Castle",
         "region": "GB-WLS",
@@ -376,6 +428,19 @@
         "condition": "Ruins",
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/grosmont-castle",
         "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d61-7386-73ba-8f97-7e541133800c",
+        "name": "Haverfordwest Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.802578,
+            "lng": -4.970021
+        },
+        "built": "12-13th Century",
+        "condition": "Partially Restored",
+        "ownedBy": "Local Authority",
         "type": "Square Keep"
     },
     {
@@ -478,6 +543,19 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d6d61-7386-73ba-8f97-83ab567f433d",
+        "name": "Manorbier Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.645577,
+            "lng": -4.79934
+        },
+        "built": "12th Century",
+        "condition": "Partially Restored",
+        "ownedBy": "Private",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6947-63ce-7320-bd1b-4f3aa1eb4d9b",
         "name": "Monmouth Castle",
         "region": "GB-WLS",
@@ -517,6 +595,19 @@
         "condition": "Ruins",
         "ownedBy": "Unknown",
         "type": "Shell Keep"
+    },
+    {
+        "id": "019d6d61-7385-719a-bc4d-af35b8107b96",
+        "name": "Narbeth Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.796815,
+            "lng": -4.742466
+        },
+        "built": "12-13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Local Council",
+        "type": "Square Keep"
     },
     {
         "id": "019d6d16-4e5e-76cf-906a-a5c84172c034",
@@ -615,6 +706,20 @@
         "type": "Shell Keep"
     },
     {
+        "id": "019d6d61-7386-73ba-8f97-68594873d18d",
+        "name": "Roch Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.84919,
+            "lng": -5.079019
+        },
+        "built": "12th Century",
+        "condition": "Restored",
+        "homepage": "https://rochcastle.com",
+        "ownedBy": "Private",
+        "type": "Round Keep"
+    },
+    {
         "id": "019d6d19-35f5-7365-8ae7-a239209ca105",
         "name": "Skenfrith Castle",
         "region": "GB-WLS",
@@ -640,6 +745,19 @@
         "condition": "Ruins",
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/swansea-castle",
         "ownedBy": "Cadw",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d61-7386-73ba-8f97-6cfdd37debac",
+        "name": "Tenby Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.672535,
+            "lng": -4.694569
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
         "type": "Square Keep"
     },
     {
