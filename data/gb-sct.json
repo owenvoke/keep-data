@@ -166,6 +166,20 @@
         "type": "Keepless"
     },
     {
+        "id": "019d6da0-6e5b-74f8-bd89-14c8f9aa8161",
+        "name": "Falkland Palace",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 56.254327,
+            "lng": -3.205583
+        },
+        "built": "12th Century",
+        "condition": "Intact",
+        "homepage": "https://www.nts.org.uk/visit/places/falkland-palace",
+        "ownedBy": "National Trust for Scotland",
+        "type": "Palace"
+    },
+    {
         "id": "019d6d69-ab71-71be-943f-1d8ddb8900c6",
         "name": "Hailes Castle",
         "region": "GB-SCT",
@@ -388,6 +402,19 @@
         "homepage": "https://www.historicenvironment.scot/visit-a-place/places/st-andrews-castle",
         "ownedBy": "Historic Scotland",
         "type": "Keepless"
+    },
+    {
+        "id": "019d6da0-6e5b-74f8-bd89-1adab35f0941",
+        "name": "Strome Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 57.359181,
+            "lng": -5.555131
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "ownedBy": "National Trust for Scotland",
+        "type": "Square Keep"
     },
     {
         "id": "019d6d69-ab71-71be-943f-20e18e683e09",

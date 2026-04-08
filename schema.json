@@ -98,7 +98,9 @@
         "type": {
             "description": "The type of a castle or fortification.",
             "enum": [
+                "Artillery Fort",
                 "Concentric",
+                "Fort",
                 "Fragmented Remains",
                 "Keepless",
                 "Motte and Bailey",

@@ -115,6 +115,20 @@
         "type": "Motte and Bailey"
     },
     {
+        "id": "019d6da0-6e59-74dd-a527-ccdfd52353e0",
+        "name": "Bodiam Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.002266,
+            "lng": 0.543549
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.nationaltrust.org.uk/visit/sussex/bodiam-castle",
+        "ownedBy": "National Trust",
+        "type": "Keepless"
+    },
+    {
         "id": "019d6948-63cd-715f-909e-ad8e5373d829",
         "name": "Bolingbroke Castle",
         "region": "GB-ENG",
@@ -258,6 +272,20 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d6da0-6e59-74dd-a527-dfbd0ce3fd2c",
+        "name": "Chirk Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 52.935376,
+            "lng": -3.089684
+        },
+        "built": "13th Century",
+        "condition": "Intact",
+        "homepage": "https://www.nationaltrust.org.uk/visit/wales/chirk-castle",
+        "ownedBy": "National Trust",
+        "type": "Keepless"
+    },
+    {
         "id": "019d6948-63cd-715f-909e-ad8e60ae0032",
         "name": "Christchurch Castle",
         "region": "GB-ENG",
@@ -312,6 +340,33 @@
         "homepage": "https://www.english-heritage.org.uk/visit/places/conisbrough-castle",
         "ownedBy": "English Heritage",
         "type": "Round Keep"
+    },
+    {
+        "id": "019d6da0-6e59-74dd-a527-d1c044965f75",
+        "name": "Corfe Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.640129,
+            "lng": -2.058796
+        },
+        "built": "11-13th Century",
+        "condition": "Ruins",
+        "ownedBy": "National Trust",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6da0-6e59-74dd-a527-cbfc8ad639f8",
+        "name": "Croft Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 52.284361,
+            "lng": -2.80851
+        },
+        "built": "14th Century",
+        "condition": "Rebuilt",
+        "homepage": "https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/croft-castle-and-parkland",
+        "ownedBy": "National Trust",
+        "type": "Keepless"
     },
     {
         "id": "019d6948-63cd-715f-909e-ad8e4ffd0d34",
@@ -523,6 +578,20 @@
         "type": "Motte and Bailey"
     },
     {
+        "id": "019d6da0-6e59-74dd-a527-c409a4661102",
+        "name": "Lindisfarne Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 55.669062,
+            "lng": -1.784746
+        },
+        "built": "16th Century",
+        "condition": "Restored",
+        "homepage": "https://www.nationaltrust.org.uk/visit/north-east/lindisfarne-castle",
+        "ownedBy": "National Trust",
+        "type": "Artillery Fort"
+    },
+    {
         "id": "019d6948-63cd-715f-909e-ad8e55b6220b",
         "name": "Longtown Castle",
         "region": "GB-ENG",
@@ -562,6 +631,22 @@
         "condition": "Ruins",
         "homepage": "https://www.english-heritage.org.uk/visit/places/lydford-castle-and-saxon-town",
         "ownedBy": "English Heritage",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6da0-6e59-74dd-a527-d49e6db0926d",
+        "name": "Marisco Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.162877,
+            "lng": -4.659398
+        },
+        "alternativeNames": [
+            "Lundy Castle"
+        ],
+        "built": "13th Century",
+        "condition": "Restored",
+        "ownedBy": "National Trust",
         "type": "Keepless"
     },
     {
@@ -745,6 +830,19 @@
         "homepage": "https://www.english-heritage.org.uk/visit/places/piel-castle",
         "ownedBy": "English Heritage",
         "type": "Square Keep"
+    },
+    {
+        "id": "019d6da0-6e59-74dd-a527-d974c1f242ce",
+        "name": "Plympton Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.383713,
+            "lng": -4.048354
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "National Trust",
+        "type": "Motte and Bailey"
     },
     {
         "id": "019d6948-63cd-715f-909e-ad8e58d6ee8f",
