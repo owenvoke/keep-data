@@ -69,6 +69,19 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d6e33-1b59-748f-9e3f-68fdb0a383e1",
+        "name": "Castle Tioram",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 56.784636,
+            "lng": -5.829001
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6d69-ab71-71be-943f-31825f45d08f",
         "name": "Castle Varrich",
         "region": "GB-SCT",
@@ -235,6 +248,33 @@
         "type": "Keepless"
     },
     {
+        "id": "019d6e33-1b59-748f-9e3f-55a12c5251fb",
+        "name": "Inverallochy Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 57.656359,
+            "lng": -1.933232
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6e33-1b59-748f-9e3f-5c9418c8d526",
+        "name": "Kilchurn Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 56.403715,
+            "lng": -5.027404
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/kilchurn-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6d69-ab71-71be-943e-d1c47973568f",
         "name": "Kildrummy Castle",
         "region": "GB-SCT",
@@ -275,6 +315,20 @@
         "homepage": "https://www.historicenvironment.scot/visit-a-place/places/linlithgow-palace",
         "ownedBy": "Historic Scotland",
         "type": "Keepless"
+    },
+    {
+        "id": "019d6e33-1b59-748f-9e3f-59460b2e1fd0",
+        "name": "Loch Doon Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.225976,
+            "lng": -4.384875
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/loch-doon-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Round Keep"
     },
     {
         "id": "019d6d69-ab71-71be-943e-db13f329e9f0",
@@ -349,6 +403,20 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d6e33-1b59-748f-9e3f-6774a9d492b3",
+        "name": "Old Inverlochy Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 56.832303,
+            "lng": -5.082389
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/inverlochy-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6d69-ab71-71be-943e-d4cfda4b44e4",
         "name": "Pitsligo Castle",
         "region": "GB-SCT",
@@ -401,6 +469,20 @@
         "condition": "Ruins",
         "homepage": "https://www.historicenvironment.scot/visit-a-place/places/rothesay-castle",
         "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6e33-1b59-748f-9e3f-634460896119",
+        "name": "Skipness Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.768012,
+            "lng": -5.336341
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/skipness-castle-and-chapel",
+        "ownedBy": "Historic Environment Scotland",
         "type": "Square Keep"
     },
     {

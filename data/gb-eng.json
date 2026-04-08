@@ -1464,6 +1464,20 @@
         "type": "Shell Keep"
     },
     {
+        "id": "019d6e33-1b57-760e-a385-a6ebabb36cdb",
+        "name": "Tower of London",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.50811,
+            "lng": -0.07594
+        },
+        "built": "11-13th Century",
+        "condition": "Intact",
+        "homepage": "https://www.hrp.org.uk/tower-of-london",
+        "ownedBy": "Historic Royal Palaces",
+        "type": "Concentric"
+    },
+    {
         "id": "019d6948-63cd-715f-909e-ad8e47c5ef80",
         "name": "Tynemouth Castle",
         "region": "GB-ENG",
