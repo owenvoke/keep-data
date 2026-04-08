@@ -113,6 +113,7 @@
             "enum": [
                 "Fragmented Remains",
                 "Ruins",
+                "Partial Ruins",
                 "Partially Restored",
                 "Restored",
                 "Rebuilt",

@@ -1,1 +1,420 @@
-[]
+[
+    {
+        "id": "019d6d69-ab71-71be-943e-e178ecd6a795",
+        "name": "Aberdour Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 56.055239,
+            "lng": -3.298292
+        },
+        "built": "13th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/aberdour-castle-and-gardens",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943e-ee95224cd476",
+        "name": "Bothwell Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.809453,
+            "lng": -4.094924
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/bothwell-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Round Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-09ca73998280",
+        "name": "Caerlaverock Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 54.975693,
+            "lng": -3.524049
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/caerlaverock-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-3472e0751f13",
+        "name": "Calvay Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 57.143237,
+            "lng": -7.263722
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-04a85e7c585c",
+        "name": "Castle Sween",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.947927,
+            "lng": -5.665171
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/castle-sween",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-31825f45d08f",
+        "name": "Castle Varrich",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 58.475758,
+            "lng": -4.435435
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-16e82e6eafab",
+        "name": "Craigmillar Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.925653,
+            "lng": -3.140871
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/craigmillar-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943e-f1faa98c1e27",
+        "name": "Craignethan Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.558013,
+            "lng": -3.870873
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/craignethan-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943e-f624406e599a",
+        "name": "Crookston Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.835144,
+            "lng": -4.355865
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/crookston-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-185dbc468979",
+        "name": "Dirleton Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 56.045915,
+            "lng": -2.778152
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/dirleton-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943e-de82e816b4a4",
+        "name": "Doune Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 56.18526,
+            "lng": -4.050157
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/doune-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943e-fc25b4c55f0a",
+        "name": "Dunstaffnage Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 56.454689,
+            "lng": -5.43746
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/dunstaffnage-castle-and-chapel",
+        "ownedBy": "Historic Scotland",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-1d8ddb8900c6",
+        "name": "Hailes Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.973209,
+            "lng": -2.683114
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/hailes-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-41e70919ee86",
+        "name": "Hermitage Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.256034,
+            "lng": -2.793231
+        },
+        "built": "13th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/hermitage-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-446ec80b1c52",
+        "name": "Hume Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.665147,
+            "lng": -2.470937
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "ownedBy": "Historic Scotland",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943e-d1c47973568f",
+        "name": "Kildrummy Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 57.234555,
+            "lng": -2.904225
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/kildrummy-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-39f420629718",
+        "name": "Kisimul Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 56.952134,
+            "lng": -7.487481
+        },
+        "built": "11th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/kisimul-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-2795e248ff07",
+        "name": "Linlithgow Palace",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.978925,
+            "lng": -3.600841
+        },
+        "built": "12-17th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/linlithgow-palace",
+        "ownedBy": "Historic Scotland",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943e-db13f329e9f0",
+        "name": "Lochleven Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 56.200838,
+            "lng": -3.391997
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/lochleven-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-0e36dca57d04",
+        "name": "Lochmaben Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.116291,
+            "lng": -3.431293
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/lochmaben-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-2b96b9f46334",
+        "name": "Mingary Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 56.692829,
+            "lng": -6.080137
+        },
+        "alternativeNames": [
+            "Mingarry Castle"
+        ],
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-12f12a1c4b7f",
+        "name": "Morton Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.274477,
+            "lng": -3.747561
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/morton-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-3f69991b243f",
+        "name": "Muness Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 60.68874,
+            "lng": -0.84911
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/muness-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943e-d4cfda4b44e4",
+        "name": "Pitsligo Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 57.692336,
+            "lng": -2.106913
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943e-fb31c072b01b",
+        "name": "Portencross Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.699417,
+            "lng": -4.904999
+        },
+        "built": "14th Century",
+        "condition": "Restored",
+        "homepage": "https://portencrosscastle.org.uk",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943e-e4c83fbd5e32",
+        "name": "Ravenscraig Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 56.119906,
+            "lng": -3.142068
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/ravenscraig-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-022179d3fe07",
+        "name": "Rothesay Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 55.836492,
+            "lng": -5.055103
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/rothesay-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943e-eabae077ce71",
+        "name": "St Andrews Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 56.342024,
+            "lng": -2.790305
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/st-andrews-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-20e18e683e09",
+        "name": "Tantallon Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 56.056359,
+            "lng": -2.650621
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/tantallon-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Keepless"
+    },
+    {
+        "id": "019d6d69-ab71-71be-943f-2d13431ffae8",
+        "name": "Urquhart Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 57.32414,
+            "lng": -4.442001
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/urquhart-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    }
+]
