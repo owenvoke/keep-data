@@ -63,21 +63,13 @@ function toEntrySection (entry) {
         throw new Error('Expected each JSON entry to be an object')
     }
 
-    const heading = typeof entry.name === 'string' && entry.name.trim().length > 0
-        ? entry.name.trim()
-        : '(Unnamed)'
-    const anchor = typeof entry.id === 'string' && entry.id.trim().length > 0
-        ? entry.id.trim()
-        : ''
-    const anchorTag = anchor ? `<a id="${escapeInline(anchor)}"></a> ` : ''
-
     const rows = Object.entries(entry).map(([key, value]) => {
         const field = `**${escapeInline(toTitleCase(key))}**`
         return `| ${field} | ${formatValue(key, value)} |`
     })
 
     return [
-        `## ${anchorTag}${escapeInline(heading)}`,
+        `## <a id="${entry.id}"></a> [${entry.name}](#${entry.id})`,
         '',
         '| Field | Value |',
         '| --- | --- |',
