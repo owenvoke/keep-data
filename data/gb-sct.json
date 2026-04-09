@@ -137,6 +137,19 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d72a8-a3cc-7761-bcc6-3080e73d35e8",
+        "name": "Delgatie Castle",
+        "region": "GB-SCT",
+        "coordinates": {
+            "lat": 57.544012,
+            "lng": -2.412068
+        },
+        "built": "11th Century",
+        "condition": "Intact",
+        "ownedBy": "Delgatie Castle Trust",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6d69-ab71-71be-943f-185dbc468979",
         "name": "Dirleton Castle",
         "region": "GB-SCT",

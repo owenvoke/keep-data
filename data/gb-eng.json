@@ -53,6 +53,20 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d72a8-a3ca-7120-80ac-d3a1446caaa0",
+        "name": "Arundel Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.856297,
+            "lng": -0.553908
+        },
+        "built": "12-13th Century",
+        "condition": "Restored",
+        "homepage": "https://www.arundelcastle.org",
+        "ownedBy": "Duke of Norfolk",
+        "type": "Shell Keep"
+    },
+    {
         "id": "019d6948-63cd-715f-909e-ad8e53bbe335",
         "name": "Ashby De La Zouch Castle",
         "region": "GB-ENG",
@@ -413,6 +427,19 @@
         "type": "Keepless"
     },
     {
+        "id": "019d72a8-a3ca-7120-80ac-a931612a973c",
+        "name": "Canterbury Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.275651,
+            "lng": 1.074652
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "ownedBy": "Local Authority",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6948-63cd-715f-909e-ad8e599be4ae",
         "name": "Carisbrooke Castle",
         "region": "GB-ENG",
@@ -509,6 +536,19 @@
         "homepage": "https://www.english-heritage.org.uk/visit/places/chester-castle-agricola-tower-and-castle-walls",
         "ownedBy": "English Heritage",
         "type": "Square Keep"
+    },
+    {
+        "id": "019d72a8-a3ca-7120-80ac-af68655827a1",
+        "name": "Chillham Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.242886,
+            "lng": 0.959116
+        },
+        "built": "11-14th Century",
+        "condition": "Intact",
+        "ownedBy": "National Garden Scheme",
+        "type": "Round Keep"
     },
     {
         "id": "019d6e1e-1269-77ab-bd88-782c17fe4001",
@@ -657,6 +697,19 @@
         "homepage": "https://www.english-heritage.org.uk/visit/places/conisbrough-castle",
         "ownedBy": "English Heritage",
         "type": "Round Keep"
+    },
+    {
+        "id": "019d72a8-a3ca-7120-80ac-b03832224ef3",
+        "name": "Cooling Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.455223,
+            "lng": 0.522411
+        },
+        "built": "14th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Square Keep"
     },
     {
         "id": "019d6da0-6e59-74dd-a527-d1c044965f75",
@@ -905,6 +958,20 @@
         "type": "Concentric"
     },
     {
+        "id": "019d72a8-a3ca-7120-80ac-ce6e9010096e",
+        "name": "Guildford Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.234293,
+            "lng": -0.572391
+        },
+        "built": "12-13th Century",
+        "condition": "Ruins",
+        "homepage": "https://guildford.gov.uk/castle",
+        "ownedBy": "Local Authority",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6e1e-1269-77ab-bd88-9b0a4162b752",
         "name": "Hadleigh Castle",
         "region": "GB-ENG",
@@ -942,6 +1009,19 @@
         "built": "12-14th Century",
         "condition": "Fragmented Remains",
         "ownedBy": "Northumberland National Park",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d72a8-a3ca-7120-80ac-9ca153215f08",
+        "name": "Hastings Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.85604,
+            "lng": 0.584875
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Local Authority",
         "type": "Motte and Bailey"
     },
     {
@@ -1050,6 +1130,19 @@
         "homepage": "https://www.english-heritage.org.uk/visit/places/launceston-castle",
         "ownedBy": "English Heritage",
         "type": "Shell Keep"
+    },
+    {
+        "id": "019d72a8-a3ca-7120-80ac-b52a82c0f8a1",
+        "name": "Leeds Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.24899,
+            "lng": 0.630465
+        },
+        "built": "12-15th Century",
+        "condition": "Restored",
+        "ownedBy": "Leeds Castle Foundation",
+        "type": "Keepless"
     },
     {
         "id": "019d727e-b3b5-769c-a8eb-bcb8cabe30e4",
@@ -1353,6 +1446,19 @@
         "type": "Motte and Bailey"
     },
     {
+        "id": "019d72a8-a3ca-7120-80ac-a1e4f21fe14f",
+        "name": "Odiham Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.261358,
+            "lng": -0.961668
+        },
+        "built": "13th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Local Authority",
+        "type": "Shell Keep"
+    },
+    {
         "id": "019d6948-63cd-715f-909e-ad8e623a0e0e",
         "name": "Okehampton Castle",
         "region": "GB-ENG",
@@ -1364,6 +1470,19 @@
         "condition": "Fragmented Remains",
         "homepage": "https://www.english-heritage.org.uk/visit/places/okehampton-castle",
         "ownedBy": "English Heritage",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d72a8-a3ca-7120-80ac-d4e05aee5127",
+        "name": "Old Knepp Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.97572,
+            "lng": -0.343906
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
         "type": "Motte and Bailey"
     },
     {
@@ -1407,6 +1526,19 @@
         "homepage": "https://www.english-heritage.org.uk/visit/places/orford-castle",
         "ownedBy": "English Heritage",
         "type": "Square Keep"
+    },
+    {
+        "id": "019d72a8-a3ca-7120-80ac-c314d299b0ed",
+        "name": "Oxford Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.751618,
+            "lng": -1.263274
+        },
+        "built": "11-12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Local Authority",
+        "type": "Round Keep"
     },
     {
         "id": "019d727e-b3b5-769c-a8eb-d7169f6315ce",
@@ -1656,6 +1788,35 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d72a8-a3ca-7120-80ac-e3e595426e05",
+        "name": "Rufus Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.539527,
+            "lng": -2.428236
+        },
+        "alternativeNames": [
+            "Bow and Arrow Castle"
+        ],
+        "built": "15th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d72a8-a3ca-7120-80ac-b8e1e20060ea",
+        "name": "Saltwood Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.081804,
+            "lng": 1.084987
+        },
+        "built": "12-14th Century",
+        "condition": "Restored",
+        "ownedBy": "Private",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d727e-b3b4-734e-b6ac-e0ef741c5981",
         "name": "Sandal Castle",
         "region": "GB-ENG",
@@ -1694,6 +1855,19 @@
         "condition": "Fragmented Remains",
         "ownedBy": "Private",
         "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d72a8-a3ca-7120-80ac-c70e044d73da",
+        "name": "Shirburn Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.658353,
+            "lng": -0.994421
+        },
+        "built": "14th Century",
+        "condition": "Rebuilt",
+        "ownedBy": "Private",
+        "type": "Keepless"
     },
     {
         "id": "019d727e-b3b5-769c-a8eb-f11a41ae5fe0",
@@ -1803,6 +1977,19 @@
         "type": "Shell Keep"
     },
     {
+        "id": "019d72a8-a3ca-7120-80ac-d99862994014",
+        "name": "Taunton Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.015638,
+            "lng": -3.104593
+        },
+        "built": "13th Century",
+        "condition": "Restored",
+        "ownedBy": "Museum of Somerset",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6e1e-1269-77ab-bd88-8de66ec3e4b6",
         "name": "Thirlwall Castle",
         "region": "GB-ENG",
@@ -1843,6 +2030,19 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d72a8-a3ca-7120-80ac-bf9f81e2d969",
+        "name": "Tonbridge Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.196298,
+            "lng": 0.273495
+        },
+        "built": "11-13th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Local Authority",
+        "type": "Motte and Bailey"
+    },
+    {
         "id": "019d6948-63cd-715f-909e-ad8e6297c66d",
         "name": "Totnes Castle",
         "region": "GB-ENG",
@@ -1869,6 +2069,19 @@
         "homepage": "https://www.hrp.org.uk/tower-of-london",
         "ownedBy": "Historic Royal Palaces",
         "type": "Concentric"
+    },
+    {
+        "id": "019d72a8-a3ca-7120-80ac-e6e2e130ee9b",
+        "name": "Trematon Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 50.400412,
+            "lng": -4.237713
+        },
+        "built": "12-13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Duchy of Cornwall",
+        "type": "Shell Keep"
     },
     {
         "id": "019d727e-b3b5-769c-a8ec-068a56524492",
@@ -1911,6 +2124,19 @@
         "type": "Shell Keep"
     },
     {
+        "id": "019d72a8-a3ca-7120-80ac-caf1485eb0c4",
+        "name": "Wallingford Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.603239,
+            "lng": -1.121442
+        },
+        "built": "11-13th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Local Authority",
+        "type": "Shell Keep"
+    },
+    {
         "id": "019d6948-63cd-715f-909e-ad8e47a2f909",
         "name": "Warkworth Castle",
         "region": "GB-ENG",
@@ -1937,6 +2163,19 @@
         "homepage": "https://www.warwick-castle.com",
         "ownedBy": "Merlin Entertainments",
         "type": "Keepless"
+    },
+    {
+        "id": "019d72a8-a3ca-7120-80ac-dda283b9d55a",
+        "name": "Wells Bishop Palace",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.209038,
+            "lng": -2.642617
+        },
+        "built": "13-15th Century",
+        "condition": "Intact",
+        "ownedBy": "Church of England",
+        "type": "Palace"
     },
     {
         "id": "019d727e-b3b5-769c-a8eb-f7fe974de12c",
@@ -1989,6 +2228,19 @@
         "built": "13th Century",
         "condition": "Fragmented Remains",
         "ownedBy": "Private",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d72a8-a3ca-7120-80ac-a77e0cc0682d",
+        "name": "Winchester Castle",
+        "region": "GB-ENG",
+        "coordinates": {
+            "lat": 51.06334,
+            "lng": -1.319467
+        },
+        "built": "11-13th Century",
+        "condition": "Intact",
+        "ownedBy": "Local Authority",
         "type": "Square Keep"
     },
     {
