@@ -40,6 +40,19 @@
         "type": "Concentric"
     },
     {
+        "id": "019d72bd-61f5-779b-8c35-e5104176a853",
+        "name": "Brecon Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.948767,
+            "lng": -3.393658
+        },
+        "built": "11th Century",
+        "condition": "Ruins",
+        "ownedBy": "Hotel",
+        "type": "Shell Keep"
+    },
+    {
         "id": "019d6d16-4e5e-76cf-906a-99a6a0809a98",
         "name": "Caerleon Castle",
         "region": "GB-WLS",
@@ -121,6 +134,19 @@
         "type": "Keepless"
     },
     {
+        "id": "019d72bd-61f5-779b-8c35-c9434bfeff77",
+        "name": "Castel Aberlleiniog",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.292575,
+            "lng": -4.077266
+        },
+        "built": "13th Century",
+        "condition": "Partially Restored",
+        "ownedBy": "Menter MÃ´n",
+        "type": "Motte and Bailey"
+    },
+    {
         "id": "019d6947-63ce-7320-bd1b-4f3a99c90bd9",
         "name": "Castell Bronllys",
         "region": "GB-WLS",
@@ -133,6 +159,23 @@
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-bronllys",
         "ownedBy": "Cadw",
         "type": "Round Keep"
+    },
+    {
+        "id": "019d72bd-61f5-779b-8c35-d6576c1f4bd8",
+        "name": "Castell Caergwrle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.107197,
+            "lng": -3.037084
+        },
+        "alternativeNames": [
+            "Queen's Hope"
+        ],
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-caergwrle",
+        "ownedBy": "Cadw",
+        "type": "Square Keep"
     },
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a95376045",
@@ -234,6 +277,19 @@
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-cricieth",
         "ownedBy": "Cadw",
         "type": "Round Keep"
+    },
+    {
+        "id": "019d72bd-61f5-779b-8c35-cdd7c7152bf7",
+        "name": "Castell Dinas Bran",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 52.97933,
+            "lng": -3.158883
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Local Council",
+        "type": "Square Keep"
     },
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9d9fbec9",
@@ -417,6 +473,33 @@
         "type": "Round Keep"
     },
     {
+        "id": "019d72bd-61f5-779b-8c35-ebab647e37bd",
+        "name": "Emlyn Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 52.039112,
+            "lng": -4.463225
+        },
+        "built": "13th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Private",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d72bd-61f5-779b-8c35-d992e45ac617",
+        "name": "Flint Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.251757,
+            "lng": -3.129905
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/flint-castle",
+        "ownedBy": "Cadw",
+        "type": "Round Keep"
+    },
+    {
         "id": "019d6947-63ce-7320-bd1b-4f3aa1839b14",
         "name": "Grosmont Castle",
         "region": "GB-WLS",
@@ -442,6 +525,32 @@
         "condition": "Partially Restored",
         "ownedBy": "Local Authority",
         "type": "Square Keep"
+    },
+    {
+        "id": "019d72bd-61f5-779b-8c35-dd023324693e",
+        "name": "Hawarden Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.180859,
+            "lng": -3.020021
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Gladstone Estate",
+        "type": "Round Keep"
+    },
+    {
+        "id": "019d72bd-61f5-779b-8c35-e175513ad592",
+        "name": "Holt Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.077894,
+            "lng": -2.880244
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Local Council",
+        "type": "Keepless"
     },
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa4616dd8",
@@ -692,6 +801,32 @@
         "type": "Round Keep"
     },
     {
+        "id": "019d72bd-61f5-779b-8c35-ed4ca99a667e",
+        "name": "Pennard Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.576561,
+            "lng": -4.102233
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "ownedBy": "Pennard Golf Course",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019d72bd-61f5-779b-8c35-f06b25ae938d",
+        "name": "Penrice Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.575192,
+            "lng": -4.170281
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Methuen-Campbell Family",
+        "type": "Round Keep"
+    },
+    {
         "id": "019d6947-63ce-7320-bd1b-4f3aa25b6cbc",
         "name": "Raglan Castle",
         "region": "GB-WLS",
@@ -720,6 +855,19 @@
         "type": "Round Keep"
     },
     {
+        "id": "019d72bd-61f5-779b-8c35-d3523e630700",
+        "name": "Ruthin Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 53.112834,
+            "lng": -3.310365
+        },
+        "built": "13th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Ruthin Castle Hotel",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6d19-35f5-7365-8ae7-a239209ca105",
         "name": "Skenfrith Castle",
         "region": "GB-WLS",
@@ -732,6 +880,19 @@
         "homepage": "https://www.nationaltrust.org.uk/visit/wales/skenfrith-castle",
         "ownedBy": "National Trust",
         "type": "Round Keep"
+    },
+    {
+        "id": "019d72bd-61f5-779b-8c35-f69b4c6fe716",
+        "name": "St Donat's Castle",
+        "region": "GB-WLS",
+        "coordinates": {
+            "lat": 51.401829,
+            "lng": -3.533094
+        },
+        "built": "12th Century",
+        "condition": "Partially Restored",
+        "ownedBy": "Atlantic College",
+        "type": "Square Keep"
     },
     {
         "id": "019d6d0e-be90-7199-a90f-55c24dedaea6",

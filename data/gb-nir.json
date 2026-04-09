@@ -96,5 +96,18 @@
         "homepage": "https://www.communities-ni.gov.uk/heritage-sites/harry-averys-castle",
         "ownedBy": "Northern Ireland Environment Agency",
         "type": "Motte and Bailey"
+    },
+    {
+        "id": "019d72bd-61f3-7608-962b-f45bc1874971",
+        "name": "Killyleagh Castle",
+        "region": "GB-NIR",
+        "coordinates": {
+            "lat": 54.401835,
+            "lng": -5.65321
+        },
+        "built": "12th Century",
+        "condition": "Intact",
+        "ownedBy": "Hamilton Family",
+        "type": "Square Keep"
     }
 ]
