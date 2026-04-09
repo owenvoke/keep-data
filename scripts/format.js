@@ -7,6 +7,8 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 const dataDir = path.resolve(__dirname, '..', 'data')
 
+import { reportError, reportInfo, reportWarning } from './utils.js'
+
 function isUuidV7 (value) {
     return typeof value === 'string' && isUuid(value) && uuidVersion(value) ===
         7
@@ -90,11 +92,16 @@ async function main () {
         }
     }
 
-    console.log(
+    reportInfo(
         `Processed ${files.length} file(s). Updated ${updatedFiles}. Generated ${generatedIds} id(s).`)
+
+    if (generatedIds > 0) {
+        reportWarning(`Generated ${generatedIds} UUIDv7 id(s) while formatting data.`)
+    }
 }
 
 main().catch((error) => {
-    console.error(error instanceof Error ? error.message : error)
+    const message = error instanceof Error ? error.message : String(error)
+    reportError(message)
     process.exitCode = 1
 })

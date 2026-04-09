@@ -11,6 +11,7 @@
         "format": "npm run clean && node scripts/format.js",
         "markdown": "node scripts/generate-markdown.js",
         "build": "npm run clean && npm run markdown && jq -s add data/*.json > data/gb.json",
+        "test:duplicates": "node scripts/detect-duplicates.js",
         "test:schema": "npm run clean && ajv validate -c ajv-formats -s schema.json -d 'data/*.json'"
     }
 }
