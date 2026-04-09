@@ -23,6 +23,65 @@ function getCoordinateKey (entry) {
     return `${lat},${lng}`
 }
 
+function getCoordinates (record) {
+    const key = record.coordinateKey
+    if (!key || key === '__missing__') {
+        return null
+    }
+
+    const [latRaw, lngRaw] = key.split(',')
+    const lat = Number(latRaw)
+    const lng = Number(lngRaw)
+
+    if (!Number.isFinite(lat) || !Number.isFinite(lng)) {
+        return null
+    }
+
+    return { lat, lng }
+}
+
+function getDistanceKm (a, b) {
+    const toRadians = (value) => (value * Math.PI) / 180
+    const earthRadiusKm = 6371
+
+    const dLat = toRadians(b.lat - a.lat)
+    const dLng = toRadians(b.lng - a.lng)
+    const lat1 = toRadians(a.lat)
+    const lat2 = toRadians(b.lat)
+
+    const haversine =
+        Math.sin(dLat / 2) ** 2 +
+        Math.cos(lat1) * Math.cos(lat2) * Math.sin(dLng / 2) ** 2
+
+    return 2 * earthRadiusKm * Math.atan2(Math.sqrt(haversine), Math.sqrt(1 - haversine))
+}
+
+function hasNearbyDistinctCoordinates (records, thresholdKm) {
+    const recordsWithCoordinates = records.
+        map((record) => ({
+            record,
+            coordinates: getCoordinates(record),
+        })).
+        filter((item) => item.coordinates !== null)
+
+    for (let i = 0; i < recordsWithCoordinates.length; i += 1) {
+        const current = recordsWithCoordinates[i]
+        for (let j = i + 1; j < recordsWithCoordinates.length; j += 1) {
+            const candidate = recordsWithCoordinates[j]
+            if (current.record.coordinateKey === candidate.record.coordinateKey) {
+                continue
+            }
+
+            const distanceKm = getDistanceKm(current.coordinates, candidate.coordinates)
+            if (distanceKm <= thresholdKm) {
+                return true
+            }
+        }
+    }
+
+    return false
+}
+
 function formatRecord (record) {
     const coords = record.coordinateKey ?? 'missing coordinates'
     return `${record.name} (${coords}) in ${record.file} [id=${record.id}]`
@@ -95,7 +154,8 @@ async function main () {
 
         if (byCoordinates.size > 1) {
             const filesInGroup = new Set(records.map((record) => record.file))
-            if (filesInGroup.size === 1) {
+            const hasNearbyCoordinates = hasNearbyDistinctCoordinates(records, 1)
+            if (filesInGroup.size === 1 && hasNearbyCoordinates) {
                 possibleDuplicates.push(records)
             }
         }
