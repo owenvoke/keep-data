@@ -154,7 +154,7 @@ async function main () {
 
         if (byCoordinates.size > 1) {
             const filesInGroup = new Set(records.map((record) => record.file))
-            const hasNearbyCoordinates = hasNearbyDistinctCoordinates(records, 1)
+            const hasNearbyCoordinates = hasNearbyDistinctCoordinates(records, 5)
             if (filesInGroup.size === 1 && hasNearbyCoordinates) {
                 possibleDuplicates.push(records)
             }
