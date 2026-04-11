@@ -4,8 +4,8 @@
         "name": "Carrickfergus Castle",
         "region": "GB-NIR",
         "coordinates": {
-            "lat": 54.71367,
-            "lng": -5.806411
+            "latitude": 54.71367,
+            "longitude": -5.806411
         },
         "built": "12th Century",
         "condition": "Intact",
@@ -18,8 +18,8 @@
         "name": "Castle Balfour",
         "region": "GB-NIR",
         "coordinates": {
-            "lat": 54.250624,
-            "lng": -7.445246
+            "latitude": 54.250624,
+            "longitude": -7.445246
         },
         "built": "17th Century",
         "condition": "Ruins",
@@ -32,8 +32,8 @@
         "name": "Clough Castle",
         "region": "GB-NIR",
         "coordinates": {
-            "lat": 54.292142,
-            "lng": -5.836565
+            "latitude": 54.292142,
+            "longitude": -5.836565
         },
         "built": "12-13th Century",
         "condition": "Ruins",
@@ -46,8 +46,8 @@
         "name": "Dundrum Castle",
         "region": "GB-NIR",
         "coordinates": {
-            "lat": 54.261932,
-            "lng": -5.844958
+            "latitude": 54.261932,
+            "longitude": -5.844958
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -60,8 +60,8 @@
         "name": "Dunluce Castle",
         "region": "GB-NIR",
         "coordinates": {
-            "lat": 55.210692,
-            "lng": -6.579606
+            "latitude": 55.210692,
+            "longitude": -6.579606
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -74,8 +74,8 @@
         "name": "Greencastle",
         "region": "GB-NIR",
         "coordinates": {
-            "lat": 54.040933,
-            "lng": -6.097016
+            "latitude": 54.040933,
+            "longitude": -6.097016
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -88,8 +88,8 @@
         "name": "Harry Avery's Castle",
         "region": "GB-NIR",
         "coordinates": {
-            "lat": 54.713352,
-            "lng": -7.39312
+            "latitude": 54.713352,
+            "longitude": -7.39312
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -102,8 +102,8 @@
         "name": "Killyleagh Castle",
         "region": "GB-NIR",
         "coordinates": {
-            "lat": 54.401835,
-            "lng": -5.65321
+            "latitude": 54.401835,
+            "longitude": -5.65321
         },
         "built": "12th Century",
         "condition": "Intact",

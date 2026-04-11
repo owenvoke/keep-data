@@ -4,8 +4,8 @@
         "name": "Acre Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.703551,
-            "lng": 0.69068
+            "latitude": 52.703551,
+            "longitude": 0.69068
         },
         "built": "11-12th Century",
         "condition": "Fragmented Remains",
@@ -18,8 +18,8 @@
         "name": "Alberbury Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.723407,
-            "lng": -2.952014
+            "latitude": 52.723407,
+            "longitude": -2.952014
         },
         "built": "13th Century",
         "condition": "Fragmented Remains",
@@ -31,8 +31,8 @@
         "name": "Alnwick Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.415583,
-            "lng": -1.70592
+            "latitude": 55.415583,
+            "longitude": -1.70592
         },
         "built": "12-14th Century",
         "condition": "Restored",
@@ -44,8 +44,8 @@
         "name": "Appleby Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.573601,
-            "lng": -2.488371
+            "latitude": 54.573601,
+            "longitude": -2.488371
         },
         "built": "12-17th Century",
         "condition": "Restored",
@@ -57,8 +57,8 @@
         "name": "Arundel Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.856297,
-            "lng": -0.553908
+            "latitude": 50.856297,
+            "longitude": -0.553908
         },
         "built": "12-13th Century",
         "condition": "Restored",
@@ -71,8 +71,8 @@
         "name": "Ashby De La Zouch Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.746558,
-            "lng": -1.466471
+            "latitude": 52.746558,
+            "longitude": -1.466471
         },
         "built": "12-15th Century",
         "condition": "Fragmented Remains",
@@ -85,8 +85,8 @@
         "name": "Auckland Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.66671,
-            "lng": -1.67147
+            "latitude": 54.66671,
+            "longitude": -1.67147
         },
         "alternativeNames": [
             "Auckland Palace"
@@ -101,8 +101,8 @@
         "name": "Bamburgh Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.60896,
-            "lng": -1.7099
+            "latitude": 55.60896,
+            "longitude": -1.7099
         },
         "built": "12-14th Century",
         "condition": "Restored",
@@ -114,8 +114,8 @@
         "name": "Barnard Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.54362,
-            "lng": -1.92644
+            "latitude": 54.54362,
+            "longitude": -1.92644
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -128,8 +128,8 @@
         "name": "Barnwell Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.454943,
-            "lng": -0.457417
+            "latitude": 52.454943,
+            "longitude": -0.457417
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -141,8 +141,8 @@
         "name": "Beeston Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.126792,
-            "lng": -2.688797
+            "latitude": 53.126792,
+            "longitude": -2.688797
         },
         "built": "13-14th Century",
         "condition": "Ruins",
@@ -155,8 +155,8 @@
         "name": "Berkeley Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.688587,
-            "lng": -2.456694
+            "latitude": 51.688587,
+            "longitude": -2.456694
         },
         "built": "12-14th Century",
         "condition": "Intact",
@@ -169,8 +169,8 @@
         "name": "Berkhamsted Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.764232,
-            "lng": -0.55916
+            "latitude": 51.764232,
+            "longitude": -0.55916
         },
         "built": "11-13th Century",
         "condition": "Fragmented Remains",
@@ -183,8 +183,8 @@
         "name": "Berry Pomeroy Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.449,
-            "lng": -3.636595
+            "latitude": 50.449,
+            "longitude": -3.636595
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -197,8 +197,8 @@
         "name": "Berwick Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.773646,
-            "lng": -2.012935
+            "latitude": 55.773646,
+            "longitude": -2.012935
         },
         "alternativeNames": [
             "Berwick-upon-Tweed Castle"
@@ -214,8 +214,8 @@
         "name": "Bewcastle Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.064678,
-            "lng": -2.681619
+            "latitude": 55.064678,
+            "longitude": -2.681619
         },
         "built": "14-15th Century",
         "condition": "Fragmented Remains",
@@ -227,8 +227,8 @@
         "name": "Bodiam Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.002266,
-            "lng": 0.543549
+            "latitude": 51.002266,
+            "longitude": 0.543549
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -241,8 +241,8 @@
         "name": "Bolingbroke Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.16502,
-            "lng": -0.018036
+            "latitude": 53.16502,
+            "longitude": -0.018036
         },
         "built": "13-14th Century",
         "condition": "Fragmented Remains",
@@ -255,8 +255,8 @@
         "name": "Bolsover Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.231301,
-            "lng": -1.297124
+            "latitude": 53.231301,
+            "longitude": -1.297124
         },
         "built": "12-17th Century",
         "condition": "Rebuilt",
@@ -269,8 +269,8 @@
         "name": "Bolton Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.322143,
-            "lng": -1.949515
+            "latitude": 54.322143,
+            "longitude": -1.949515
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -282,8 +282,8 @@
         "name": "Bothal Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.172421,
-            "lng": -1.624995
+            "latitude": 55.172421,
+            "longitude": -1.624995
         },
         "accessible": false,
         "built": "14th Century",
@@ -296,8 +296,8 @@
         "name": "Bowes Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.51695,
-            "lng": -2.01317
+            "latitude": 54.51695,
+            "longitude": -2.01317
         },
         "built": "12th Century",
         "condition": "Fragmented Remains",
@@ -310,8 +310,8 @@
         "name": "Bramber Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.883231,
-            "lng": -0.315642
+            "latitude": 50.883231,
+            "longitude": -0.315642
         },
         "built": "11-12th Century",
         "condition": "Fragmented Remains",
@@ -324,8 +324,8 @@
         "name": "Brampton Bryan Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.347615,
-            "lng": -2.925783
+            "latitude": 52.347615,
+            "longitude": -2.925783
         },
         "built": "13-14th Century",
         "condition": "Ruins",
@@ -337,8 +337,8 @@
         "name": "Brancepeth Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.73379,
-            "lng": -1.65474
+            "latitude": 54.73379,
+            "longitude": -1.65474
         },
         "built": "12-19th Century",
         "condition": "Rebuilt",
@@ -350,8 +350,8 @@
         "name": "Bridgnorth Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.532166,
-            "lng": -2.419324
+            "latitude": 52.532166,
+            "longitude": -2.419324
         },
         "built": "12th Century",
         "condition": "Fragmented Remains",
@@ -363,8 +363,8 @@
         "name": "Brough Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.521704,
-            "lng": -2.323458
+            "latitude": 54.521704,
+            "longitude": -2.323458
         },
         "built": "11-14th Century",
         "condition": "Ruins",
@@ -377,8 +377,8 @@
         "name": "Brougham Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.654151,
-            "lng": -2.718714
+            "latitude": 54.654151,
+            "longitude": -2.718714
         },
         "built": "13-14th Century",
         "condition": "Ruins",
@@ -391,8 +391,8 @@
         "name": "Bungay Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.455904,
-            "lng": 1.435977
+            "latitude": 52.455904,
+            "longitude": 1.435977
         },
         "built": "12-13th Century",
         "condition": "Fragmented Remains",
@@ -404,8 +404,8 @@
         "name": "Bywell Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.950671,
-            "lng": -1.924449
+            "latitude": 54.950671,
+            "longitude": -1.924449
         },
         "accessible": false,
         "built": "15th Century",
@@ -418,8 +418,8 @@
         "name": "Caister Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.650628,
-            "lng": 1.70205
+            "latitude": 52.650628,
+            "longitude": 1.70205
         },
         "built": "15th Century",
         "condition": "Fragmented Remains",
@@ -431,8 +431,8 @@
         "name": "Canterbury Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.275651,
-            "lng": 1.074652
+            "latitude": 51.275651,
+            "longitude": 1.074652
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -444,8 +444,8 @@
         "name": "Carisbrooke Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.687345,
-            "lng": -1.313459
+            "latitude": 50.687345,
+            "longitude": -1.313459
         },
         "built": "12-14th Century",
         "condition": "Intact",
@@ -458,8 +458,8 @@
         "name": "Carlisle Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.896975,
-            "lng": -2.941774
+            "latitude": 54.896975,
+            "longitude": -2.941774
         },
         "built": "12-15th Century",
         "condition": "Intact",
@@ -472,8 +472,8 @@
         "name": "Cartington Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.335061,
-            "lng": -1.941673
+            "latitude": 55.335061,
+            "longitude": -1.941673
         },
         "built": "12-14th Century",
         "condition": "Fragmented Remains",
@@ -485,8 +485,8 @@
         "name": "Castle Rising",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.793481,
-            "lng": 0.469382
+            "latitude": 52.793481,
+            "longitude": 0.469382
         },
         "alternativeNames": [
             "Rising Castle"
@@ -502,8 +502,8 @@
         "name": "Cawood Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.832336,
-            "lng": -1.129429
+            "latitude": 53.832336,
+            "longitude": -1.129429
         },
         "built": "14th Century",
         "condition": "Fragmented Remains",
@@ -515,8 +515,8 @@
         "name": "Chartley Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.854104,
-            "lng": -1.986162
+            "latitude": 52.854104,
+            "longitude": -1.986162
         },
         "built": "11-13th Century",
         "condition": "Fragmented Remains",
@@ -528,8 +528,8 @@
         "name": "Chester Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.185309,
-            "lng": -2.892416
+            "latitude": 53.185309,
+            "longitude": -2.892416
         },
         "built": "12th Century",
         "condition": "Fragmented Remains",
@@ -542,8 +542,8 @@
         "name": "Chillham Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.242886,
-            "lng": 0.959116
+            "latitude": 51.242886,
+            "longitude": 0.959116
         },
         "built": "11-14th Century",
         "condition": "Intact",
@@ -555,8 +555,8 @@
         "name": "Chillingham Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.525822,
-            "lng": -1.904336
+            "latitude": 55.525822,
+            "longitude": -1.904336
         },
         "built": "14th Century",
         "condition": "Intact",
@@ -568,8 +568,8 @@
         "name": "Chirk Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.935376,
-            "lng": -3.089684
+            "latitude": 52.935376,
+            "longitude": -3.089684
         },
         "built": "13th Century",
         "condition": "Intact",
@@ -582,8 +582,8 @@
         "name": "Christchurch Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.733352,
-            "lng": -1.77501
+            "latitude": 50.733352,
+            "longitude": -1.77501
         },
         "built": "12-14th Century",
         "condition": "Fragmented Remains",
@@ -596,8 +596,8 @@
         "name": "Clare Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.076914,
-            "lng": 0.582057
+            "latitude": 52.076914,
+            "longitude": 0.582057
         },
         "built": "11th Century",
         "condition": "Fragmented Remains",
@@ -609,8 +609,8 @@
         "name": "Clifford Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.104293,
-            "lng": -3.105641
+            "latitude": 52.104293,
+            "longitude": -3.105641
         },
         "built": "11-13th Century",
         "condition": "Fragmented Remains",
@@ -622,8 +622,8 @@
         "name": "Cliffords Tower",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.95582,
-            "lng": -1.07994
+            "latitude": 53.95582,
+            "longitude": -1.07994
         },
         "built": "13th Century",
         "condition": "Restored",
@@ -636,8 +636,8 @@
         "name": "Clitheroe Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.870825,
-            "lng": -2.393121
+            "latitude": 53.870825,
+            "longitude": -2.393121
         },
         "built": "11-12th Century",
         "condition": "Ruins",
@@ -649,8 +649,8 @@
         "name": "Clun Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.422083,
-            "lng": -3.03303
+            "latitude": 52.422083,
+            "longitude": -3.03303
         },
         "built": "13th Century",
         "condition": "Fragmented Remains",
@@ -663,8 +663,8 @@
         "name": "Cockermouth Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.665249,
-            "lng": -3.362651
+            "latitude": 54.665249,
+            "longitude": -3.362651
         },
         "built": "13-14th Century",
         "condition": "Restored",
@@ -676,8 +676,8 @@
         "name": "Codnor Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.045006,
-            "lng": -1.354752
+            "latitude": 53.045006,
+            "longitude": -1.354752
         },
         "built": "13-14th Century",
         "condition": "Fragmented Remains",
@@ -689,8 +689,8 @@
         "name": "Conisbrough Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.484426,
-            "lng": -1.225713
+            "latitude": 53.484426,
+            "longitude": -1.225713
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -703,8 +703,8 @@
         "name": "Cooling Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.455223,
-            "lng": 0.522411
+            "latitude": 51.455223,
+            "longitude": 0.522411
         },
         "built": "14th Century",
         "condition": "Intact",
@@ -716,8 +716,8 @@
         "name": "Corfe Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.640129,
-            "lng": -2.058796
+            "latitude": 50.640129,
+            "longitude": -2.058796
         },
         "built": "11-13th Century",
         "condition": "Ruins",
@@ -729,8 +729,8 @@
         "name": "Croft Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.284361,
-            "lng": -2.80851
+            "latitude": 52.284361,
+            "longitude": -2.80851
         },
         "built": "14th Century",
         "condition": "Rebuilt",
@@ -743,8 +743,8 @@
         "name": "Danby Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.244641,
-            "lng": -1.064225
+            "latitude": 54.244641,
+            "longitude": -1.064225
         },
         "built": "12-13th Century",
         "condition": "Fragmented Remains",
@@ -756,8 +756,8 @@
         "name": "Donnington Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.419498,
-            "lng": -1.338262
+            "latitude": 51.419498,
+            "longitude": -1.338262
         },
         "built": "14th Century",
         "condition": "Fragmented Remains",
@@ -770,8 +770,8 @@
         "name": "Dover Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.128771,
-            "lng": 1.323391
+            "latitude": 51.128771,
+            "longitude": 1.323391
         },
         "built": "12-13th Century",
         "condition": "Intact",
@@ -784,8 +784,8 @@
         "name": "Dudley Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.316866,
-            "lng": -2.286566
+            "latitude": 51.316866,
+            "longitude": -2.286566
         },
         "built": "14-15th Century",
         "condition": "Ruins",
@@ -797,8 +797,8 @@
         "name": "Dudley Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.514072,
-            "lng": -2.079898
+            "latitude": 52.514072,
+            "longitude": -2.079898
         },
         "built": "13-14th Century",
         "condition": "Ruins",
@@ -811,8 +811,8 @@
         "name": "Dunstanburgh Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.489421,
-            "lng": -1.594998
+            "latitude": 55.489421,
+            "longitude": -1.594998
         },
         "built": "14th Century",
         "condition": "Intact",
@@ -825,8 +825,8 @@
         "name": "Durham Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.775449,
-            "lng": -1.576253
+            "latitude": 54.775449,
+            "longitude": -1.576253
         },
         "built": "11-14th Century",
         "condition": "Rebuilt",
@@ -838,8 +838,8 @@
         "name": "Edlingham Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.376613,
-            "lng": -1.818206
+            "latitude": 55.376613,
+            "longitude": -1.818206
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -852,8 +852,8 @@
         "name": "Etal Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.647478,
-            "lng": -2.120064
+            "latitude": 55.647478,
+            "longitude": -2.120064
         },
         "built": "14th Century",
         "condition": "Fragmented Remains",
@@ -866,8 +866,8 @@
         "name": "Eye Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.320091,
-            "lng": 1.150092
+            "latitude": 52.320091,
+            "longitude": 1.150092
         },
         "built": "11th Century",
         "condition": "Fragmented Remains",
@@ -879,8 +879,8 @@
         "name": "Eynsford Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.370258,
-            "lng": 0.2135
+            "latitude": 51.370258,
+            "longitude": 0.2135
         },
         "built": "12th Century",
         "condition": "Fragmented Remains",
@@ -893,8 +893,8 @@
         "name": "Farnham Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.218552,
-            "lng": -0.802316
+            "latitude": 51.218552,
+            "longitude": -0.802316
         },
         "accessible": false,
         "built": "12th Century",
@@ -908,8 +908,8 @@
         "name": "Ford Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.631387,
-            "lng": -2.090323
+            "latitude": 55.631387,
+            "longitude": -2.090323
         },
         "built": "14th Century",
         "condition": "Intact",
@@ -921,8 +921,8 @@
         "name": "Framlingham Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.223879,
-            "lng": 1.346682
+            "latitude": 52.223879,
+            "longitude": 1.346682
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -935,8 +935,8 @@
         "name": "Gleaston Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.134009,
-            "lng": -3.131598
+            "latitude": 54.134009,
+            "longitude": -3.131598
         },
         "built": "14th Century",
         "condition": "Fragmented Remains",
@@ -948,8 +948,8 @@
         "name": "Goodrich Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.876734,
-            "lng": -2.61582
+            "latitude": 51.876734,
+            "longitude": -2.61582
         },
         "built": "12-13th Century",
         "condition": "Ruins",
@@ -962,8 +962,8 @@
         "name": "Guildford Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.234293,
-            "lng": -0.572391
+            "latitude": 51.234293,
+            "longitude": -0.572391
         },
         "built": "12-13th Century",
         "condition": "Ruins",
@@ -976,8 +976,8 @@
         "name": "Hadleigh Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.544448,
-            "lng": 0.608996
+            "latitude": 51.544448,
+            "longitude": 0.608996
         },
         "built": "13-14th Century",
         "condition": "Fragmented Remains",
@@ -990,8 +990,8 @@
         "name": "Halton Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.33286,
-            "lng": -2.69575
+            "latitude": 53.33286,
+            "longitude": -2.69575
         },
         "built": "11th Century",
         "condition": "Fragmented Remains",
@@ -1003,8 +1003,8 @@
         "name": "Harbottle Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.337073,
-            "lng": -2.108085
+            "latitude": 55.337073,
+            "longitude": -2.108085
         },
         "built": "12-14th Century",
         "condition": "Fragmented Remains",
@@ -1016,8 +1016,8 @@
         "name": "Hastings Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.85604,
-            "lng": 0.584875
+            "latitude": 50.85604,
+            "longitude": 0.584875
         },
         "built": "12th Century",
         "condition": "Fragmented Remains",
@@ -1029,8 +1029,8 @@
         "name": "Hedingham Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.992728,
-            "lng": 0.602505
+            "latitude": 51.992728,
+            "longitude": 0.602505
         },
         "built": "12th Century",
         "condition": "Intact",
@@ -1042,8 +1042,8 @@
         "name": "Hopton Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.395749,
-            "lng": -2.931785
+            "latitude": 52.395749,
+            "longitude": -2.931785
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -1055,8 +1055,8 @@
         "name": "Kendal Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.325091,
-            "lng": -2.736113
+            "latitude": 54.325091,
+            "longitude": -2.736113
         },
         "built": "12-14th Century",
         "condition": "Fragmented Remains",
@@ -1068,8 +1068,8 @@
         "name": "Kenilworth Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.348487,
-            "lng": -1.591351
+            "latitude": 52.348487,
+            "longitude": -1.591351
         },
         "built": "12-14th Century",
         "condition": "Ruins",
@@ -1082,8 +1082,8 @@
         "name": "Kirby Muxloe Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.636626,
-            "lng": -1.227077
+            "latitude": 52.636626,
+            "longitude": -1.227077
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -1096,8 +1096,8 @@
         "name": "Knaresborough Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.007129,
-            "lng": -1.469358
+            "latitude": 54.007129,
+            "longitude": -1.469358
         },
         "built": "12-14th Century",
         "condition": "Fragmented Remains",
@@ -1109,8 +1109,8 @@
         "name": "Lancaster Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.049575,
-            "lng": -2.804897
+            "latitude": 54.049575,
+            "longitude": -2.804897
         },
         "built": "11-12th Century",
         "condition": "Intact",
@@ -1122,8 +1122,8 @@
         "name": "Launceston Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.636892,
-            "lng": -4.361747
+            "latitude": 50.636892,
+            "longitude": -4.361747
         },
         "built": "11-13th Century",
         "condition": "Ruins",
@@ -1136,8 +1136,8 @@
         "name": "Leeds Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.24899,
-            "lng": 0.630465
+            "latitude": 51.24899,
+            "longitude": 0.630465
         },
         "built": "12-15th Century",
         "condition": "Restored",
@@ -1149,8 +1149,8 @@
         "name": "Leicester Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.632345,
-            "lng": -1.141202
+            "latitude": 52.632345,
+            "longitude": -1.141202
         },
         "built": "12-13th Century",
         "condition": "Fragmented Remains",
@@ -1162,8 +1162,8 @@
         "name": "Lewes Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.87288,
-            "lng": 0.007417
+            "latitude": 50.87288,
+            "longitude": 0.007417
         },
         "built": "12-14th Century",
         "condition": "Ruins",
@@ -1176,8 +1176,8 @@
         "name": "Lincoln Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.234614,
-            "lng": -0.540163
+            "latitude": 53.234614,
+            "longitude": -0.540163
         },
         "built": "11-13th Century",
         "condition": "Intact",
@@ -1189,8 +1189,8 @@
         "name": "Lindisfarne Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.669062,
-            "lng": -1.784746
+            "latitude": 55.669062,
+            "longitude": -1.784746
         },
         "built": "16th Century",
         "condition": "Restored",
@@ -1203,8 +1203,8 @@
         "name": "Longtown Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.956984,
-            "lng": -2.989916
+            "latitude": 51.956984,
+            "longitude": -2.989916
         },
         "built": "12-13th Century",
         "condition": "Fragmented Remains",
@@ -1217,8 +1217,8 @@
         "name": "Ludgershall Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.259453,
-            "lng": -1.622881
+            "latitude": 51.259453,
+            "longitude": -1.622881
         },
         "built": "11-13th Century",
         "condition": "Fragmented Remains",
@@ -1231,8 +1231,8 @@
         "name": "Ludlow Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.367239,
-            "lng": -2.723463
+            "latitude": 52.367239,
+            "longitude": -2.723463
         },
         "built": "11-14th Century",
         "condition": "Ruins",
@@ -1244,8 +1244,8 @@
         "name": "Lumley Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.853293,
-            "lng": -1.553731
+            "latitude": 54.853293,
+            "longitude": -1.553731
         },
         "built": "14th Century",
         "condition": "Intact",
@@ -1257,8 +1257,8 @@
         "name": "Lydford Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.643651,
-            "lng": -4.10936
+            "latitude": 50.643651,
+            "longitude": -4.10936
         },
         "built": "12-13th Century",
         "condition": "Ruins",
@@ -1271,8 +1271,8 @@
         "name": "Marisco Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.162877,
-            "lng": -4.659398
+            "latitude": 51.162877,
+            "longitude": -4.659398
         },
         "alternativeNames": [
             "Lundy Castle"
@@ -1287,8 +1287,8 @@
         "name": "Maxstoke Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.499416,
-            "lng": -1.671719
+            "latitude": 52.499416,
+            "longitude": -1.671719
         },
         "built": "14-15th Century",
         "condition": "Intact",
@@ -1300,8 +1300,8 @@
         "name": "Middleham Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.284083,
-            "lng": -1.806839
+            "latitude": 54.284083,
+            "longitude": -1.806839
         },
         "built": "12-14th Century",
         "condition": "Ruins",
@@ -1314,8 +1314,8 @@
         "name": "Mitford Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.163043,
-            "lng": -1.734322
+            "latitude": 55.163043,
+            "longitude": -1.734322
         },
         "built": "11-13th Century",
         "condition": "Fragmented Remains",
@@ -1327,8 +1327,8 @@
         "name": "Moreton Corbet Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.804124,
-            "lng": -2.652254
+            "latitude": 52.804124,
+            "longitude": -2.652254
         },
         "built": "12th Century",
         "condition": "Fragmented Remains",
@@ -1341,8 +1341,8 @@
         "name": "Morpeth Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.168035,
-            "lng": -1.689576
+            "latitude": 55.168035,
+            "longitude": -1.689576
         },
         "built": "14th Century",
         "condition": "Fragmented Remains",
@@ -1355,8 +1355,8 @@
         "name": "Newark Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.077881,
-            "lng": -0.812416
+            "latitude": 53.077881,
+            "longitude": -0.812416
         },
         "built": "12-14th Century",
         "condition": "Ruins",
@@ -1369,8 +1369,8 @@
         "name": "Newcastle Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.968757,
-            "lng": -1.610382
+            "latitude": 54.968757,
+            "longitude": -1.610382
         },
         "built": "12th Century",
         "condition": "Restored",
@@ -1383,8 +1383,8 @@
         "name": "Norham Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.721382,
-            "lng": -2.151677
+            "latitude": 55.721382,
+            "longitude": -2.151677
         },
         "built": "14th Century",
         "condition": "Fragmented Remains",
@@ -1397,8 +1397,8 @@
         "name": "Norwich Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.628729,
-            "lng": 1.296386
+            "latitude": 52.628729,
+            "longitude": 1.296386
         },
         "built": "11-12th Century",
         "condition": "Intact",
@@ -1410,8 +1410,8 @@
         "name": "Nottingham Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.949562,
-            "lng": -1.154849
+            "latitude": 52.949562,
+            "longitude": -1.154849
         },
         "built": "12-13th Century",
         "condition": "Fragmented Remains",
@@ -1423,8 +1423,8 @@
         "name": "Nunney Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.210163,
-            "lng": -2.378304
+            "latitude": 51.210163,
+            "longitude": -2.378304
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -1437,8 +1437,8 @@
         "name": "Oakham Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.670917,
-            "lng": -0.727425
+            "latitude": 52.670917,
+            "longitude": -0.727425
         },
         "built": "12-13th Century",
         "condition": "Fragmented Remains",
@@ -1450,8 +1450,8 @@
         "name": "Odiham Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.261358,
-            "lng": -0.961668
+            "latitude": 51.261358,
+            "longitude": -0.961668
         },
         "built": "13th Century",
         "condition": "Fragmented Remains",
@@ -1463,8 +1463,8 @@
         "name": "Okehampton Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.731106,
-            "lng": -4.007792
+            "latitude": 50.731106,
+            "longitude": -4.007792
         },
         "built": "11-14th Century",
         "condition": "Fragmented Remains",
@@ -1477,8 +1477,8 @@
         "name": "Old Knepp Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.97572,
-            "lng": -0.343906
+            "latitude": 50.97572,
+            "longitude": -0.343906
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -1490,8 +1490,8 @@
         "name": "Old Sarum Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.093229,
-            "lng": -1.804878
+            "latitude": 51.093229,
+            "longitude": -1.804878
         },
         "built": "11-13th Century",
         "condition": "Fragmented Remains",
@@ -1504,8 +1504,8 @@
         "name": "Old Wardour Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.036409,
-            "lng": -2.088791
+            "latitude": 51.036409,
+            "longitude": -2.088791
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -1518,8 +1518,8 @@
         "name": "Orford Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.094217,
-            "lng": 1.530753
+            "latitude": 52.094217,
+            "longitude": 1.530753
         },
         "built": "12th Century",
         "condition": "Intact",
@@ -1532,8 +1532,8 @@
         "name": "Oxford Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.751618,
-            "lng": -1.263274
+            "latitude": 51.751618,
+            "longitude": -1.263274
         },
         "built": "11-12th Century",
         "condition": "Fragmented Remains",
@@ -1545,8 +1545,8 @@
         "name": "Pembridge Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.869819,
-            "lng": -2.744764
+            "latitude": 51.869819,
+            "longitude": -2.744764
         },
         "built": "12-13th Century",
         "condition": "Rebuilt",
@@ -1558,8 +1558,8 @@
         "name": "Pendragon Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.418677,
-            "lng": -2.337766
+            "latitude": 54.418677,
+            "longitude": -2.337766
         },
         "built": "12-14th Century",
         "condition": "Fragmented Remains",
@@ -1571,8 +1571,8 @@
         "name": "Penrith Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.662107,
-            "lng": -2.757499
+            "latitude": 54.662107,
+            "longitude": -2.757499
         },
         "built": "14-15th Century",
         "condition": "Fragmented Remains",
@@ -1585,8 +1585,8 @@
         "name": "Pevensey Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.819264,
-            "lng": 0.33416
+            "latitude": 50.819264,
+            "longitude": 0.33416
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -1599,8 +1599,8 @@
         "name": "Peveril Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.340745,
-            "lng": -1.776947
+            "latitude": 53.340745,
+            "longitude": -1.776947
         },
         "built": "11-14th Century",
         "condition": "Ruins",
@@ -1613,8 +1613,8 @@
         "name": "Pickering Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.250079,
-            "lng": -0.775615
+            "latitude": 54.250079,
+            "longitude": -0.775615
         },
         "built": "12-14th Century",
         "condition": "Ruins",
@@ -1627,8 +1627,8 @@
         "name": "Piel Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.062187,
-            "lng": -3.17338
+            "latitude": 54.062187,
+            "longitude": -3.17338
         },
         "built": "14-15th Century",
         "condition": "Ruins",
@@ -1641,8 +1641,8 @@
         "name": "Plympton Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.383713,
-            "lng": -4.048354
+            "latitude": 50.383713,
+            "longitude": -4.048354
         },
         "built": "12th Century",
         "condition": "Fragmented Remains",
@@ -1654,8 +1654,8 @@
         "name": "Pontefract Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.695066,
-            "lng": -1.304455
+            "latitude": 53.695066,
+            "longitude": -1.304455
         },
         "alternativeNames": [
             "Pomfret Castle"
@@ -1670,8 +1670,8 @@
         "name": "Portchester Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.837549,
-            "lng": -1.11377
+            "latitude": 50.837549,
+            "longitude": -1.11377
         },
         "built": "11-12th Century",
         "condition": "Ruins",
@@ -1684,8 +1684,8 @@
         "name": "Prudhoe Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.965149,
-            "lng": -1.858419
+            "latitude": 54.965149,
+            "longitude": -1.858419
         },
         "built": "12-14th Century",
         "condition": "Fragmented Remains",
@@ -1698,8 +1698,8 @@
         "name": "Raby Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.593593,
-            "lng": -1.796011
+            "latitude": 54.593593,
+            "longitude": -1.796011
         },
         "built": "12-14th Century",
         "condition": "Intact",
@@ -1711,8 +1711,8 @@
         "name": "Ravensworth Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.926638,
-            "lng": -1.637996
+            "latitude": 54.926638,
+            "longitude": -1.637996
         },
         "built": "14-19th Century",
         "condition": "Ruins",
@@ -1724,8 +1724,8 @@
         "name": "Ravensworth Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.464061,
-            "lng": -1.782285
+            "latitude": 54.464061,
+            "longitude": -1.782285
         },
         "built": "14th Century",
         "condition": "Fragmented Remains",
@@ -1737,8 +1737,8 @@
         "name": "Restormel Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.421766,
-            "lng": -4.670434
+            "latitude": 50.421766,
+            "longitude": -4.670434
         },
         "built": "12-13th Century",
         "condition": "Ruins",
@@ -1751,8 +1751,8 @@
         "name": "Richmond Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.402139,
-            "lng": -1.73757
+            "latitude": 54.402139,
+            "longitude": -1.73757
         },
         "built": "11-14th Century",
         "condition": "Ruins",
@@ -1765,8 +1765,8 @@
         "name": "Rochester Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.389777,
-            "lng": 0.501484
+            "latitude": 51.389777,
+            "longitude": 0.501484
         },
         "built": "12th Century",
         "condition": "Restored",
@@ -1779,8 +1779,8 @@
         "name": "Rockingham Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.512819,
-            "lng": -0.723657
+            "latitude": 52.512819,
+            "longitude": -0.723657
         },
         "built": "13-19th Century",
         "condition": "Rebuilt",
@@ -1792,8 +1792,8 @@
         "name": "Rufus Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.539527,
-            "lng": -2.428236
+            "latitude": 50.539527,
+            "longitude": -2.428236
         },
         "alternativeNames": [
             "Bow and Arrow Castle"
@@ -1808,8 +1808,8 @@
         "name": "Saltwood Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.081804,
-            "lng": 1.084987
+            "latitude": 51.081804,
+            "longitude": 1.084987
         },
         "built": "12-14th Century",
         "condition": "Restored",
@@ -1821,8 +1821,8 @@
         "name": "Sandal Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.658775,
-            "lng": -1.490646
+            "latitude": 53.658775,
+            "longitude": -1.490646
         },
         "built": "12th Century",
         "condition": "Fragmented Remains",
@@ -1834,8 +1834,8 @@
         "name": "Sherborne Old Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.949435,
-            "lng": -2.502253
+            "latitude": 50.949435,
+            "longitude": -2.502253
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -1848,8 +1848,8 @@
         "name": "Sheriff Hutton Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.087786,
-            "lng": -1.004891
+            "latitude": 54.087786,
+            "longitude": -1.004891
         },
         "built": "14th Century",
         "condition": "Fragmented Remains",
@@ -1861,8 +1861,8 @@
         "name": "Shirburn Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.658353,
-            "lng": -0.994421
+            "latitude": 51.658353,
+            "longitude": -0.994421
         },
         "built": "14th Century",
         "condition": "Rebuilt",
@@ -1874,8 +1874,8 @@
         "name": "Shrewsbury Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.711388,
-            "lng": -2.749968
+            "latitude": 52.711388,
+            "longitude": -2.749968
         },
         "built": "12th Century",
         "condition": "Rebuilt",
@@ -1887,8 +1887,8 @@
         "name": "Skipsea Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.978869,
-            "lng": -0.229366
+            "latitude": 53.978869,
+            "longitude": -0.229366
         },
         "built": "11th Century",
         "condition": "Ruins",
@@ -1901,8 +1901,8 @@
         "name": "Skipton Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.087786,
-            "lng": -2.015283
+            "latitude": 54.087786,
+            "longitude": -2.015283
         },
         "built": "12-17th Century",
         "condition": "Restored",
@@ -1914,8 +1914,8 @@
         "name": "Snodhill Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.057624,
-            "lng": -2.989302
+            "latitude": 52.057624,
+            "longitude": -2.989302
         },
         "built": "11-14th Century",
         "condition": "Fragmented Remains",
@@ -1927,8 +1927,8 @@
         "name": "St Leonard's Tower",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.288203,
-            "lng": 0.40209
+            "latitude": 51.288203,
+            "longitude": 0.40209
         },
         "built": "11th Century",
         "condition": "Ruins",
@@ -1941,8 +1941,8 @@
         "name": "Stafford Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.797918,
-            "lng": -2.147363
+            "latitude": 52.797918,
+            "longitude": -2.147363
         },
         "built": "11-12th Century",
         "condition": "Ruins",
@@ -1954,8 +1954,8 @@
         "name": "Sutton Valence Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.212369,
-            "lng": 0.597749
+            "latitude": 51.212369,
+            "longitude": 0.597749
         },
         "built": "12th Century",
         "condition": "Fragmented Remains",
@@ -1968,8 +1968,8 @@
         "name": "Tamworth Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.63263,
-            "lng": -1.696797
+            "latitude": 52.63263,
+            "longitude": -1.696797
         },
         "built": "11-13th Century",
         "condition": "Rebuilt",
@@ -1981,8 +1981,8 @@
         "name": "Taunton Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.015638,
-            "lng": -3.104593
+            "latitude": 51.015638,
+            "longitude": -3.104593
         },
         "built": "13th Century",
         "condition": "Restored",
@@ -1994,8 +1994,8 @@
         "name": "Thirlwall Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.988797,
-            "lng": -2.533767
+            "latitude": 54.988797,
+            "longitude": -2.533767
         },
         "built": "14th Century",
         "condition": "Fragmented Remains",
@@ -2007,8 +2007,8 @@
         "name": "Tickhill Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 53.429142,
-            "lng": -1.108628
+            "latitude": 53.429142,
+            "longitude": -1.108628
         },
         "built": "11-14th Century",
         "condition": "Fragmented Remains",
@@ -2020,8 +2020,8 @@
         "name": "Tintagel Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.667281,
-            "lng": -4.758505
+            "latitude": 50.667281,
+            "longitude": -4.758505
         },
         "built": "13th Century",
         "condition": "Fragmented Remains",
@@ -2034,8 +2034,8 @@
         "name": "Tonbridge Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.196298,
-            "lng": 0.273495
+            "latitude": 51.196298,
+            "longitude": 0.273495
         },
         "built": "11-13th Century",
         "condition": "Fragmented Remains",
@@ -2047,8 +2047,8 @@
         "name": "Totnes Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.432027,
-            "lng": -3.690597
+            "latitude": 50.432027,
+            "longitude": -3.690597
         },
         "built": "11-14th Century",
         "condition": "Ruins",
@@ -2061,8 +2061,8 @@
         "name": "Tower of London",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.50811,
-            "lng": -0.07594
+            "latitude": 51.50811,
+            "longitude": -0.07594
         },
         "built": "11-13th Century",
         "condition": "Intact",
@@ -2075,8 +2075,8 @@
         "name": "Trematon Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 50.400412,
-            "lng": -4.237713
+            "latitude": 50.400412,
+            "longitude": -4.237713
         },
         "built": "12-13th Century",
         "condition": "Ruins",
@@ -2088,8 +2088,8 @@
         "name": "Tutbury Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.859621,
-            "lng": -1.69065
+            "latitude": 52.859621,
+            "longitude": -1.69065
         },
         "built": "12-15th Century",
         "condition": "Fragmented Remains",
@@ -2101,8 +2101,8 @@
         "name": "Tynemouth Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.017708,
-            "lng": -1.419801
+            "latitude": 55.017708,
+            "longitude": -1.419801
         },
         "built": "13-14th Century",
         "condition": "Ruins",
@@ -2115,8 +2115,8 @@
         "name": "Walden Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.025524,
-            "lng": 0.242052
+            "latitude": 52.025524,
+            "longitude": 0.242052
         },
         "built": "12th Century",
         "condition": "Fragmented Remains",
@@ -2128,8 +2128,8 @@
         "name": "Wallingford Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.603239,
-            "lng": -1.121442
+            "latitude": 51.603239,
+            "longitude": -1.121442
         },
         "built": "11-13th Century",
         "condition": "Fragmented Remains",
@@ -2141,8 +2141,8 @@
         "name": "Warkworth Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 55.345244,
-            "lng": -1.611788
+            "latitude": 55.345244,
+            "longitude": -1.611788
         },
         "built": "12-14th Century",
         "condition": "Fragmented Remains",
@@ -2155,8 +2155,8 @@
         "name": "Warwick Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.279669,
-            "lng": -1.585228
+            "latitude": 52.279669,
+            "longitude": -1.585228
         },
         "built": "13-15th Century",
         "condition": "Intact",
@@ -2169,8 +2169,8 @@
         "name": "Wells Bishop Palace",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.209038,
-            "lng": -2.642617
+            "latitude": 51.209038,
+            "longitude": -2.642617
         },
         "built": "13-15th Century",
         "condition": "Intact",
@@ -2182,8 +2182,8 @@
         "name": "Whittington Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.8736,
-            "lng": -3.00241
+            "latitude": 52.8736,
+            "longitude": -3.00241
         },
         "built": "12-13th Century",
         "condition": "Fragmented Remains",
@@ -2195,8 +2195,8 @@
         "name": "Whorlton Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.415388,
-            "lng": -1.260021
+            "latitude": 54.415388,
+            "longitude": -1.260021
         },
         "built": "14-16th Century",
         "condition": "Fragmented Remains",
@@ -2208,8 +2208,8 @@
         "name": "Wigmore Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.317987,
-            "lng": -2.868935
+            "latitude": 52.317987,
+            "longitude": -2.868935
         },
         "built": "11-14th Century",
         "condition": "Fragmented Remains",
@@ -2222,8 +2222,8 @@
         "name": "Wilton Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.916581,
-            "lng": -2.597143
+            "latitude": 51.916581,
+            "longitude": -2.597143
         },
         "built": "13th Century",
         "condition": "Fragmented Remains",
@@ -2235,8 +2235,8 @@
         "name": "Winchester Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.06334,
-            "lng": -1.319467
+            "latitude": 51.06334,
+            "longitude": -1.319467
         },
         "built": "11-13th Century",
         "condition": "Intact",
@@ -2248,8 +2248,8 @@
         "name": "Windsor Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.483894,
-            "lng": -0.604403
+            "latitude": 51.483894,
+            "longitude": -0.604403
         },
         "built": "12-19th Century",
         "condition": "Intact",
@@ -2262,8 +2262,8 @@
         "name": "Witton Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 54.668759,
-            "lng": -1.763179
+            "latitude": 54.668759,
+            "longitude": -1.763179
         },
         "built": "15th Century",
         "condition": "Restored",
@@ -2275,8 +2275,8 @@
         "name": "Wolvesey Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 51.059061,
-            "lng": -1.310023
+            "latitude": 51.059061,
+            "longitude": -1.310023
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -2289,8 +2289,8 @@
         "name": "Woodcroft Castle",
         "region": "GB-ENG",
         "coordinates": {
-            "lat": 52.626222,
-            "lng": -0.317241
+            "latitude": 52.626222,
+            "longitude": -0.317241
         },
         "built": "13th Century",
         "condition": "Fragmented Remains",

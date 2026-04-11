@@ -4,8 +4,8 @@
         "name": "Aberdour Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.055239,
-            "lng": -3.298292
+            "latitude": 56.055239,
+            "longitude": -3.298292
         },
         "built": "13th Century",
         "condition": "Fragmented Remains",
@@ -18,8 +18,8 @@
         "name": "Ardrossan Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.641961,
-            "lng": -4.810145
+            "latitude": 55.641961,
+            "longitude": -4.810145
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -31,8 +31,8 @@
         "name": "Auchen Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.327472,
-            "lng": -3.479227
+            "latitude": 55.327472,
+            "longitude": -3.479227
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -44,8 +44,8 @@
         "name": "Auchenharvie Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.663996,
-            "lng": -4.605009
+            "latitude": 55.663996,
+            "longitude": -4.605009
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -57,8 +57,8 @@
         "name": "Balgonie Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.193759,
-            "lng": -3.109238
+            "latitude": 56.193759,
+            "longitude": -3.109238
         },
         "built": "14th Century",
         "condition": "Restored",
@@ -70,8 +70,8 @@
         "name": "Bothwell Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.809453,
-            "lng": -4.094924
+            "latitude": 55.809453,
+            "longitude": -4.094924
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -84,8 +84,8 @@
         "name": "Broughty Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.462928,
-            "lng": -2.870224
+            "latitude": 56.462928,
+            "longitude": -2.870224
         },
         "built": "15th Century",
         "condition": "Intact",
@@ -98,8 +98,8 @@
         "name": "Caerlaverock Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 54.975693,
-            "lng": -3.524049
+            "latitude": 54.975693,
+            "longitude": -3.524049
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -112,8 +112,8 @@
         "name": "Calvay Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 57.143237,
-            "lng": -7.263722
+            "latitude": 57.143237,
+            "longitude": -7.263722
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -125,8 +125,8 @@
         "name": "Castle Sween",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.947927,
-            "lng": -5.665171
+            "latitude": 55.947927,
+            "longitude": -5.665171
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -139,8 +139,8 @@
         "name": "Castle Tioram",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.784636,
-            "lng": -5.829001
+            "latitude": 56.784636,
+            "longitude": -5.829001
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -152,8 +152,8 @@
         "name": "Castle Varrich",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 58.475758,
-            "lng": -4.435435
+            "latitude": 58.475758,
+            "longitude": -4.435435
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -165,8 +165,8 @@
         "name": "Craigmillar Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.925653,
-            "lng": -3.140871
+            "latitude": 55.925653,
+            "longitude": -3.140871
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -179,8 +179,8 @@
         "name": "Craignethan Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.558013,
-            "lng": -3.870873
+            "latitude": 55.558013,
+            "longitude": -3.870873
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -193,8 +193,8 @@
         "name": "Crookston Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.835144,
-            "lng": -4.355865
+            "latitude": 55.835144,
+            "longitude": -4.355865
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -207,8 +207,8 @@
         "name": "Delgatie Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 57.544012,
-            "lng": -2.412068
+            "latitude": 57.544012,
+            "longitude": -2.412068
         },
         "built": "11th Century",
         "condition": "Intact",
@@ -220,8 +220,8 @@
         "name": "Dirleton Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.045915,
-            "lng": -2.778152
+            "latitude": 56.045915,
+            "longitude": -2.778152
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -234,8 +234,8 @@
         "name": "Doune Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.18526,
-            "lng": -4.050157
+            "latitude": 56.18526,
+            "longitude": -4.050157
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -248,8 +248,8 @@
         "name": "Drochil Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.677656,
-            "lng": -3.334149
+            "latitude": 55.677656,
+            "longitude": -3.334149
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -261,8 +261,8 @@
         "name": "Dunnottar Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.945777,
-            "lng": -2.19719
+            "latitude": 56.945777,
+            "longitude": -2.19719
         },
         "built": "15-17th Century",
         "condition": "Ruins",
@@ -275,8 +275,8 @@
         "name": "Dunollie Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.42726,
-            "lng": -5.483178
+            "latitude": 56.42726,
+            "longitude": -5.483178
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -288,8 +288,8 @@
         "name": "Dunscaith Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 57.136566,
-            "lng": -5.975944
+            "latitude": 57.136566,
+            "longitude": -5.975944
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -301,8 +301,8 @@
         "name": "Dunstaffnage Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.454689,
-            "lng": -5.43746
+            "latitude": 56.454689,
+            "longitude": -5.43746
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -315,8 +315,8 @@
         "name": "Duntulm Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 57.684377,
-            "lng": -6.347094
+            "latitude": 57.684377,
+            "longitude": -6.347094
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -328,8 +328,8 @@
         "name": "Dunure Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.405131,
-            "lng": -4.761903
+            "latitude": 55.405131,
+            "longitude": -4.761903
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -341,8 +341,8 @@
         "name": "Edinburgh Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.948595,
-            "lng": -3.199913
+            "latitude": 55.948595,
+            "longitude": -3.199913
         },
         "built": "12-21st Century",
         "condition": "Intact",
@@ -355,8 +355,8 @@
         "name": "Eilean Donan Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 57.273896,
-            "lng": -5.516158
+            "latitude": 57.273896,
+            "longitude": -5.516158
         },
         "built": "13th Century",
         "condition": "Restored",
@@ -368,8 +368,8 @@
         "name": "Falkland Palace",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.254327,
-            "lng": -3.205583
+            "latitude": 56.254327,
+            "longitude": -3.205583
         },
         "built": "12th Century",
         "condition": "Intact",
@@ -382,8 +382,8 @@
         "name": "Findlater Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 57.692451,
-            "lng": -2.770359
+            "latitude": 57.692451,
+            "longitude": -2.770359
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -396,8 +396,8 @@
         "name": "Hailes Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.973209,
-            "lng": -2.683114
+            "latitude": 55.973209,
+            "longitude": -2.683114
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -410,8 +410,8 @@
         "name": "Hermitage Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.256034,
-            "lng": -2.793231
+            "latitude": 55.256034,
+            "longitude": -2.793231
         },
         "built": "13th Century",
         "condition": "Partial Ruins",
@@ -424,8 +424,8 @@
         "name": "Hume Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.665147,
-            "lng": -2.470937
+            "latitude": 55.665147,
+            "longitude": -2.470937
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -437,8 +437,8 @@
         "name": "Innerwick Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.955435,
-            "lng": -2.425511
+            "latitude": 55.955435,
+            "longitude": -2.425511
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -450,8 +450,8 @@
         "name": "Inverallochy Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 57.656359,
-            "lng": -1.933232
+            "latitude": 57.656359,
+            "longitude": -1.933232
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -463,8 +463,8 @@
         "name": "Kerelaw Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.648347,
-            "lng": -4.75236
+            "latitude": 55.648347,
+            "longitude": -4.75236
         },
         "built": "12-13th Century",
         "condition": "Ruins",
@@ -476,8 +476,8 @@
         "name": "Kilchurn Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.403715,
-            "lng": -5.027404
+            "latitude": 56.403715,
+            "longitude": -5.027404
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -490,8 +490,8 @@
         "name": "Kildrummy Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 57.234555,
-            "lng": -2.904225
+            "latitude": 57.234555,
+            "longitude": -2.904225
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -504,8 +504,8 @@
         "name": "Kisimul Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.952134,
-            "lng": -7.487481
+            "latitude": 56.952134,
+            "longitude": -7.487481
         },
         "built": "11th Century",
         "condition": "Partially Restored",
@@ -518,8 +518,8 @@
         "name": "Linlithgow Palace",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.978925,
-            "lng": -3.600841
+            "latitude": 55.978925,
+            "longitude": -3.600841
         },
         "built": "12-17th Century",
         "condition": "Ruins",
@@ -532,8 +532,8 @@
         "name": "Loch Doon Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.225976,
-            "lng": -4.384875
+            "latitude": 55.225976,
+            "longitude": -4.384875
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -546,8 +546,8 @@
         "name": "Lochleven Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.200838,
-            "lng": -3.391997
+            "latitude": 56.200838,
+            "longitude": -3.391997
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -560,8 +560,8 @@
         "name": "Lochmaben Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.116291,
-            "lng": -3.431293
+            "latitude": 55.116291,
+            "longitude": -3.431293
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -574,8 +574,8 @@
         "name": "Macduff's Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.16243,
-            "lng": -3.057976
+            "latitude": 56.16243,
+            "longitude": -3.057976
         },
         "built": "11th Century",
         "condition": "Ruins",
@@ -587,8 +587,8 @@
         "name": "Mingary Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.692829,
-            "lng": -6.080137
+            "latitude": 56.692829,
+            "longitude": -6.080137
         },
         "alternativeNames": [
             "Mingarry Castle"
@@ -603,8 +603,8 @@
         "name": "Morton Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.274477,
-            "lng": -3.747561
+            "latitude": 55.274477,
+            "longitude": -3.747561
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -617,8 +617,8 @@
         "name": "Mugdock Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.965452,
-            "lng": -4.324582
+            "latitude": 55.965452,
+            "longitude": -4.324582
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -630,8 +630,8 @@
         "name": "Muness Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 60.68874,
-            "lng": -0.84911
+            "latitude": 60.68874,
+            "longitude": -0.84911
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -644,8 +644,8 @@
         "name": "Old Castle Lachlan",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.108448,
-            "lng": -5.209425
+            "latitude": 56.108448,
+            "longitude": -5.209425
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -657,8 +657,8 @@
         "name": "Old Inverlochy Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.832303,
-            "lng": -5.082389
+            "latitude": 56.832303,
+            "longitude": -5.082389
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -671,8 +671,8 @@
         "name": "Pitsligo Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 57.692336,
-            "lng": -2.106913
+            "latitude": 57.692336,
+            "longitude": -2.106913
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -684,8 +684,8 @@
         "name": "Portencross Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.699417,
-            "lng": -4.904999
+            "latitude": 55.699417,
+            "longitude": -4.904999
         },
         "built": "14th Century",
         "condition": "Restored",
@@ -698,8 +698,8 @@
         "name": "Ravenscraig Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.119906,
-            "lng": -3.142068
+            "latitude": 56.119906,
+            "longitude": -3.142068
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -712,8 +712,8 @@
         "name": "Rothesay Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.836492,
-            "lng": -5.055103
+            "latitude": 55.836492,
+            "longitude": -5.055103
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -726,8 +726,8 @@
         "name": "Roxburgh Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.599005,
-            "lng": -2.44994
+            "latitude": 55.599005,
+            "longitude": -2.44994
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -739,8 +739,8 @@
         "name": "Saltcoats Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.027032,
-            "lng": -2.827715
+            "latitude": 56.027032,
+            "longitude": -2.827715
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -752,8 +752,8 @@
         "name": "Sanquhar Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.361994,
-            "lng": -3.918252
+            "latitude": 55.361994,
+            "longitude": -3.918252
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -765,8 +765,8 @@
         "name": "Skipness Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.768012,
-            "lng": -5.336341
+            "latitude": 55.768012,
+            "longitude": -5.336341
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -779,8 +779,8 @@
         "name": "St Andrews Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.342024,
-            "lng": -2.790305
+            "latitude": 56.342024,
+            "longitude": -2.790305
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -793,8 +793,8 @@
         "name": "Strathaven Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.676137,
-            "lng": -4.06315
+            "latitude": 55.676137,
+            "longitude": -4.06315
         },
         "built": "14-15th Century",
         "condition": "Ruins",
@@ -806,8 +806,8 @@
         "name": "Strome Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 57.359181,
-            "lng": -5.555131
+            "latitude": 57.359181,
+            "longitude": -5.555131
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -819,8 +819,8 @@
         "name": "Tantallon Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 56.056359,
-            "lng": -2.650621
+            "latitude": 56.056359,
+            "longitude": -2.650621
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -833,8 +833,8 @@
         "name": "Tarbert Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.864361,
-            "lng": -5.408739
+            "latitude": 55.864361,
+            "longitude": -5.408739
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -846,8 +846,8 @@
         "name": "Urquhart Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 57.32414,
-            "lng": -4.442001
+            "latitude": 57.32414,
+            "longitude": -4.442001
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -860,8 +860,8 @@
         "name": "Yester Castle",
         "region": "GB-SCT",
         "coordinates": {
-            "lat": 55.891703,
-            "lng": -2.712143
+            "latitude": 55.891703,
+            "longitude": -2.712143
         },
         "built": "13th Century",
         "condition": "Ruins",

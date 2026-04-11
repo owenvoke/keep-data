@@ -77,21 +77,21 @@
             "description": "A set of coordinates in the form of latitude and longitude.",
             "type": "object",
             "properties": {
-                "lat": {
+                "latitude": {
                     "type": "number"
                 },
-                "lng": {
+                "longitude": {
                     "type": "number"
                 }
             },
             "required": [
-                "lat",
-                "lng"
+                "latitude",
+                "longitude"
             ],
             "examples": [
                 {
-                    "lat": 51.483894,
-                    "lng": -0.604403
+                    "latitude": 51.483894,
+                    "longitude": -0.604403
                 }
             ]
         },

@@ -4,8 +4,8 @@
         "name": "Abergavenny Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.820076,
-            "lng": -3.017753
+            "latitude": 51.820076,
+            "longitude": -3.017753
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -17,8 +17,8 @@
         "name": "Aberystwyth Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 52.413263,
-            "lng": -4.089427
+            "latitude": 52.413263,
+            "longitude": -4.089427
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -30,8 +30,8 @@
         "name": "Beaumaris Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.264838,
-            "lng": -4.089704
+            "latitude": 53.264838,
+            "longitude": -4.089704
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -44,8 +44,8 @@
         "name": "Brecon Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.948767,
-            "lng": -3.393658
+            "latitude": 51.948767,
+            "longitude": -3.393658
         },
         "built": "11th Century",
         "condition": "Ruins",
@@ -57,8 +57,8 @@
         "name": "Caerleon Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.609571,
-            "lng": -2.95061
+            "latitude": 51.609571,
+            "longitude": -2.95061
         },
         "built": "11-13th Century",
         "condition": "Ruins",
@@ -70,8 +70,8 @@
         "name": "Caerphilly Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.576089,
-            "lng": -3.220249
+            "latitude": 51.576089,
+            "longitude": -3.220249
         },
         "built": "13th Century",
         "condition": "Partially Restored",
@@ -84,8 +84,8 @@
         "name": "Caldicot Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.592851,
-            "lng": -2.742473
+            "latitude": 51.592851,
+            "longitude": -2.742473
         },
         "built": "12th Century",
         "condition": "Restored",
@@ -98,8 +98,8 @@
         "name": "Camarthen Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.856021,
-            "lng": -4.30569
+            "latitude": 51.856021,
+            "longitude": -4.30569
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -111,8 +111,8 @@
         "name": "Cardiff Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.482234,
-            "lng": -3.181178
+            "latitude": 51.482234,
+            "longitude": -3.181178
         },
         "built": "12th Century",
         "condition": "Intact",
@@ -125,8 +125,8 @@
         "name": "Carew Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.69839,
-            "lng": -4.830036
+            "latitude": 51.69839,
+            "longitude": -4.830036
         },
         "built": "13th Century",
         "condition": "Partially Restored",
@@ -138,8 +138,8 @@
         "name": "Castel Aberlleiniog",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.292575,
-            "lng": -4.077266
+            "latitude": 53.292575,
+            "longitude": -4.077266
         },
         "built": "13th Century",
         "condition": "Partially Restored",
@@ -151,8 +151,8 @@
         "name": "Castell Bronllys",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 52.003559,
-            "lng": -3.240527
+            "latitude": 52.003559,
+            "longitude": -3.240527
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -165,8 +165,8 @@
         "name": "Castell Caergwrle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.107197,
-            "lng": -3.037084
+            "latitude": 53.107197,
+            "longitude": -3.037084
         },
         "alternativeNames": [
             "Queen's Hope"
@@ -182,8 +182,8 @@
         "name": "Castell Caernarfon",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.13914,
-            "lng": -4.27693
+            "latitude": 53.13914,
+            "longitude": -4.27693
         },
         "built": "13th Century",
         "condition": "Intact",
@@ -196,8 +196,8 @@
         "name": "Castell Carreg Cennen",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.854383,
-            "lng": -3.935647
+            "latitude": 51.854383,
+            "longitude": -3.935647
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -210,8 +210,8 @@
         "name": "Castell Cilgerran",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 52.057216,
-            "lng": -4.634195
+            "latitude": 52.057216,
+            "longitude": -4.634195
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -224,8 +224,8 @@
         "name": "Castell Coch",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.535809,
-            "lng": -3.254635
+            "latitude": 51.535809,
+            "longitude": -3.254635
         },
         "built": "11-19th Century",
         "condition": "Intact",
@@ -238,8 +238,8 @@
         "name": "Castell Coety",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.522189,
-            "lng": -3.554243
+            "latitude": 51.522189,
+            "longitude": -3.554243
         },
         "alternativeNames": [
             "Coity Castle"
@@ -255,8 +255,8 @@
         "name": "Castell Conwy",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.280059,
-            "lng": -3.825619
+            "latitude": 53.280059,
+            "longitude": -3.825619
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -269,8 +269,8 @@
         "name": "Castell Criccieth",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 52.916012,
-            "lng": -4.232472
+            "latitude": 52.916012,
+            "longitude": -4.232472
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -283,8 +283,8 @@
         "name": "Castell Dinas Bran",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 52.97933,
-            "lng": -3.158883
+            "latitude": 52.97933,
+            "longitude": -3.158883
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -296,8 +296,8 @@
         "name": "Castell Dinefwr",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.876781,
-            "lng": -4.018293
+            "latitude": 51.876781,
+            "longitude": -4.018293
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -310,8 +310,8 @@
         "name": "Castell Dolbadarn",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.116523,
-            "lng": -4.114069
+            "latitude": 53.116523,
+            "longitude": -4.114069
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -324,8 +324,8 @@
         "name": "Castell Dolforwyn",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 52.54637,
-            "lng": -3.251835
+            "latitude": 52.54637,
+            "longitude": -3.251835
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -338,8 +338,8 @@
         "name": "Castell Dolwyddelan",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.052955,
-            "lng": -3.908201
+            "latitude": 53.052955,
+            "longitude": -3.908201
         },
         "built": "13th Century",
         "condition": "Fragmented Remains",
@@ -352,8 +352,8 @@
         "name": "Castell Ewloe",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.199956,
-            "lng": -3.067152
+            "latitude": 53.199956,
+            "longitude": -3.067152
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -366,8 +366,8 @@
         "name": "Castell Harlech",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 52.860004,
-            "lng": -4.108908
+            "latitude": 52.860004,
+            "longitude": -4.108908
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -380,8 +380,8 @@
         "name": "Castell Llansteffan",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.765722,
-            "lng": -4.390626
+            "latitude": 51.765722,
+            "longitude": -4.390626
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -394,8 +394,8 @@
         "name": "Castell Oxwich",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.555478,
-            "lng": -4.168383
+            "latitude": 51.555478,
+            "longitude": -4.168383
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -408,8 +408,8 @@
         "name": "Castell Rhuddlan",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.289212,
-            "lng": -3.464601
+            "latitude": 53.289212,
+            "longitude": -3.464601
         },
         "built": "13th Century",
         "condition": "Fragmented Remains",
@@ -422,8 +422,8 @@
         "name": "Castell Y Bere",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 52.658371,
-            "lng": -3.97082
+            "latitude": 52.658371,
+            "longitude": -3.97082
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -436,8 +436,8 @@
         "name": "Chepstow Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.644322,
-            "lng": -2.674872
+            "latitude": 51.644322,
+            "longitude": -2.674872
         },
         "built": "11th Century",
         "condition": "Intact",
@@ -450,8 +450,8 @@
         "name": "Crickhowell Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.857205,
-            "lng": -3.137105
+            "latitude": 51.857205,
+            "longitude": -3.137105
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -463,8 +463,8 @@
         "name": "Denbigh Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.181043,
-            "lng": -3.420545
+            "latitude": 53.181043,
+            "longitude": -3.420545
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -477,8 +477,8 @@
         "name": "Emlyn Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 52.039112,
-            "lng": -4.463225
+            "latitude": 52.039112,
+            "longitude": -4.463225
         },
         "built": "13th Century",
         "condition": "Fragmented Remains",
@@ -490,8 +490,8 @@
         "name": "Flint Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.251757,
-            "lng": -3.129905
+            "latitude": 53.251757,
+            "longitude": -3.129905
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -504,8 +504,8 @@
         "name": "Grosmont Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.915339,
-            "lng": -2.865986
+            "latitude": 51.915339,
+            "longitude": -2.865986
         },
         "built": "11th Century",
         "condition": "Ruins",
@@ -518,8 +518,8 @@
         "name": "Haverfordwest Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.802578,
-            "lng": -4.970021
+            "latitude": 51.802578,
+            "longitude": -4.970021
         },
         "built": "12-13th Century",
         "condition": "Partially Restored",
@@ -531,8 +531,8 @@
         "name": "Hawarden Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.180859,
-            "lng": -3.020021
+            "latitude": 53.180859,
+            "longitude": -3.020021
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -544,8 +544,8 @@
         "name": "Holt Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.077894,
-            "lng": -2.880244
+            "latitude": 53.077894,
+            "longitude": -2.880244
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -557,8 +557,8 @@
         "name": "Kenfig Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.530327,
-            "lng": -3.729992
+            "latitude": 51.530327,
+            "longitude": -3.729992
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -570,8 +570,8 @@
         "name": "Kidwelly Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.739499,
-            "lng": -4.305713
+            "latitude": 51.739499,
+            "longitude": -4.305713
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -584,8 +584,8 @@
         "name": "Laugharne Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.769999,
-            "lng": -4.462252
+            "latitude": 51.769999,
+            "longitude": -4.462252
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -598,8 +598,8 @@
         "name": "Llanblethian Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.457564,
-            "lng": -3.455873
+            "latitude": 51.457564,
+            "longitude": -3.455873
         },
         "alternativeNames": [
             "St Quentin's Castle"
@@ -615,8 +615,8 @@
         "name": "Llandovery Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.992748,
-            "lng": -3.796498
+            "latitude": 51.992748,
+            "longitude": -3.796498
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -628,8 +628,8 @@
         "name": "Llawhaden Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.822327,
-            "lng": -4.797603
+            "latitude": 51.822327,
+            "longitude": -4.797603
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -642,8 +642,8 @@
         "name": "Loughor Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.662421,
-            "lng": -4.077301
+            "latitude": 51.662421,
+            "longitude": -4.077301
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -656,8 +656,8 @@
         "name": "Manorbier Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.645577,
-            "lng": -4.79934
+            "latitude": 51.645577,
+            "longitude": -4.79934
         },
         "built": "12th Century",
         "condition": "Partially Restored",
@@ -669,8 +669,8 @@
         "name": "Monmouth Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.812353,
-            "lng": -2.717158
+            "latitude": 51.812353,
+            "longitude": -2.717158
         },
         "built": "11th Century",
         "condition": "Intact",
@@ -683,8 +683,8 @@
         "name": "Montgomery Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 52.56346,
-            "lng": -3.149868
+            "latitude": 52.56346,
+            "longitude": -3.149868
         },
         "built": "11th Century",
         "condition": "Ruins",
@@ -697,8 +697,8 @@
         "name": "Morlais Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.776935,
-            "lng": -3.379369
+            "latitude": 51.776935,
+            "longitude": -3.379369
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -710,8 +710,8 @@
         "name": "Narbeth Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.796815,
-            "lng": -4.742466
+            "latitude": 51.796815,
+            "longitude": -4.742466
         },
         "built": "12-13th Century",
         "condition": "Ruins",
@@ -723,8 +723,8 @@
         "name": "Neath Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.665044,
-            "lng": -3.803674
+            "latitude": 51.665044,
+            "longitude": -3.803674
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -737,8 +737,8 @@
         "name": "Newcastle Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.508941,
-            "lng": -3.583178
+            "latitude": 51.508941,
+            "longitude": -3.583178
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -751,8 +751,8 @@
         "name": "Newport Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.590696,
-            "lng": -2.995077
+            "latitude": 51.590696,
+            "longitude": -2.995077
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -765,8 +765,8 @@
         "name": "Ogmore Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.480648,
-            "lng": -3.611519
+            "latitude": 51.480648,
+            "longitude": -3.611519
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -779,8 +779,8 @@
         "name": "Oystermouth Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.577136,
-            "lng": -4.002687
+            "latitude": 51.577136,
+            "longitude": -4.002687
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -792,8 +792,8 @@
         "name": "Pembroke Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.676903,
-            "lng": -4.920534
+            "latitude": 51.676903,
+            "longitude": -4.920534
         },
         "built": "11th Century",
         "condition": "Partially Restored",
@@ -805,8 +805,8 @@
         "name": "Pennard Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.576561,
-            "lng": -4.102233
+            "latitude": 51.576561,
+            "longitude": -4.102233
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -818,8 +818,8 @@
         "name": "Penrice Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.575192,
-            "lng": -4.170281
+            "latitude": 51.575192,
+            "longitude": -4.170281
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -831,8 +831,8 @@
         "name": "Raglan Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.77016,
-            "lng": -2.849919
+            "latitude": 51.77016,
+            "longitude": -2.849919
         },
         "built": "12th Century",
         "condition": "Intact",
@@ -845,8 +845,8 @@
         "name": "Roch Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.84919,
-            "lng": -5.079019
+            "latitude": 51.84919,
+            "longitude": -5.079019
         },
         "built": "12th Century",
         "condition": "Restored",
@@ -859,8 +859,8 @@
         "name": "Ruthin Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.112834,
-            "lng": -3.310365
+            "latitude": 53.112834,
+            "longitude": -3.310365
         },
         "built": "13th Century",
         "condition": "Fragmented Remains",
@@ -872,8 +872,8 @@
         "name": "Skenfrith Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.878231,
-            "lng": -2.790366
+            "latitude": 51.878231,
+            "longitude": -2.790366
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -886,8 +886,8 @@
         "name": "St Donat's Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.401829,
-            "lng": -3.533094
+            "latitude": 51.401829,
+            "longitude": -3.533094
         },
         "built": "12th Century",
         "condition": "Partially Restored",
@@ -899,8 +899,8 @@
         "name": "Swansea Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.620318,
-            "lng": -3.941383
+            "latitude": 51.620318,
+            "longitude": -3.941383
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -913,8 +913,8 @@
         "name": "Tenby Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.672535,
-            "lng": -4.694569
+            "latitude": 51.672535,
+            "longitude": -4.694569
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -926,8 +926,8 @@
         "name": "Tretower Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.883836,
-            "lng": -3.185563
+            "latitude": 51.883836,
+            "longitude": -3.185563
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -940,8 +940,8 @@
         "name": "Twtil Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 53.286958,
-            "lng": -3.46182
+            "latitude": 53.286958,
+            "longitude": -3.46182
         },
         "built": "11th Century",
         "condition": "Ruins",
@@ -954,8 +954,8 @@
         "name": "Usk Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.705082,
-            "lng": -2.903407
+            "latitude": 51.705082,
+            "longitude": -2.903407
         },
         "built": "12th Century",
         "condition": "Intact",
@@ -968,8 +968,8 @@
         "name": "White Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.845957,
-            "lng": -2.902066
+            "latitude": 51.845957,
+            "longitude": -2.902066
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -982,8 +982,8 @@
         "name": "Wiston Castle",
         "region": "GB-WLS",
         "coordinates": {
-            "lat": 51.82716,
-            "lng": -4.870909
+            "latitude": 51.82716,
+            "longitude": -4.870909
         },
         "built": "12th Century",
         "condition": "Ruins",
