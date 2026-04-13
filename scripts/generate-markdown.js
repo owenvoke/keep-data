@@ -34,6 +34,10 @@ function formatValue (key, value) {
         return `\`${escapeInline(value)}\``
     }
 
+    if (key === 'alternativeNames' && Array.isArray(value)) {
+        return value.join(', ')
+    }
+
     if (typeof value === 'object') {
         return escapeInline(JSON.stringify(value))
     }
