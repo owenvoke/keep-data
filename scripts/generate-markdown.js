@@ -19,10 +19,10 @@ function formatValue (key, value) {
     }
 
     if (key === 'coordinates' && value && typeof value === 'object' && !Array.isArray(value)) {
-        const lat = value.lat
-        const lng = value.lng
-        if (lat !== undefined && lng !== undefined) {
-            return `${escapeInline(lat)}, ${escapeInline(lng)}`
+        const latitude = value.latitude
+        const longitude = value.longitude
+        if (latitude !== undefined && longitude !== undefined) {
+            return `${escapeInline(latitude)}, ${escapeInline(longitude)}`
         }
     }
 
