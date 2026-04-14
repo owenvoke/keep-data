@@ -348,6 +348,23 @@
         "type": "Square Keep"
     },
     {
+        "id": "019d8b08-0365-70dd-82ae-0633e8aef71a",
+        "name": "Castell Dryslwyn",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.8623,
+            "longitude": -4.1015
+        },
+        "alternativeNames": [
+            "Castell y Drysllwyn"
+        ],
+        "built": "11th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-dryslwyn",
+        "ownedBy": "Cadw",
+        "type": "Fragmented Remains"
+    },
+    {
         "id": "019d6947-63ce-7320-bd1b-4f3a99c3f561",
         "name": "Castell Ewloe",
         "region": "GB-WLS",
