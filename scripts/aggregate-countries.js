@@ -8,8 +8,6 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 const rootDir = path.resolve(__dirname, '..')
 const dataDir = path.join(rootDir, 'data')
-const readmePath = path.join(rootDir, 'README.md')
-
 const regionFilePattern = /^([a-z]{2})-([a-z0-9]+)\.json$/i
 const countryFilePattern = /^[a-z]{2}\.json$/i
 const allFileName = 'all.json'
@@ -45,35 +43,6 @@ function toRegionName (regionCode) {
     }
 
     return regionCode.toUpperCase()
-}
-
-function toCountrySectionMarkdown (countries) {
-    const lines = []
-
-    for (const country of countries) {
-        lines.push(
-            `- [${country.name}](data/${country.code}) ([JSON](data/${country.code}.json))`)
-
-        for (const region of country.regions) {
-            lines.push(
-                `  - [${region.name}](data/${region.fileBase}) ([JSON](data/${region.fileBase}.json))`)
-        }
-    }
-
-    return lines.join('\n')
-}
-
-async function updateReadmeCountriesSection (countries) {
-    const readmeRaw = await readFile(readmePath, 'utf8')
-    const countriesSection = toCountrySectionMarkdown(countries)
-    const replacement = `<!-- COUNTRIES -->\n${countriesSection}\n<!-- END COUNTRIES -->`
-    const nextReadme = readmeRaw.replace(
-        /<!-- COUNTRIES -->[\s\S]*?<!-- END COUNTRIES -->/m,
-        replacement)
-
-    if (nextReadme !== readmeRaw) {
-        await writeFile(readmePath, nextReadme, 'utf8')
-    }
 }
 
 async function main () {
@@ -132,8 +101,6 @@ async function main () {
         const outputPath = path.join(dataDir, `${country.code}.json`)
         await writeFile(outputPath, `${JSON.stringify(country.entries, null, 4)}\n`, 'utf8')
     }
-
-    await updateReadmeCountriesSection(countryList)
 
     const allFiles = (await readdir(dataDir)).
         filter((file) => file !== allFileName).
