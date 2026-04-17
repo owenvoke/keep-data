@@ -1,4 +1,5 @@
 /.build/
+/data/all.json
 /data/gb.json
 /data/*.md
 /node_modules/

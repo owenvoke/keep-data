@@ -7,10 +7,10 @@
         "uuid": "^13.0.0"
     },
     "scripts": {
-        "clean": "test -f data/gb.json && rm data/gb.json || true",
+        "clean": "test -f data/gb.json && rm data/gb.json || true && test -f data/all.json && rm data/all.json || true",
         "format": "npm run clean && node scripts/format.js",
         "markdown": "node scripts/generate-markdown.js",
-        "build": "npm run clean && npm run markdown && jq -s add data/gb-*.json > data/gb.json",
+        "build": "npm run clean && node scripts/aggregate-countries.js",
         "test:duplicates": "node scripts/detect-duplicates.js",
         "test:schema": "npm run clean && ajv validate -c ajv-formats -s schema.json -d 'data/*.json'"
     }
