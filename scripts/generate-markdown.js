@@ -91,7 +91,7 @@ function toDocument (sourceFileName, entries) {
 
 async function main () {
     const files = (await readdir(dataDir)).
-        filter((file) => file.endsWith('.json')).
+        filter((file) => file.endsWith('.json') && file !== 'all.json').
         sort((a, b) => a.localeCompare(b))
 
     let written = 0
