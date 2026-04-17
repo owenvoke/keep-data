@@ -32,6 +32,9 @@ function reorderEntry (entry) {
     if ('name' in entry) {
         ordered.name = entry.name
     }
+    if ('country' in entry) {
+        ordered.country = entry.country
+    }
     if ('region' in entry) {
         ordered.region = entry.region
     }
@@ -41,7 +44,7 @@ function reorderEntry (entry) {
 
     const remainingKeys = Object.keys(entry).
         filter(
-            (key) => key !== 'id' && key !== 'name' && key !== 'coordinates').
+            (key) => ! ['id', 'name', 'country', 'region', 'coordinates'].includes(key)).
         sort((a, b) => a.localeCompare(b))
 
     for (const key of remainingKeys) {

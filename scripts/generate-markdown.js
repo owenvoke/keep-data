@@ -30,7 +30,7 @@ function formatValue (key, value) {
         return `[${escapeInline(value)}](${escapeInline(value)})`
     }
 
-    if (key === 'id' || key === 'region') {
+    if (['id', 'country', 'region'].includes(key)) {
         return `\`${escapeInline(value)}\``
     }
 

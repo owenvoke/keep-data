@@ -2,6 +2,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e48de3328",
         "name": "Acre Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.703551,
@@ -16,6 +17,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-e1e9bc216ef5",
         "name": "Alberbury Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.723407,
@@ -29,6 +31,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-69dd6dbbfd99",
         "name": "Alnwick Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.415583,
@@ -42,6 +45,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-c086ebecb33d",
         "name": "Appleby Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.573601,
@@ -55,6 +59,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-d3a1446caaa0",
         "name": "Arundel Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.856297,
@@ -69,6 +74,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e53bbe335",
         "name": "Ashby De La Zouch Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.746558,
@@ -83,6 +89,7 @@
     {
         "id": "019d7274-34f6-72d3-a8b9-fb5b022517b9",
         "name": "Auckland Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.66671,
@@ -99,6 +106,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-6d7cb24979a3",
         "name": "Bamburgh Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.60896,
@@ -112,6 +120,7 @@
     {
         "id": "019d6948-63cc-73d2-a018-de7b34d6363e",
         "name": "Barnard Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.54362,
@@ -126,6 +135,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-c762779da67c",
         "name": "Barnwell Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.454943,
@@ -139,6 +149,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e4a992630",
         "name": "Beeston Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.126792,
@@ -153,6 +164,7 @@
     {
         "id": "019d6d02-d27b-714c-9598-6c30826a5ec9",
         "name": "Berkeley Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.688587,
@@ -167,6 +179,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e480968f1",
         "name": "Berkhamsted Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.764232,
@@ -181,6 +194,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e61ba346e",
         "name": "Berry Pomeroy Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.449,
@@ -195,6 +209,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e451ee3f7",
         "name": "Berwick Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.773646,
@@ -212,6 +227,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-c7588d376258",
         "name": "Bewcastle Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.064678,
@@ -225,6 +241,7 @@
     {
         "id": "019d6da0-6e59-74dd-a527-ccdfd52353e0",
         "name": "Bodiam Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.002266,
@@ -239,6 +256,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5373d829",
         "name": "Bolingbroke Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.16502,
@@ -253,6 +271,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5275e587",
         "name": "Bolsover Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.231301,
@@ -267,6 +286,7 @@
     {
         "id": "019d7274-34f6-72d3-a8ba-0d2ee39760a1",
         "name": "Bolton Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.322143,
@@ -280,6 +300,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-71c56f0e13d4",
         "name": "Bothal Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.172421,
@@ -294,6 +315,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e44244034",
         "name": "Bowes Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.51695,
@@ -308,6 +330,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5d96c2ab",
         "name": "Bramber Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.883231,
@@ -322,6 +345,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-cc6741b2f1e5",
         "name": "Brampton Bryan Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.347615,
@@ -335,6 +359,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-55381c119fee",
         "name": "Brancepeth Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.73379,
@@ -348,6 +373,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-e789138533b4",
         "name": "Bridgnorth Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.532166,
@@ -361,6 +387,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e4b866484",
         "name": "Brough Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.521704,
@@ -375,6 +402,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e4c3b7eff",
         "name": "Brougham Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.654151,
@@ -389,6 +417,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-b16b3eb31ea2",
         "name": "Bungay Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.455904,
@@ -402,6 +431,7 @@
     {
         "id": "019d7274-34f6-72d3-a8b9-fd39b997d061",
         "name": "Bywell Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.950671,
@@ -416,6 +446,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-ab4aa3bc1728",
         "name": "Caister Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.650628,
@@ -429,6 +460,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-a931612a973c",
         "name": "Canterbury Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.275651,
@@ -442,6 +474,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e599be4ae",
         "name": "Carisbrooke Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.687345,
@@ -456,6 +489,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e4d380e1e",
         "name": "Carlisle Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.896975,
@@ -470,6 +504,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-756418da9c40",
         "name": "Cartington Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.335061,
@@ -483,6 +518,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e4936c465",
         "name": "Castle Rising",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.793481,
@@ -500,6 +536,7 @@
     {
         "id": "019d7274-34f6-72d3-a8ba-126be65ea3b9",
         "name": "Cawood Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.832336,
@@ -513,6 +550,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-f84369ea01dc",
         "name": "Chartley Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.854104,
@@ -526,6 +564,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e4b815bbb",
         "name": "Chester Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.185309,
@@ -540,6 +579,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-af68655827a1",
         "name": "Chillham Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.242886,
@@ -553,6 +593,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-782c17fe4001",
         "name": "Chillingham Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.525822,
@@ -566,6 +607,7 @@
     {
         "id": "019d6da0-6e59-74dd-a527-dfbd0ce3fd2c",
         "name": "Chirk Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.935376,
@@ -580,6 +622,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e60ae0032",
         "name": "Christchurch Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.733352,
@@ -594,6 +637,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-b6fb33914c23",
         "name": "Clare Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.076914,
@@ -607,6 +651,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-d072b2f8de01",
         "name": "Clifford Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.104293,
@@ -620,6 +665,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e4f259585",
         "name": "Cliffords Tower",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.95582,
@@ -634,6 +680,7 @@
     {
         "id": "019d7274-34f6-72d3-a8ba-0484a15170ea",
         "name": "Clitheroe Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.870825,
@@ -647,6 +694,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e56116962",
         "name": "Clun Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.422083,
@@ -661,6 +709,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-cb70815efd19",
         "name": "Cockermouth Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.665249,
@@ -674,6 +723,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-ac934016a55e",
         "name": "Codnor Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.045006,
@@ -687,6 +737,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e51fbd156",
         "name": "Conisbrough Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.484426,
@@ -701,6 +752,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-b03832224ef3",
         "name": "Cooling Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.455223,
@@ -714,6 +766,7 @@
     {
         "id": "019d6da0-6e59-74dd-a527-d1c044965f75",
         "name": "Corfe Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.640129,
@@ -727,6 +780,7 @@
     {
         "id": "019d6da0-6e59-74dd-a527-cbfc8ad639f8",
         "name": "Croft Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.284361,
@@ -741,6 +795,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e4ffd0d34",
         "name": "Danby Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.244641,
@@ -754,6 +809,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e57ea28cb",
         "name": "Donnington Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.419498,
@@ -768,6 +824,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e59f86fa6",
         "name": "Dover Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.128771,
@@ -782,6 +839,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5e128d5c",
         "name": "Dudley Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.316866,
@@ -795,6 +853,7 @@
     {
         "id": "019d727e-b3b5-769c-a8ec-11c9995c5b56",
         "name": "Dudley Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.514072,
@@ -809,6 +868,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e45342504",
         "name": "Dunstanburgh Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.489421,
@@ -823,6 +883,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-5bbed602d9c2",
         "name": "Durham Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.775449,
@@ -836,6 +897,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e45f6875d",
         "name": "Edlingham Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.376613,
@@ -850,6 +912,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e463b3a5e",
         "name": "Etal Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.647478,
@@ -864,6 +927,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-ba19a85f84b0",
         "name": "Eye Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.320091,
@@ -877,6 +941,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5a4ae57b",
         "name": "Eynsford Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.370258,
@@ -891,6 +956,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5ce4c050",
         "name": "Farnham Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.218552,
@@ -906,6 +972,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-7d1e6f99415c",
         "name": "Ford Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.631387,
@@ -919,6 +986,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e4a8b6a20",
         "name": "Framlingham Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.223879,
@@ -933,6 +1001,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-ce2410cdd4ed",
         "name": "Gleaston Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.134009,
@@ -946,6 +1015,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e54ecde96",
         "name": "Goodrich Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.876734,
@@ -960,6 +1030,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-ce6e9010096e",
         "name": "Guildford Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.234293,
@@ -974,6 +1045,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-9b0a4162b752",
         "name": "Hadleigh Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.544448,
@@ -988,6 +1060,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-bff701bb5d7c",
         "name": "Halton Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.33286,
@@ -1001,6 +1074,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-83dcd25a31c1",
         "name": "Harbottle Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.337073,
@@ -1014,6 +1088,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-9ca153215f08",
         "name": "Hastings Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.85604,
@@ -1027,6 +1102,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-9ca00aaee9cb",
         "name": "Hedingham Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.992728,
@@ -1040,6 +1116,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-e9a382a34909",
         "name": "Hopton Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.395749,
@@ -1053,6 +1130,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-d0637bfe4f6b",
         "name": "Kendal Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.325091,
@@ -1066,6 +1144,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e57096ca1",
         "name": "Kenilworth Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.348487,
@@ -1080,6 +1159,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e54639d87",
         "name": "Kirby Muxloe Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.636626,
@@ -1094,6 +1174,7 @@
     {
         "id": "019d7274-34f6-72d3-a8ba-1bb901f7db0c",
         "name": "Knaresborough Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.007129,
@@ -1107,6 +1188,7 @@
     {
         "id": "019d7274-34f6-72d3-a8ba-0b02a094ec0f",
         "name": "Lancaster Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.049575,
@@ -1120,6 +1202,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e629fcade",
         "name": "Launceston Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.636892,
@@ -1134,6 +1217,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-b52a82c0f8a1",
         "name": "Leeds Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.24899,
@@ -1147,6 +1231,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-bcb8cabe30e4",
         "name": "Leicester Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.632345,
@@ -1160,6 +1245,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5868af3f",
         "name": "Lewes Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.87288,
@@ -1174,6 +1260,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-ba1741b88b63",
         "name": "Lincoln Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.234614,
@@ -1187,6 +1274,7 @@
     {
         "id": "019d6da0-6e59-74dd-a527-c409a4661102",
         "name": "Lindisfarne Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.669062,
@@ -1201,6 +1289,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e55b6220b",
         "name": "Longtown Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.956984,
@@ -1215,6 +1304,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5fbc517b",
         "name": "Ludgershall Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.259453,
@@ -1229,6 +1319,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-ef80a3b70281",
         "name": "Ludlow Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.367239,
@@ -1242,6 +1333,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-5d006d1a2852",
         "name": "Lumley Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.853293,
@@ -1255,6 +1347,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e61c48df5",
         "name": "Lydford Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.643651,
@@ -1269,6 +1362,7 @@
     {
         "id": "019d6da0-6e59-74dd-a527-d49e6db0926d",
         "name": "Marisco Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.162877,
@@ -1285,6 +1379,7 @@
     {
         "id": "019d727e-b3b5-769c-a8ec-0a3ef9d787d2",
         "name": "Maxstoke Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.499416,
@@ -1298,6 +1393,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e50611bc0",
         "name": "Middleham Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.284083,
@@ -1312,6 +1408,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-869a248c10dc",
         "name": "Mitford Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.163043,
@@ -1325,6 +1422,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e563d98ca",
         "name": "Moreton Corbet Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.804124,
@@ -1339,6 +1437,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-8b177560c1fd",
         "name": "Morpeth Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.168035,
@@ -1353,6 +1452,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-b3e2003b636f",
         "name": "Newark Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.077881,
@@ -1367,6 +1467,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-92fde3b4b75a",
         "name": "Newcastle Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.968757,
@@ -1381,6 +1482,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e46787fa0",
         "name": "Norham Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.721382,
@@ -1395,6 +1497,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-aeb486d9140c",
         "name": "Norwich Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.628729,
@@ -1408,6 +1511,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-b45ebe599c3a",
         "name": "Nottingham Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.949562,
@@ -1421,6 +1525,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5ee33f40",
         "name": "Nunney Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.210163,
@@ -1435,6 +1540,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-c177bdec1efc",
         "name": "Oakham Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.670917,
@@ -1448,6 +1554,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-a1e4f21fe14f",
         "name": "Odiham Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.261358,
@@ -1461,6 +1568,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e623a0e0e",
         "name": "Okehampton Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.731106,
@@ -1475,6 +1583,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-d4e05aee5127",
         "name": "Old Knepp Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.97572,
@@ -1488,6 +1597,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5fc5fffe",
         "name": "Old Sarum Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.093229,
@@ -1502,6 +1612,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e60841972",
         "name": "Old Wardour Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.036409,
@@ -1516,6 +1627,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e49e728f2",
         "name": "Orford Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.094217,
@@ -1530,6 +1642,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-c314d299b0ed",
         "name": "Oxford Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.751618,
@@ -1543,6 +1656,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-d7169f6315ce",
         "name": "Pembridge Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.869819,
@@ -1556,6 +1670,7 @@
     {
         "id": "019d7274-34f6-72d3-a8ba-014249c86198",
         "name": "Pendragon Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.418677,
@@ -1569,6 +1684,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e4dfca1af",
         "name": "Penrith Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.662107,
@@ -1583,6 +1699,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5895f306",
         "name": "Pevensey Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.819264,
@@ -1597,6 +1714,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e53083a96",
         "name": "Peveril Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.340745,
@@ -1611,6 +1729,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5139bce5",
         "name": "Pickering Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.250079,
@@ -1625,6 +1744,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e4e300d80",
         "name": "Piel Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.062187,
@@ -1639,6 +1759,7 @@
     {
         "id": "019d6da0-6e59-74dd-a527-d974c1f242ce",
         "name": "Plympton Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.383713,
@@ -1652,6 +1773,7 @@
     {
         "id": "019d7274-34f6-72d3-a8ba-320bbb90a32b",
         "name": "Pontefract Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.695066,
@@ -1668,6 +1790,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e58d6ee8f",
         "name": "Portchester Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.837549,
@@ -1682,6 +1805,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e46aed775",
         "name": "Prudhoe Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.965149,
@@ -1696,6 +1820,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-620290af0d90",
         "name": "Raby Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.593593,
@@ -1709,6 +1834,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-9445ac196979",
         "name": "Ravensworth Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.926638,
@@ -1722,6 +1848,7 @@
     {
         "id": "019d7274-34f6-72d3-a8ba-1ec28618b11e",
         "name": "Ravensworth Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.464061,
@@ -1735,6 +1862,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e638aa517",
         "name": "Restormel Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.421766,
@@ -1749,6 +1877,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e51b70287",
         "name": "Richmond Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.402139,
@@ -1763,6 +1892,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5ad64e4e",
         "name": "Rochester Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.389777,
@@ -1777,6 +1907,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-c8c01318c0dc",
         "name": "Rockingham Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.512819,
@@ -1790,6 +1921,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-e3e595426e05",
         "name": "Rufus Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.539527,
@@ -1806,6 +1938,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-b8e1e20060ea",
         "name": "Saltwood Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.081804,
@@ -1819,6 +1952,7 @@
     {
         "id": "019d727e-b3b4-734e-b6ac-e0ef741c5981",
         "name": "Sandal Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.658775,
@@ -1832,6 +1966,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e60db470b",
         "name": "Sherborne Old Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.949435,
@@ -1846,6 +1981,7 @@
     {
         "id": "019d7274-34f6-72d3-a8ba-2249d4b64b90",
         "name": "Sheriff Hutton Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.087786,
@@ -1859,6 +1995,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-c70e044d73da",
         "name": "Shirburn Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.658353,
@@ -1872,6 +2009,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-f11a41ae5fe0",
         "name": "Shrewsbury Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.711388,
@@ -1885,6 +2023,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e51f9c698",
         "name": "Skipsea Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.978869,
@@ -1899,6 +2038,7 @@
     {
         "id": "019d7274-34f6-72d3-a8ba-2480a725b403",
         "name": "Skipton Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.087786,
@@ -1912,6 +2052,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-db56fa40b6ce",
         "name": "Snodhill Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.057624,
@@ -1925,6 +2066,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5bbb70e3",
         "name": "St Leonard's Tower",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.288203,
@@ -1939,6 +2081,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-fd0511f89816",
         "name": "Stafford Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.797918,
@@ -1952,6 +2095,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e5c86beca",
         "name": "Sutton Valence Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.212369,
@@ -1966,6 +2110,7 @@
     {
         "id": "019d727e-b3b5-769c-a8ec-0282031a94d0",
         "name": "Tamworth Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.63263,
@@ -1979,6 +2124,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-d99862994014",
         "name": "Taunton Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.015638,
@@ -1992,6 +2138,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-8de66ec3e4b6",
         "name": "Thirlwall Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.988797,
@@ -2005,6 +2152,7 @@
     {
         "id": "019d7274-34f6-72d3-a8ba-2e381312120d",
         "name": "Tickhill Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 53.429142,
@@ -2018,6 +2166,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e63ebe21d",
         "name": "Tintagel Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.667281,
@@ -2032,6 +2181,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-bf9f81e2d969",
         "name": "Tonbridge Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.196298,
@@ -2045,6 +2195,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e6297c66d",
         "name": "Totnes Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.432027,
@@ -2059,6 +2210,7 @@
     {
         "id": "019d6e33-1b57-760e-a385-a6ebabb36cdb",
         "name": "Tower of London",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.50811,
@@ -2073,6 +2225,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-e6e2e130ee9b",
         "name": "Trematon Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 50.400412,
@@ -2086,6 +2239,7 @@
     {
         "id": "019d727e-b3b5-769c-a8ec-068a56524492",
         "name": "Tutbury Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.859621,
@@ -2099,6 +2253,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e47c5ef80",
         "name": "Tynemouth Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.017708,
@@ -2113,6 +2268,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-a293ead4be3c",
         "name": "Walden Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.025524,
@@ -2126,6 +2282,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-caf1485eb0c4",
         "name": "Wallingford Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.603239,
@@ -2139,6 +2296,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e47a2f909",
         "name": "Warkworth Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 55.345244,
@@ -2153,6 +2311,7 @@
     {
         "id": "019d727e-b3b5-769c-a8ec-0e8f0a1bd7ca",
         "name": "Warwick Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.279669,
@@ -2167,6 +2326,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-dda283b9d55a",
         "name": "Wells Bishop Palace",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.209038,
@@ -2180,6 +2340,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-f7fe974de12c",
         "name": "Whittington Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.8736,
@@ -2193,6 +2354,7 @@
     {
         "id": "019d7274-34f6-72d3-a8ba-2a432d36f5f0",
         "name": "Whorlton Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.415388,
@@ -2206,6 +2368,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e55d51358",
         "name": "Wigmore Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.317987,
@@ -2220,6 +2383,7 @@
     {
         "id": "019d727e-b3b5-769c-a8eb-dc9a6afa0e9d",
         "name": "Wilton Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.916581,
@@ -2233,6 +2397,7 @@
     {
         "id": "019d72a8-a3ca-7120-80ac-a77e0cc0682d",
         "name": "Winchester Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.06334,
@@ -2246,6 +2411,7 @@
     {
         "id": "019d727e-b3b5-769c-a8ec-14be1ea83820",
         "name": "Windsor Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.483894,
@@ -2260,6 +2426,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-65e0ac6dd088",
         "name": "Witton Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 54.668759,
@@ -2273,6 +2440,7 @@
     {
         "id": "019d6948-63cd-715f-909e-ad8e58dabd9f",
         "name": "Wolvesey Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 51.059061,
@@ -2287,6 +2455,7 @@
     {
         "id": "019d6e1e-1269-77ab-bd88-a67057eb02a7",
         "name": "Woodcroft Castle",
+        "country": "GB",
         "region": "GB-ENG",
         "coordinates": {
             "latitude": 52.626222,

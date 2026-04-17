@@ -2,6 +2,7 @@
     {
         "id": "019d6d1d-5e40-7587-842f-46bf581189db",
         "name": "Abergavenny Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.820076,
@@ -15,6 +16,7 @@
     {
         "id": "019d6d61-7386-73ba-8f97-74ccbac6c748",
         "name": "Aberystwyth Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 52.413263,
@@ -28,6 +30,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9776b23a",
         "name": "Beaumaris Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.264838,
@@ -42,6 +45,7 @@
     {
         "id": "019d72bd-61f5-779b-8c35-e5104176a853",
         "name": "Brecon Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.948767,
@@ -55,6 +59,7 @@
     {
         "id": "019d6d16-4e5e-76cf-906a-99a6a0809a98",
         "name": "Caerleon Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.609571,
@@ -68,6 +73,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa60f6496",
         "name": "Caerphilly Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.576089,
@@ -82,6 +88,7 @@
     {
         "id": "019d6d19-35f4-725c-a863-d88a440ac488",
         "name": "Caldicot Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.592851,
@@ -96,6 +103,7 @@
     {
         "id": "019d6d61-7386-73ba-8f97-8509ccc146a4",
         "name": "Camarthen Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.856021,
@@ -109,6 +117,7 @@
     {
         "id": "019d6d19-35f5-7365-8ae7-a8add9c5bc20",
         "name": "Cardiff Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.482234,
@@ -123,6 +132,7 @@
     {
         "id": "019d6d61-7386-73ba-8f97-796145f131d4",
         "name": "Carew Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.69839,
@@ -136,6 +146,7 @@
     {
         "id": "019d72bd-61f5-779b-8c35-c9434bfeff77",
         "name": "Castel Aberlleiniog",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.292575,
@@ -149,6 +160,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a99c90bd9",
         "name": "Castell Bronllys",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 52.003559,
@@ -163,6 +175,7 @@
     {
         "id": "019d72bd-61f5-779b-8c35-d6576c1f4bd8",
         "name": "Castell Caergwrle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.107197,
@@ -180,6 +193,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a95376045",
         "name": "Castell Caernarfon",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.13914,
@@ -194,6 +208,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9cfb90e8",
         "name": "Castell Carreg Cennen",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.854383,
@@ -208,6 +223,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9c210ca0",
         "name": "Castell Cilgerran",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 52.057216,
@@ -222,6 +238,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa635c416",
         "name": "Castell Coch",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.535809,
@@ -236,6 +253,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa3a7ccc7",
         "name": "Castell Coety",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.522189,
@@ -253,6 +271,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a97eab7dd",
         "name": "Castell Conwy",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.280059,
@@ -267,6 +286,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a956b90b7",
         "name": "Castell Criccieth",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 52.916012,
@@ -281,6 +301,7 @@
     {
         "id": "019d72bd-61f5-779b-8c35-cdd7c7152bf7",
         "name": "Castell Dinas Bran",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 52.97933,
@@ -294,6 +315,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9d9fbec9",
         "name": "Castell Dinefwr",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.876781,
@@ -308,6 +330,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9622f416",
         "name": "Castell Dolbadarn",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.116523,
@@ -322,6 +345,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9aa48c18",
         "name": "Castell Dolforwyn",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 52.54637,
@@ -336,6 +360,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a98000ad2",
         "name": "Castell Dolwyddelan",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.052955,
@@ -350,6 +375,7 @@
     {
         "id": "019d8b08-0365-70dd-82ae-0633e8aef71a",
         "name": "Castell Dryslwyn",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.8623,
@@ -367,6 +393,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a99c3f561",
         "name": "Castell Ewloe",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.199956,
@@ -381,6 +408,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a970e90ff",
         "name": "Castell Harlech",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 52.860004,
@@ -395,6 +423,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa022aa43",
         "name": "Castell Llansteffan",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.765722,
@@ -409,6 +438,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa74ed3de",
         "name": "Castell Oxwich",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.555478,
@@ -423,6 +453,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a98fecc3d",
         "name": "Castell Rhuddlan",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.289212,
@@ -437,6 +468,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9544385b",
         "name": "Castell Y Bere",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 52.658371,
@@ -451,6 +483,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa0fda941",
         "name": "Chepstow Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.644322,
@@ -465,6 +498,7 @@
     {
         "id": "019d6d61-7386-73ba-8f97-7320f392208b",
         "name": "Crickhowell Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.857205,
@@ -478,6 +512,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9804a3df",
         "name": "Denbigh Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.181043,
@@ -492,6 +527,7 @@
     {
         "id": "019d72bd-61f5-779b-8c35-ebab647e37bd",
         "name": "Emlyn Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 52.039112,
@@ -505,6 +541,7 @@
     {
         "id": "019d72bd-61f5-779b-8c35-d992e45ac617",
         "name": "Flint Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.251757,
@@ -519,6 +556,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa1839b14",
         "name": "Grosmont Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.915339,
@@ -533,6 +571,7 @@
     {
         "id": "019d6d61-7386-73ba-8f97-7e541133800c",
         "name": "Haverfordwest Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.802578,
@@ -546,6 +585,7 @@
     {
         "id": "019d72bd-61f5-779b-8c35-dd023324693e",
         "name": "Hawarden Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.180859,
@@ -559,6 +599,7 @@
     {
         "id": "019d72bd-61f5-779b-8c35-e175513ad592",
         "name": "Holt Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.077894,
@@ -572,6 +613,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa4616dd8",
         "name": "Kenfig Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.530327,
@@ -585,6 +627,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9e807078",
         "name": "Kidwelly Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.739499,
@@ -599,6 +642,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9f3415e8",
         "name": "Laugharne Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.769999,
@@ -613,6 +657,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa7e882b0",
         "name": "Llanblethian Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.457564,
@@ -630,6 +675,7 @@
     {
         "id": "019d6d1d-5e41-730f-82c2-98104fbc2203",
         "name": "Llandovery Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.992748,
@@ -643,6 +689,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9c820974",
         "name": "Llawhaden Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.822327,
@@ -657,6 +704,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa67a4f10",
         "name": "Loughor Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.662421,
@@ -671,6 +719,7 @@
     {
         "id": "019d6d61-7386-73ba-8f97-83ab567f433d",
         "name": "Manorbier Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.645577,
@@ -684,6 +733,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa1eb4d9b",
         "name": "Monmouth Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.812353,
@@ -698,6 +748,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9b365355",
         "name": "Montgomery Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 52.56346,
@@ -712,6 +763,7 @@
     {
         "id": "019d6d16-4e5e-76cf-906a-9decaad96dff",
         "name": "Morlais Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.776935,
@@ -725,6 +777,7 @@
     {
         "id": "019d6d61-7385-719a-bc4d-af35b8107b96",
         "name": "Narbeth Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.796815,
@@ -738,6 +791,7 @@
     {
         "id": "019d6d16-4e5e-76cf-906a-a5c84172c034",
         "name": "Neath Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.665044,
@@ -752,6 +806,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa52e02ce",
         "name": "Newcastle Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.508941,
@@ -766,6 +821,7 @@
     {
         "id": "019d6d10-075d-70bd-90f4-33cb26232ec0",
         "name": "Newport Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.590696,
@@ -780,6 +836,7 @@
     {
         "id": "019d6d0e-be90-7199-a90f-5a15b10217bc",
         "name": "Ogmore Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.480648,
@@ -794,6 +851,7 @@
     {
         "id": "019d6d16-4e5e-76cf-906a-a05bd5910172",
         "name": "Oystermouth Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.577136,
@@ -807,6 +865,7 @@
     {
         "id": "019d6c8d-73d6-774c-bc35-4132a1c29ed0",
         "name": "Pembroke Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.676903,
@@ -820,6 +879,7 @@
     {
         "id": "019d72bd-61f5-779b-8c35-ed4ca99a667e",
         "name": "Pennard Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.576561,
@@ -833,6 +893,7 @@
     {
         "id": "019d72bd-61f5-779b-8c35-f06b25ae938d",
         "name": "Penrice Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.575192,
@@ -846,6 +907,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa25b6cbc",
         "name": "Raglan Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.77016,
@@ -860,6 +922,7 @@
     {
         "id": "019d6d61-7386-73ba-8f97-68594873d18d",
         "name": "Roch Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.84919,
@@ -874,6 +937,7 @@
     {
         "id": "019d72bd-61f5-779b-8c35-d3523e630700",
         "name": "Ruthin Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.112834,
@@ -887,6 +951,7 @@
     {
         "id": "019d6d19-35f5-7365-8ae7-a239209ca105",
         "name": "Skenfrith Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.878231,
@@ -901,6 +966,7 @@
     {
         "id": "019d72bd-61f5-779b-8c35-f69b4c6fe716",
         "name": "St Donat's Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.401829,
@@ -914,6 +980,7 @@
     {
         "id": "019d6d0e-be90-7199-a90f-55c24dedaea6",
         "name": "Swansea Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.620318,
@@ -928,6 +995,7 @@
     {
         "id": "019d6d61-7386-73ba-8f97-6cfdd37debac",
         "name": "Tenby Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.672535,
@@ -941,6 +1009,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9bf7793e",
         "name": "Tretower Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.883836,
@@ -955,6 +1024,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a999e2383",
         "name": "Twtil Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 53.286958,
@@ -969,6 +1039,7 @@
     {
         "id": "019d6d19-35f5-7365-8ae7-a6fa83314729",
         "name": "Usk Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.705082,
@@ -983,6 +1054,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3aa30f3dd4",
         "name": "White Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.845957,
@@ -997,6 +1069,7 @@
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a9cdbf26f",
         "name": "Wiston Castle",
+        "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 51.82716,
