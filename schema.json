@@ -20,7 +20,7 @@
                 "$ref": "#/definitions/country"
             },
             "region": {
-                "description": "The region of the castle or fortification (this is only relevant for UK castles)..",
+                "description": "The region of the castle or fortification (this is only relevant for UK castles).",
                 "$ref": "#/definitions/region"
             },
             "coordinates": {
