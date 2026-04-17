@@ -12,6 +12,6 @@
         "markdown": "node scripts/generate-markdown.js",
         "build": "npm run clean && node scripts/aggregate-countries.js && npm run markdown",
         "test:duplicates": "node scripts/detect-duplicates.js",
-        "test:schema": "npm run clean && ajv validate -c ajv-formats -s schema.json -d 'data/*.json'"
+        "test:schema": "npm run clean && ajv validate -c ajv-formats --verbose -s schema.json -d 'data/*.json'"
     }
 }
