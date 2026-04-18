@@ -180,10 +180,10 @@ async function updateReadmeCountriesSection (files) {
     }
 
     const countryList = Array.from(countries.values()).
-        sort((a, b) => a.code.localeCompare(b.code))
+        sort((a, b) => a.name.localeCompare(b.name))
 
     for (const country of countryList) {
-        country.regions.sort((a, b) => a.code.localeCompare(b.code))
+        country.regions.sort((a, b) => a.name.localeCompare(b.name))
     }
 
     const readmeRaw = await readFile(readmePath, 'utf8')
