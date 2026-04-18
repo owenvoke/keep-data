@@ -78,7 +78,7 @@ jobs:
       - name: Run formatting script
         run: npm run format
 
-      - name: Run formatting script
+      - name: Commit formatted changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: 'style: apply automatic formatting'
