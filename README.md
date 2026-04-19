@@ -10,6 +10,9 @@ The combined JSON data is available [here](data/all.json).
 
 <!-- COUNTRIES -->
 - [Åland Islands](data/ax) ([JSON](data/ax.json))
+- [Denmark](data/dk) ([JSON](data/dk.json))
+- [Norway](data/no) ([JSON](data/no.json))
+- [Sweden](data/se) ([JSON](data/se.json))
 - [United Kingdom](data/gb) ([JSON](data/gb.json))
   - [England](data/gb-eng) ([JSON](data/gb-eng.json))
   - [Northern Ireland](data/gb-nir) ([JSON](data/gb-nir.json))
