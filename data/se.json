@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Borgholms slott",
+        "country": "SE",
+        "coordinates": {
+            "latitude": 56.870584708619205,
+            "longitude": 16.643879075870743
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://borgholmsslott.se",
+        "ownedBy": "Statens fastighetsverk",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Eketorp",
+        "country": "SE",
+        "coordinates": {
+            "latitude": 56.29559181974537,
+            "longitude": 16.486079755029834
+        },
+        "built": "Iron Age",
+        "condition": "Reconstructed",
+        "homepage": "https://eketorpsborg.se",
+        "ownedBy": "Statens fastighetsverk",
+        "type": "Fort"
+    },
+    {
+        "name": "Ismantorps borg",
+        "country": "SE",
+        "coordinates": {
+            "latitude": 56.745420789550224,
+            "longitude": 16.642602589586524
+        },
+        "built": "Iron Age",
+        "condition": "Ruin",
+        "homepage": null,
+        "ownedBy": "Statens fastighetsverk",
+        "type": "Fort"
+    },
+    {
+        "name": "Sandby borg",
+        "country": "SE",
+        "coordinates": {
+            "latitude": 56.552538114498816,
+            "longitude": 16.63926376850912
+        },
+        "built": "Iron Age",
+        "condition": "Ruin",
+        "homepage": "https://sandbyborg.se",
+        "ownedBy": "Swedish National Heritage Board",
+        "type": "Fort"
+    },
+    {
+        "name": "Varbergs fästning",
+        "country": "SE",
+        "coordinates": {
+            "latitude": 57.10568244266297,
+            "longitude": 12.239746126598982
+        },
+        "built": "13th Century",
+        "condition": "Intact",
+        "homepage": "https://museumhalland.se/varbergs-fastning",
+        "ownedBy": "Statens fastighetsverk",
+        "type": "Fort"
+    },
+    {
+        "name": "Hammershus",
+        "country": "DK",
+        "coordinates": {
+            "latitude": 55.27115804409355,
+            "longitude": 14.755343100130908
+        },
+        "built": "13th Century",
+        "condition": "Ruin",
+        "homepage": "https://www.naturstyrelsen.dk/find-et-naturomraade/naturguider/bornholm/hammershus",
+        "ownedBy": "Slots- og Kulturstyrelsen",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Christiansø",
+        "country": "DK",
+        "coordinates": {
+            "latitude": 55.32038083869139,
+            "longitude": 15.18704987647295
+        },
+        "built": "17th Century",
+        "condition": "Intact",
+        "homepage": "https://www.christiansoe.dk",
+        "ownedBy": "Den danske stat",
+        "type": "Artillery Fort"
+    }
+]
