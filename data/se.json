@@ -20,7 +20,7 @@
             "longitude": 16.486079755029834
         },
         "built": "Iron Age",
-        "condition": "Reconstructed",
+        "condition": "Rebuilt",
         "homepage": "https://eketorpsborg.se",
         "ownedBy": "Statens fastighetsverk",
         "type": "Fort"
@@ -33,8 +33,7 @@
             "longitude": 16.642602589586524
         },
         "built": "Iron Age",
-        "condition": "Ruin",
-        "homepage": null,
+        "condition": "Ruins",
         "ownedBy": "Statens fastighetsverk",
         "type": "Fort"
     },
@@ -46,7 +45,7 @@
             "longitude": 16.63926376850912
         },
         "built": "Iron Age",
-        "condition": "Ruin",
+        "condition": "Ruins",
         "homepage": "https://sandbyborg.se",
         "ownedBy": "Swedish National Heritage Board",
         "type": "Fort"
@@ -72,7 +71,7 @@
             "longitude": 14.755343100130908
         },
         "built": "13th Century",
-        "condition": "Ruin",
+        "condition": "Ruins",
         "homepage": "https://www.naturstyrelsen.dk/find-et-naturomraade/naturguider/bornholm/hammershus",
         "ownedBy": "Slots- og Kulturstyrelsen",
         "type": "Square Keep"

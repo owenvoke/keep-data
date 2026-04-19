@@ -34,7 +34,6 @@
         },
         "built": "19th Century",
         "condition": "Intact",
-        "homepage": null,
         "ownedBy": "Gentofte Kommune",
         "type": "Artillery Fort"
     },
@@ -47,7 +46,6 @@
         },
         "built": "18th Century",
         "condition": "Intact",
-        "homepage": null,
         "ownedBy": "Forsvaret",
         "type": "Artillery Fort"
     },
@@ -60,7 +58,6 @@
         },
         "built": "20th Century",
         "condition": "Intact",
-        "homepage": null,
         "ownedBy": "Private",
         "type": "Artillery Fort"
     },
@@ -125,7 +122,6 @@
         },
         "built": "19th Century",
         "condition": "Intact",
-        "homepage": null,
         "ownedBy": "Tårnby Kommune",
         "type": "Artillery Fort"
     },
@@ -137,8 +133,7 @@
             "longitude": 12.73954374817714
         },
         "built": "20th Century",
-        "condition": "Ruin",
-        "homepage": null,
+        "condition": "Ruins",
         "ownedBy": "Den danske stat",
         "type": "Artillery Fort"
     },
@@ -151,7 +146,6 @@
         },
         "built": "20th Century",
         "condition": "Intact",
-        "homepage": null,
         "ownedBy": "Naturstyrelsen",
         "type": "Artillery Fort"
     },
@@ -202,7 +196,7 @@
             "longitude": 14.755343100130908
         },
         "built": "13th Century",
-        "condition": "Ruin",
+        "condition": "Ruins",
         "homepage": "https://www.naturstyrelsen.dk/find-et-naturomraade/naturguider/bornholm/hammershus",
         "ownedBy": "Slots- og Kulturstyrelsen",
         "type": "Square Keep"
