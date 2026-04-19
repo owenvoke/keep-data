@@ -1,93 +1,6 @@
 [
     {
-        "name": "Middelgrundsfortet",
-        "country": "DK",
-        "coordinates": {
-            "latitude": 55.72055869241654,
-            "longitude": 12.665892977361365
-        },
-        "built": "19th Century",
-        "condition": "Intact",
-        "homepage": "https://ungdomsoen.dk",
-        "ownedBy": "Private ownership",
-        "type": "Artillery Fort"
-    },
-    {
-        "name": "Flakfortet",
-        "country": "DK",
-        "coordinates": {
-            "latitude": 55.70366621040855,
-            "longitude": 12.731431953986831
-        },
-        "built": "20th Century",
-        "condition": "Intact",
-        "homepage": "https://flakfortet.com",
-        "ownedBy": "Private ownership",
-        "type": "Artillery Fort"
-    },
-    {
-        "name": "Charlottenlund Fort",
-        "country": "DK",
-        "coordinates": {
-            "latitude": 55.74567554777687,
-            "longitude": 12.587270731850133
-        },
-        "built": "19th Century",
-        "condition": "Intact",
-        "ownedBy": "Gentofte Kommune",
-        "type": "Artillery Fort"
-    },
-    {
-        "name": "Trekroner Fort",
-        "country": "DK",
-        "coordinates": {
-            "latitude": 55.703271054709106,
-            "longitude": 12.614565651571375
-        },
-        "built": "18th Century",
-        "condition": "Intact",
-        "ownedBy": "Forsvaret",
-        "type": "Artillery Fort"
-    },
-    {
-        "name": "Dragør Fort",
-        "country": "DK",
-        "coordinates": {
-            "latitude": 55.58874431850925,
-            "longitude": 12.67849541343587
-        },
-        "built": "20th Century",
-        "condition": "Intact",
-        "ownedBy": "Private",
-        "type": "Artillery Fort"
-    },
-    {
-        "name": "Kronborg Slot",
-        "country": "DK",
-        "coordinates": {
-            "latitude": 55.68572450512342,
-            "longitude": 12.577406500792657
-        },
-        "built": "16th Century",
-        "condition": "Intact",
-        "homepage": "https://kronborg.dk",
-        "ownedBy": "Slots- og Kulturstyrelsen",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Christiansborg Slot",
-        "country": "DK",
-        "coordinates": {
-            "latitude": 55.67622932336545,
-            "longitude": 12.580405401848328
-        },
-        "built": "20th Century",
-        "condition": "Intact",
-        "homepage": "https://kongeligeslotte.dk",
-        "ownedBy": "Den danske stat",
-        "type": "Palace"
-    },
-    {
+        "id": "019da4ea-743f-719b-bf14-22110ac174f9",
         "name": "Amalienborg",
         "country": "DK",
         "coordinates": {
@@ -101,68 +14,75 @@
         "type": "Palace"
     },
     {
-        "name": "Rosenborg Slot",
+        "id": "019da4ea-743f-719b-bf14-0d9eb33236aa",
+        "name": "Charlottenlund Fort",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.685721834533126,
-            "longitude": 12.577400422611822
-        },
-        "built": "17th Century",
-        "condition": "Intact",
-        "homepage": "https://kongeligeslotte.dk",
-        "ownedBy": "Den danske stat",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Kastrup Fort",
-        "country": "DK",
-        "coordinates": {
-            "latitude": 55.6485063261222,
-            "longitude": 12.639682845925577
+            "latitude": 55.74567554777687,
+            "longitude": 12.587270731850133
         },
         "built": "19th Century",
         "condition": "Intact",
-        "ownedBy": "Tårnby Kommune",
+        "ownedBy": "Gentofte Kommune",
         "type": "Artillery Fort"
     },
     {
-        "name": "Saltholm Batteri",
+        "id": "019da4ea-743f-719b-bf14-1dd788d94dc4",
+        "name": "Christiansborg Slot",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.636108413291595,
-            "longitude": 12.73954374817714
-        },
-        "built": "20th Century",
-        "condition": "Ruins",
-        "ownedBy": "Den danske stat",
-        "type": "Artillery Fort"
-    },
-    {
-        "name": "Kongelundsfortet",
-        "country": "DK",
-        "coordinates": {
-            "latitude": 55.56230882290065,
-            "longitude": 12.56657648580064
+            "latitude": 55.67622932336545,
+            "longitude": 12.580405401848328
         },
         "built": "20th Century",
         "condition": "Intact",
-        "ownedBy": "Naturstyrelsen",
-        "type": "Artillery Fort"
-    },
-    {
-        "name": "Frederiksborg Slot",
-        "country": "DK",
-        "coordinates": {
-            "latitude": 55.93499403945293,
-            "longitude": 12.30126041862549
-        },
-        "built": "17th Century",
-        "condition": "Intact",
-        "homepage": "https://frederiksborg.dk",
+        "homepage": "https://kongeligeslotte.dk",
         "ownedBy": "Den danske stat",
         "type": "Palace"
     },
     {
+        "id": "019da4ea-743f-719b-bf14-472cde222337",
+        "name": "Christiansø",
+        "country": "DK",
+        "coordinates": {
+            "latitude": 55.32038083869139,
+            "longitude": 15.18704987647295
+        },
+        "built": "17th Century",
+        "condition": "Intact",
+        "homepage": "https://www.christiansoe.dk",
+        "ownedBy": "Den danske stat",
+        "type": "Artillery Fort"
+    },
+    {
+        "id": "019da4ea-743f-719b-bf14-14f769a3fac2",
+        "name": "Dragør Fort",
+        "country": "DK",
+        "coordinates": {
+            "latitude": 55.58874431850925,
+            "longitude": 12.67849541343587
+        },
+        "built": "20th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Artillery Fort"
+    },
+    {
+        "id": "019da4ea-743f-719b-bf14-0b43f2542945",
+        "name": "Flakfortet",
+        "country": "DK",
+        "coordinates": {
+            "latitude": 55.70366621040855,
+            "longitude": 12.731431953986831
+        },
+        "built": "20th Century",
+        "condition": "Intact",
+        "homepage": "https://flakfortet.com",
+        "ownedBy": "Private ownership",
+        "type": "Artillery Fort"
+    },
+    {
+        "id": "019da4ea-743f-719b-bf14-3a6fae8982df",
         "name": "Frederiksberg Slot",
         "country": "DK",
         "coordinates": {
@@ -176,19 +96,21 @@
         "type": "Palace"
     },
     {
-        "name": "Kastellet",
+        "id": "019da4ea-743f-719b-bf14-36e4faeb385e",
+        "name": "Frederiksborg Slot",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.69136753618467,
-            "longitude": 12.5944157453539
+            "latitude": 55.93499403945293,
+            "longitude": 12.30126041862549
         },
         "built": "17th Century",
         "condition": "Intact",
-        "homepage": "https://kastellet.dk",
-        "ownedBy": "Forsvaret",
-        "type": "Artillery Fort"
+        "homepage": "https://frederiksborg.dk",
+        "ownedBy": "Den danske stat",
+        "type": "Palace"
     },
     {
+        "id": "019da4ea-743f-719b-bf14-41f688c49954",
         "name": "Hammershus",
         "country": "DK",
         "coordinates": {
@@ -202,16 +124,111 @@
         "type": "Square Keep"
     },
     {
-        "name": "Christiansø",
+        "id": "019da4ea-743f-719b-bf14-3d2c4f7e2154",
+        "name": "Kastellet",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.32038083869139,
-            "longitude": 15.18704987647295
+            "latitude": 55.69136753618467,
+            "longitude": 12.5944157453539
         },
         "built": "17th Century",
         "condition": "Intact",
-        "homepage": "https://www.christiansoe.dk",
+        "homepage": "https://kastellet.dk",
+        "ownedBy": "Forsvaret",
+        "type": "Artillery Fort"
+    },
+    {
+        "id": "019da4ea-743f-719b-bf14-297cb6a975ea",
+        "name": "Kastrup Fort",
+        "country": "DK",
+        "coordinates": {
+            "latitude": 55.6485063261222,
+            "longitude": 12.639682845925577
+        },
+        "built": "19th Century",
+        "condition": "Intact",
+        "ownedBy": "Tårnby Kommune",
+        "type": "Artillery Fort"
+    },
+    {
+        "id": "019da4ea-743f-719b-bf14-3165137cbaf6",
+        "name": "Kongelundsfortet",
+        "country": "DK",
+        "coordinates": {
+            "latitude": 55.56230882290065,
+            "longitude": 12.56657648580064
+        },
+        "built": "20th Century",
+        "condition": "Intact",
+        "ownedBy": "Naturstyrelsen",
+        "type": "Artillery Fort"
+    },
+    {
+        "id": "019da4ea-743f-719b-bf14-1b4d015acdd4",
+        "name": "Kronborg Slot",
+        "country": "DK",
+        "coordinates": {
+            "latitude": 55.68572450512342,
+            "longitude": 12.577406500792657
+        },
+        "built": "16th Century",
+        "condition": "Intact",
+        "homepage": "https://kronborg.dk",
+        "ownedBy": "Slots- og Kulturstyrelsen",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019da4ea-743f-719b-bf14-061b08ba4edf",
+        "name": "Middelgrundsfortet",
+        "country": "DK",
+        "coordinates": {
+            "latitude": 55.72055869241654,
+            "longitude": 12.665892977361365
+        },
+        "built": "19th Century",
+        "condition": "Intact",
+        "homepage": "https://ungdomsoen.dk",
+        "ownedBy": "Private ownership",
+        "type": "Artillery Fort"
+    },
+    {
+        "id": "019da4ea-743f-719b-bf14-26308fddbbf2",
+        "name": "Rosenborg Slot",
+        "country": "DK",
+        "coordinates": {
+            "latitude": 55.685721834533126,
+            "longitude": 12.577400422611822
+        },
+        "built": "17th Century",
+        "condition": "Intact",
+        "homepage": "https://kongeligeslotte.dk",
         "ownedBy": "Den danske stat",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019da4ea-743f-719b-bf14-2c5320e3f106",
+        "name": "Saltholm Batteri",
+        "country": "DK",
+        "coordinates": {
+            "latitude": 55.636108413291595,
+            "longitude": 12.73954374817714
+        },
+        "built": "20th Century",
+        "condition": "Ruins",
+        "ownedBy": "Den danske stat",
+        "type": "Artillery Fort"
+    },
+    {
+        "id": "019da4ea-743f-719b-bf14-114a782ef0dd",
+        "name": "Trekroner Fort",
+        "country": "DK",
+        "coordinates": {
+            "latitude": 55.703271054709106,
+            "longitude": 12.614565651571375
+        },
+        "built": "18th Century",
+        "condition": "Intact",
+        "ownedBy": "Forsvaret",
         "type": "Artillery Fort"
     }
 ]

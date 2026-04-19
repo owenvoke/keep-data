@@ -14,6 +14,20 @@
         "type": "Artillery Fort"
     },
     {
+        "id": "019da4ea-743d-74dc-ac2f-276260f1c4e1",
+        "name": "Bomarsunds fästning",
+        "country": "AX",
+        "coordinates": {
+            "latitude": 60.2119,
+            "longitude": 20.2378
+        },
+        "built": "19th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.museum.ax/museer-sevardheter/bomarsund",
+        "ownedBy": "Ålands landskapsregering",
+        "type": "Artillery Fort"
+    },
+    {
         "id": "019d9b65-3bf4-74e3-a8e9-cbda1e31f3db",
         "name": "Kastelholm slott",
         "country": "AX",
@@ -26,18 +40,5 @@
         "homepage": "https://www.museum.ax/museer-sevardheter/kastelholms-slott",
         "ownedBy": "Ålands landskapsregering",
         "type": "Square Keep"
-    },
-    {
-        "name": "Bomarsunds fästning",
-        "country": "AX",
-        "coordinates": {
-            "latitude": 60.2119,
-            "longitude": 20.2378
-        },
-        "built": "19th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.museum.ax/museer-sevardheter/bomarsund",
-        "ownedBy": "Ålands landskapsregering",
-        "type": "Artillery Fort"
     }
 ]

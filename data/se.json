@@ -1,5 +1,6 @@
 [
     {
+        "id": "019da4ea-7446-7668-ae8b-a6bb86394484",
         "name": "Borgholms slott",
         "country": "SE",
         "coordinates": {
@@ -13,6 +14,21 @@
         "type": "Square Keep"
     },
     {
+        "id": "019da4ea-7446-7668-ae8b-bd2e643c88bb",
+        "name": "Christiansø",
+        "country": "DK",
+        "coordinates": {
+            "latitude": 55.32038083869139,
+            "longitude": 15.18704987647295
+        },
+        "built": "17th Century",
+        "condition": "Intact",
+        "homepage": "https://www.christiansoe.dk",
+        "ownedBy": "Den danske stat",
+        "type": "Artillery Fort"
+    },
+    {
+        "id": "019da4ea-7446-7668-ae8b-aafe748d76c2",
         "name": "Eketorp",
         "country": "SE",
         "coordinates": {
@@ -26,44 +42,7 @@
         "type": "Fort"
     },
     {
-        "name": "Ismantorps borg",
-        "country": "SE",
-        "coordinates": {
-            "latitude": 56.745420789550224,
-            "longitude": 16.642602589586524
-        },
-        "built": "2-7th Century",
-        "condition": "Ruins",
-        "ownedBy": "Statens fastighetsverk",
-        "type": "Fort"
-    },
-    {
-        "name": "Sandby borg",
-        "country": "SE",
-        "coordinates": {
-            "latitude": 56.552538114498816,
-            "longitude": 16.63926376850912
-        },
-        "built": "4-5th Century",
-        "condition": "Ruins",
-        "homepage": "https://sandbyborg.se",
-        "ownedBy": "Swedish National Heritage Board",
-        "type": "Fort"
-    },
-    {
-        "name": "Varbergs fästning",
-        "country": "SE",
-        "coordinates": {
-            "latitude": 57.10568244266297,
-            "longitude": 12.239746126598982
-        },
-        "built": "13th Century",
-        "condition": "Intact",
-        "homepage": "https://museumhalland.se/varbergs-fastning",
-        "ownedBy": "Statens fastighetsverk",
-        "type": "Fort"
-    },
-    {
+        "id": "019da4ea-7446-7668-ae8b-b94475cd3e4b",
         "name": "Hammershus",
         "country": "DK",
         "coordinates": {
@@ -77,16 +56,44 @@
         "type": "Square Keep"
     },
     {
-        "name": "Christiansø",
-        "country": "DK",
+        "id": "019da4ea-7446-7668-ae8b-ae1ddb9864da",
+        "name": "Ismantorps borg",
+        "country": "SE",
         "coordinates": {
-            "latitude": 55.32038083869139,
-            "longitude": 15.18704987647295
+            "latitude": 56.745420789550224,
+            "longitude": 16.642602589586524
         },
-        "built": "17th Century",
+        "built": "2-7th Century",
+        "condition": "Ruins",
+        "ownedBy": "Statens fastighetsverk",
+        "type": "Fort"
+    },
+    {
+        "id": "019da4ea-7446-7668-ae8b-b3048a01e1d2",
+        "name": "Sandby borg",
+        "country": "SE",
+        "coordinates": {
+            "latitude": 56.552538114498816,
+            "longitude": 16.63926376850912
+        },
+        "built": "4-5th Century",
+        "condition": "Ruins",
+        "homepage": "https://sandbyborg.se",
+        "ownedBy": "Swedish National Heritage Board",
+        "type": "Fort"
+    },
+    {
+        "id": "019da4ea-7446-7668-ae8b-b60caad3d9e0",
+        "name": "Varbergs fästning",
+        "country": "SE",
+        "coordinates": {
+            "latitude": 57.10568244266297,
+            "longitude": 12.239746126598982
+        },
+        "built": "13th Century",
         "condition": "Intact",
-        "homepage": "https://www.christiansoe.dk",
-        "ownedBy": "Den danske stat",
-        "type": "Artillery Fort"
+        "homepage": "https://museumhalland.se/varbergs-fastning",
+        "ownedBy": "Statens fastighetsverk",
+        "type": "Fort"
     }
 ]
