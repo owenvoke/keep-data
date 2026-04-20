@@ -39,7 +39,7 @@ jobs:
         run: npm run format
 
       - name: Check for duplicates
-        run: npm run test:duplicates
+        run: npm run test:validate
 
       - name: Update Markdown
         run: npm run markdown

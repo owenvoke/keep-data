@@ -12,6 +12,15 @@ function normalizeName (value) {
     return String(value ?? '').trim().toLocaleLowerCase('en-GB')
 }
 
+function normalizeCountryCode (value) {
+    return String(value ?? '').trim().toUpperCase()
+}
+
+function getFileCountryCode (file) {
+    const baseName = String(file ?? '').replace(/\.json$/i, '')
+    return baseName.split('-')[0].toUpperCase()
+}
+
 function getCoordinateKey (entry) {
     const lat = Number(entry?.coordinates?.lat)
     const lng = Number(entry?.coordinates?.lng)
@@ -87,17 +96,23 @@ function formatRecord (record) {
     return `${record.name} (${coords}) in ${record.file} [id=${record.id}]`
 }
 
+function formatCountryMismatch (record) {
+    return `${record.file} [id=${record.id}] expected country=${record.expectedCountry}, found country=${record.country || 'missing'}`
+}
+
 async function main () {
     const files = (await readdir(dataDir)).
         filter((file) => file.endsWith('.json')).
         sort((a, b) => a.localeCompare(b))
 
     const byName = new Map()
+    const countryMismatches = []
 
     for (const file of files) {
         const fullPath = path.join(dataDir, file)
         const raw = await readFile(fullPath, 'utf8')
         const parsed = JSON.parse(raw)
+        const filenameCountryCode = getFileCountryCode(file)
 
         if (!Array.isArray(parsed)) {
             throw new Error(`Expected "${file}" to contain an array`)
@@ -113,19 +128,46 @@ async function main () {
                 continue
             }
 
+            const country = normalizeCountryCode(entry.country)
+            if (country !== filenameCountryCode) {
+                countryMismatches.push({
+                    file,
+                    id: entry.id ?? 'unknown',
+                    expectedCountry: filenameCountryCode,
+                    country,
+                })
+                continue
+            }
+
             const record = {
                 file,
                 id: entry.id ?? 'unknown',
                 name: entry.name,
+                country,
                 coordinateKey: getCoordinateKey(entry),
             }
 
-            if (!byName.has(normalizedName)) {
-                byName.set(normalizedName, [])
+            const key = `${file}::${country}::${normalizedName}`
+
+            if (!byName.has(key)) {
+                byName.set(key, [])
             }
 
-            byName.get(normalizedName).push(record)
+            byName.get(key).push(record)
         }
+    }
+
+    if (countryMismatches.length > 0) {
+        const summary =
+            'Entries found with country not matching filename country prefix.'
+
+        const errorLines = [`Warnings: ${summary}`]
+        for (const mismatch of countryMismatches) {
+            errorLines.push(`  - ${formatCountryMismatch(mismatch)}`)
+        }
+        errorLines.push('')
+        reportError(errorLines.join('\n'))
+        console.log('')
     }
 
     const duplicates = []
@@ -194,15 +236,17 @@ async function main () {
         reportWarning(warningLines.join('\n'))
     }
 
-    if (duplicates.length === 0 && possibleDuplicates.length === 0) {
+    if (duplicates.length === 0 &&
+        possibleDuplicates.length === 0 &&
+        countryMismatches.length === 0) {
         reportInfo(`No duplicates found across ${files.length} file(s).`)
         return
     }
 
     reportInfo(
-        `Checked ${files.length} file(s): ${duplicates.length} duplicate group(s), ${possibleDuplicates.length} warning group(s).`)
+        `Checked ${files.length} file(s): ${duplicates.length} duplicate group(s), ${possibleDuplicates.length} warning group(s), ${countryMismatches.length} country mismatch error(s).`)
 
-    if (duplicates.length > 0) {
+    if (duplicates.length > 0 || countryMismatches.length > 0) {
         process.exitCode = 1
     }
 }
