@@ -14,20 +14,6 @@
         "type": "Square Keep"
     },
     {
-        "id": "019da4ea-7446-7668-ae8b-bd2e643c88bb",
-        "name": "Christiansø",
-        "country": "DK",
-        "coordinates": {
-            "latitude": 55.32038083869139,
-            "longitude": 15.18704987647295
-        },
-        "built": "17th Century",
-        "condition": "Intact",
-        "homepage": "https://www.christiansoe.dk",
-        "ownedBy": "Den danske stat",
-        "type": "Artillery Fort"
-    },
-    {
         "id": "019da4ea-7446-7668-ae8b-aafe748d76c2",
         "name": "Eketorp",
         "country": "SE",
@@ -40,20 +26,6 @@
         "homepage": "https://eketorpsborg.se",
         "ownedBy": "Statens fastighetsverk",
         "type": "Fort"
-    },
-    {
-        "id": "019da4ea-7446-7668-ae8b-b94475cd3e4b",
-        "name": "Hammershus",
-        "country": "DK",
-        "coordinates": {
-            "latitude": 55.27115804409355,
-            "longitude": 14.755343100130908
-        },
-        "built": "13th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.naturstyrelsen.dk/find-et-naturomraade/naturguider/bornholm/hammershus",
-        "ownedBy": "Slots- og Kulturstyrelsen",
-        "type": "Square Keep"
     },
     {
         "id": "019da4ea-7446-7668-ae8b-ae1ddb9864da",
