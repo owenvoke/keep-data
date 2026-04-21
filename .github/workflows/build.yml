@@ -47,7 +47,7 @@ jobs:
       - name: Auto-commit
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: 'style: apply automatic formatting'
+          commit_message: 'style([skip ci]): apply automatic formatting'
           file_pattern: 'README.md data/*.json'
 
       - name: Run build
