@@ -104,6 +104,7 @@
             "enum": [
                 "Artillery Fort",
                 "Concentric",
+                "Folly",
                 "Fort",
                 "Fragmented Remains",
                 "Keepless",
