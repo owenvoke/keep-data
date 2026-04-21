@@ -100,7 +100,7 @@ function toDocument (sourceFileName, entries) {
     const body = entries.map(toEntrySection).join('\n')
 
     if (title.length === 2) {
-        title = `${toCountryName(title)} (${title.toUpperCase()})`
+        title = `${toCountryName(title)} (\`${title.toUpperCase()}\`)`
     } else if (title.length > 2) {
         const {0: country, 1: region} = title.split('-', 2)
         title = `${toCountryName(country)} / ${region.toUpperCase()} (\`${title.toUpperCase()}\`)`
