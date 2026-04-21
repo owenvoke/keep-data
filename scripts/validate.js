@@ -239,7 +239,7 @@ async function main () {
     if (duplicates.length === 0 &&
         possibleDuplicates.length === 0 &&
         countryMismatches.length === 0) {
-        reportInfo(`No duplicates found across ${files.length} file(s).`)
+        reportInfo(`No issues found across ${files.length} file(s).`)
         return
     }
 
