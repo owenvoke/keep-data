@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Elizabeth Castle",
+        "country": "JE",
+        "coordinates": {
+            "latitude": 49.175,
+            "longitude": -2.125
+        },
+        "homepage": "https://www.jerseyheritage.org/visit/places-to-visit/elizabeth-castle",
+        "built": "16th Century",
+        "ownedBy": "Jersey Heritage Trust",
+        "condition": "Intact",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Grosnez Castle",
+        "country": "JE",
+        "coordinates": {
+            "latitude": 49.25746663331891,
+            "longitude": -2.2465101442511046
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "ownedBy": "Rosel Estates Limited / Jersey Heritage Trust",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Mont Orgueil",
+        "country": "JE",
+        "alternativeNames": ["Gorey Castle", "Old Castle", "Lé Vièr Châté"],
+        "coordinates": {
+            "latitude": 49.1994,
+            "longitude": -2.0194
+        },
+        "built": "13-15th Century",
+        "condition": "Intact",
+        "ownedBy": "Jersey Heritage Trust",
+        "type": "Concentric"
+    }
+]
