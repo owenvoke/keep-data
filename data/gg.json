@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Castle Cornet",
+        "country": "GG",
+        "coordinates": {
+            "latitude": 49.453161,
+            "longitude": -2.526456
+        },
+        "homepage": "https://museums.gov.gg/CastleCornet",
+        "built": "13th Century",
+        "ownedBy": "Bailiwick of Guernsey",
+        "condition": "Partially Restored",
+        "type": "Concentric"
+    }
+]
