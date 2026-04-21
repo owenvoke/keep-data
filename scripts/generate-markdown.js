@@ -96,10 +96,17 @@ function toEntrySection (entry) {
 }
 
 function toDocument (sourceFileName, entries) {
-    const title = sourceFileName.replace(/\.json$/i, '')
+    let title = sourceFileName.replace(/\.json$/i, '')
     const body = entries.map(toEntrySection).join('\n')
 
-    return `# \`${escapeInline(title)}\`\n\n${body}`.trimEnd() + '\n'
+    if (title.length === 2) {
+        title = `${toCountryName(title)} (${title.toUpperCase()})`
+    } else if (title.length > 2) {
+        const {0: country, 1: region} = title.split('-', 2)
+        title = `${toCountryName(country)} / ${region.toUpperCase()} (\`${title.toUpperCase()}\`)`
+    }
+
+    return `# ${escapeInline(title)}\n\n${body}`.trimEnd() + '\n'
 }
 
 function toCountryName (countryCode) {
