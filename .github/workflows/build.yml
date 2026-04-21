@@ -38,7 +38,7 @@ jobs:
       - name: Format JSON
         run: npm run format
 
-      - name: Check for duplicates
+      - name: Validate
         run: npm run test:validate
 
       - name: Update Markdown
