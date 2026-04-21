@@ -11,6 +11,8 @@ The combined JSON data is available [here](data/all.json).
 <!-- COUNTRIES -->
 - [Åland Islands](data/ax) ([JSON](data/ax.json))
 - [Denmark](data/dk) ([JSON](data/dk.json))
+- [Guernsey](data/gg) ([JSON](data/gg.json))
+- [Jersey](data/je) ([JSON](data/je.json))
 - [Norway](data/no) ([JSON](data/no.json))
 - [Sweden](data/se) ([JSON](data/se.json))
 - [United Kingdom](data/gb) ([JSON](data/gb.json))
