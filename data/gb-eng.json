@@ -2465,5 +2465,19 @@
         "condition": "Fragmented Remains",
         "ownedBy": "Private",
         "type": "Keepless"
+    },
+    {
+        "name": "Blaise Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.5025521,
+            "longitude": -2.6373383
+        },
+        "built": "1766",
+        "condition": "Intact",
+        "homepage": "https://www.bristol.gov.uk/residents/museums-parks-sports-and-culture/parks-and-open-spaces/parks-and-estates/blaise-castle-estate",
+        "ownedBy": "Bristol City Council",
+        "type": "Folly"
     }
 ]
