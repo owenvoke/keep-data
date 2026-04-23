@@ -119,12 +119,12 @@
             "description": "The condition of a castle or fortification.",
             "enum": [
                 "Fragmented Remains",
-                "Ruins",
+                "Intact",
                 "Partial Ruins",
                 "Partially Restored",
-                "Restored",
                 "Rebuilt",
-                "Intact"
+                "Restored",
+                "Ruins"
             ]
         },
         "country": {
