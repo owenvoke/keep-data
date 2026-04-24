@@ -931,5 +931,311 @@
         "condition": "Ruins",
         "ownedBy": "Private",
         "type": "Square Keep"
+    },
+    {
+        "name": "Dunskey Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 54.83546304608522,
+            "longitude": -5.109755406881228
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Tower House"
+    },
+    {
+        "name": "Druchtag Motte",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 54.78765000000,
+            "longitude": -4.56850277778
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/druchtag-motte",
+        "ownedBy": "Historic Scotland",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Sorbie Tower",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 54.793991516629845,
+            "longitude": -4.411115413672897
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://clanhannay.org/sorbie-tower",
+        "ownedBy": "Clan Hannay",
+        "type": "Tower House"
+    },
+    {
+        "name": "Carsluith Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 54.8595240396593,
+            "longitude": -4.34668538165663
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/carsluith-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Cardoness Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 54.87244641332604,
+            "longitude": -4.198021300471766
+        },
+        "built": "15th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/cardoness-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "MacLellan’s Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 54.8370022334448,
+            "longitude": -4.0528917223558185
+        },
+        "built": "16th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/maclellans-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Orchardton Tower",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 54.87685059316303,
+            "longitude": -3.8452647658533605
+        },
+        "built": "13th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/orchardton-tower",
+        "ownedBy": "Historic Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Drumcoltran Tower",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 54.996413681533106,
+            "longitude": -3.7684410985799337
+        },
+        "built": "16th Century",
+        "condition": "Intact",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/drumcoltran-tower",
+        "ownedBy": "Historic Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Threave Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 54.9392510671978,
+            "longitude": -3.969542888792457
+        },
+        "built": "14th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/threave-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Caerlaverock Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 54.97566078469697,
+            "longitude": -3.5239552193341344
+        },
+        "built": "13th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/caerlaverock-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Keepless"
+    },
+    {
+        "name": "Lochmaben Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.11626806698773,
+            "longitude": -3.4308027772298515
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/lochmaben-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Round Keep"
+    },
+    {
+        "name": "Morton Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.274485892627524,
+            "longitude": -3.747563735239402
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/morton-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Keepless"
+    },
+    {
+        "name": "Loch Doon Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.22602232116132,
+            "longitude": -4.384870828157848
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/loch-doon-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Keepless"
+    },
+    {
+        "name": "Culzean Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.354720451925296,
+            "longitude": -4.78930480378736
+        },
+        "built": "18th Century",
+        "condition": "Restored",
+        "homepage": "https://www.nts.org.uk/visit/places/culzean",
+        "ownedBy": "National Trust for Scotland",
+        "type": "Keepless"
+    },
+    {
+        "name": "Dundonald Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.57678408505751,
+            "longitude": -4.596965375979553
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/dundonald-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Rowallan Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.65008413064014,
+            "longitude": -4.488994929972044
+        },
+        "built": "13th Century",
+        "condition": "Intact",
+        "ownedBy": "Campbell Family",
+        "type": "Tower House"
+    },
+    {
+        "name": "Coulter Motte",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.61039938388858,
+            "longitude": -3.5592075785914887
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/coulter-motte-hill",
+        "ownedBy": "Historic Scotland",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Neidpath Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.65188374353739,
+            "longitude": -3.2153359850808134
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "ownedBy": "Wemyss Family",
+        "type": "Tower House"
+    },
+    {
+        "name": "Greenknowe Tower",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.677748396404056,
+            "longitude": -2.574747650261584
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/greenknowe-tower",
+        "ownedBy": "Historic Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Lochranza Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.70521607047339,
+            "longitude": -5.291071778677572
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/lochranza-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Cadzow Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.76059684192466,
+            "longitude": -4.01732004457313
+        },
+        "accessible": false,
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/cadzow-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Unknown"
+    },
+    {
+        "name": "Crichton Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.83961291430436,
+            "longitude": -2.9914107445692517
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/crichton-castle",
+        "ownedBy": "Historic Scotland",
+        "type": "Tower House"
     }
 ]
