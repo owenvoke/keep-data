@@ -158,6 +158,23 @@
         "type": "Motte and Bailey"
     },
     {
+        "id": "019dbe8e-e97d-755b-9240-dea24ecba1fd",
+        "name": "Castell Blaenllynfi",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.8981,
+            "longitude": -3.2437
+        },
+        "alternativeNames": [
+            "Blaenllynfi Castle"
+        ],
+        "built": "13-14th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Private",
+        "type": "Motte and Bailey"
+    },
+    {
         "id": "019d6947-63ce-7320-bd1b-4f3a99c90bd9",
         "name": "Castell Bronllys",
         "country": "GB",
@@ -1079,20 +1096,6 @@
         "condition": "Ruins",
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/wiston-castle",
         "ownedBy": "Cadw",
-        "type": "Motte and Bailey"
-    },
-    {
-        "name": "Castell Blaenllynfi",
-        "alternativeNames": ["Blaenllynfi Castle"],
-        "country": "GB",
-        "region": "GB-WLS",
-        "coordinates": {
-            "latitude": 51.8981,
-            "longitude": -3.2437
-        },
-        "built": "13-14th Century",
-        "condition": "Fragmented Remains",
-        "ownedBy": "Private",
         "type": "Motte and Bailey"
     }
 ]
