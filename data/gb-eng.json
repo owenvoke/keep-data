@@ -2604,5 +2604,221 @@
         "homepage": "https://www.english-heritage.org.uk/visit/places/hurst-castle",
         "ownedBy": "English Heritage",
         "type": "Artillery Fort"
+    },
+    {
+        "name": "Calshot Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.81990506681384,
+            "longitude": -1.307429815970813
+        },
+        "built": "14th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/calshot-castle",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Fort Brockhurst",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.814568,
+            "longitude": -1.153898
+        },
+        "built": "19th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/fort-brockhurst",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Walmer Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.20023446478344,
+            "longitude": 1.4011327494975545
+        },
+        "built": "14th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/walmer-castle-and-gardens",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Deal Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.21944511897835,
+            "longitude": 1.4036433549743255
+        },
+        "built": "14th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/deal-castle",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Upnor Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.406867388027884,
+            "longitude": 0.5270678506164883
+        },
+        "built": "16th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/upnor-castle",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Tilbury Fort",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.406867388027884,
+            "longitude": 0.5270678506164883
+        },
+        "built": "17th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/tilbury-fort",
+        "ownedBy": "English Heritage",
+        "type": "Fort"
+    },
+    {
+        "name": "Deddington Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.98079424142075,
+            "longitude": -1.3159647828445273
+        },
+        "built": "11th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/deddington-castle",
+        "ownedBy": "English Heritage",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Landguard Fort",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.93901538817731,
+            "longitude": 1.3210546182906107
+        },
+        "built": "18th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/landguard-fort",
+        "ownedBy": "English Heritage",
+        "type": "Fort"
+    },
+    {
+        "name": "Burgh Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.58266656547188,
+            "longitude": 1.651325456630036
+        },
+        "built": "3rd Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/burgh-castle",
+        "ownedBy": "English Heritage",
+        "type": "Fort"
+    },
+    {
+        "name": "Old Oswestry Hillfort",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.871401030475525,
+            "longitude": -3.049679578333398
+        },
+        "built": "8th Century BCE",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/old-oswestry-hillfort",
+        "ownedBy": "English Heritage",
+        "type": "Fort"
+    },
+    {
+        "name": "Helmsley Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.24470561734578,
+            "longitude": -1.0642851630747927
+        },
+        "alternativeNames": [
+            "Hamlake"
+        ],
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/helmsley-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Scarborough Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.28760165280738,
+            "longitude": -0.38937765710941136
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/scarborough-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Belsay Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 55.10121475251919,
+            "longitude": -1.868616345820313
+        },
+        "alternativeNames": [
+            "Pele Tower"
+        ],
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/belsay-hall-castle-and-gardens",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Cromwell Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 49.96223596596092,
+            "longitude": -6.349494640792526
+        },
+        "built": "17th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/cromwells-castle",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "King Charles's Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 49.96355480010939,
+            "longitude": -6.348726007820249
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/king-charless-castle",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
     }
 ]
