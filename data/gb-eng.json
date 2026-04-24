@@ -822,6 +822,40 @@
         "type": "Square Keep"
     },
     {
+        "id": "019dbf47-e8e1-7605-b98b-183a8ed902ee",
+        "name": "Dartmouth Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.342381,
+            "longitude": -3.567246
+        },
+        "built": "12th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/dartmouth-castle",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
+    },
+    {
+        "id": "019dbf47-e8e1-7605-b98b-1eabe1e0d451",
+        "name": "Daws Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.180516,
+            "longitude": -3.343421
+        },
+        "alternativeNames": [
+            "Dane's Castle",
+            "Dart's Castle"
+        ],
+        "built": "5-12th Century BCE",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/daws-castle",
+        "ownedBy": "English Heritage",
+        "type": "Fort"
+    },
+    {
         "id": "019d6948-63cd-715f-909e-ad8e57ea28cb",
         "name": "Donnington Castle",
         "country": "GB",
@@ -1141,6 +1175,21 @@
         "condition": "Ruins",
         "ownedBy": "Private",
         "type": "Square Keep"
+    },
+    {
+        "id": "019dbf47-e8e1-7605-b98b-265ea97f4a0d",
+        "name": "Hurst Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.706503,
+            "longitude": -1.55121
+        },
+        "built": "14th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/hurst-castle",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
     },
     {
         "id": "019d6e1e-1269-77ab-bd88-d0637bfe4f6b",
@@ -1683,6 +1732,21 @@
         "type": "Round Keep"
     },
     {
+        "id": "019dbf47-e8e1-7605-b98b-133b761a776d",
+        "name": "Pendennis Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.146832,
+            "longitude": -5.046738
+        },
+        "built": "14th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/pendennis-castle",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
+    },
+    {
         "id": "019d7274-34f6-72d3-a8ba-014249c86198",
         "name": "Pendragon Castle",
         "country": "GB",
@@ -1816,6 +1880,21 @@
         "homepage": "https://www.english-heritage.org.uk/visit/places/portchester-castle",
         "ownedBy": "English Heritage",
         "type": "Square Keep"
+    },
+    {
+        "id": "019dbf47-e8e1-7605-b98b-2029c71f5895",
+        "name": "Portland Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.567516,
+            "longitude": -2.445752
+        },
+        "built": "14th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/portland-castle",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
     },
     {
         "id": "019d6948-63cd-715f-909e-ad8e46aed775",
@@ -2077,6 +2156,36 @@
         "condition": "Fragmented Remains",
         "ownedBy": "Private",
         "type": "Motte and Bailey"
+    },
+    {
+        "id": "019dbf47-e8e0-72fa-ac96-1650b8773842",
+        "name": "St Briavel's Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.73919,
+            "longitude": -2.6407
+        },
+        "built": "12th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/st-briavels-castle",
+        "ownedBy": "English Heritage",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019dbf47-e8e1-7605-b98b-17b6a21f7fa7",
+        "name": "St Catherine's Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.327487,
+            "longitude": -4.644864
+        },
+        "built": "14th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/st-catherines-castle",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
     },
     {
         "id": "019d6948-63cd-715f-909e-ad8e5bbb70e3",
@@ -2482,108 +2591,7 @@
         "type": "Keepless"
     },
     {
-        "name": "St Briavel's Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 51.73919,
-            "longitude": -2.6407
-        },
-        "built": "12th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://www.english-heritage.org.uk/visit/places/st-briavels-castle",
-        "ownedBy": "English Heritage",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Pendennis Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 50.146832,
-            "longitude": -5.046738
-        },
-        "built": "14th Century",
-        "condition": "Intact",
-        "homepage": "https://www.english-heritage.org.uk/visit/places/pendennis-castle",
-        "ownedBy": "English Heritage",
-        "type": "Artillery Fort"
-    },
-    {
-        "name": "St Catherine's Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 50.327487,
-            "longitude": -4.644864
-        },
-        "built": "14th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://www.english-heritage.org.uk/visit/places/st-catherines-castle",
-        "ownedBy": "English Heritage",
-        "type": "Artillery Fort"
-    },
-    {
-        "name": "Dartmouth Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 50.342381,
-            "longitude": -3.567246
-        },
-        "built": "12th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://www.english-heritage.org.uk/visit/places/dartmouth-castle",
-        "ownedBy": "English Heritage",
-        "type": "Artillery Fort"
-    },
-    {
-        "name": "Daws Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 51.180516,
-            "longitude": -3.343421
-        },
-        "alternativeNames": [
-            "Dane's Castle",
-            "Dart's Castle"
-        ],
-        "built": "5-12th Century BCE",
-        "condition": "Fragmented Remains",
-        "homepage": "https://www.english-heritage.org.uk/visit/places/daws-castle",
-        "ownedBy": "English Heritage",
-        "type": "Fort"
-    },
-    {
-        "name": "Portland Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 50.567516,
-            "longitude": -2.445752
-        },
-        "built": "14th Century",
-        "condition": "Intact",
-        "homepage": "https://www.english-heritage.org.uk/visit/places/portland-castle",
-        "ownedBy": "English Heritage",
-        "type": "Artillery Fort"
-    },
-    {
-        "name": "Hurst Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 50.706503,
-            "longitude": -1.55121
-        },
-        "built": "14th Century",
-        "condition": "Intact",
-        "homepage": "https://www.english-heritage.org.uk/visit/places/hurst-castle",
-        "ownedBy": "English Heritage",
-        "type": "Artillery Fort"
-    },
-    {
+        "id": "019dbf47-e8e1-7605-b98b-2ad1cc2cdbf4",
         "name": "Yarmouth Castle",
         "country": "GB",
         "region": "GB-ENG",
