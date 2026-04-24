@@ -302,13 +302,16 @@
     },
     {
         "id": "019d6947-63ce-7320-bd1b-4f3a956b90b7",
-        "name": "Castell Criccieth",
+        "name": "Castell Cricieth",
         "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
             "latitude": 52.916012,
             "longitude": -4.232472
         },
+        "alternativeNames": [
+            "Criccieth Castle"
+        ],
         "built": "13th Century",
         "condition": "Ruins",
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-cricieth",
