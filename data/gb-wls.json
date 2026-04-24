@@ -1080,5 +1080,19 @@
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/wiston-castle",
         "ownedBy": "Cadw",
         "type": "Motte and Bailey"
+    },
+    {
+        "name": "Castell Blaenllynfi",
+        "alternativeNames": ["Blaenllynfi Castle"],
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.8981,
+            "longitude": -3.2437
+        },
+        "built": "13-14th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Private",
+        "type": "Motte and Bailey"
     }
 ]
