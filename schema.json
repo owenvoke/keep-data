@@ -106,13 +106,15 @@
                 "Concentric",
                 "Folly",
                 "Fort",
-                "Fragmented Remains",
+                "Fortified Manor House",
                 "Keepless",
                 "Motte and Bailey",
                 "Palace",
                 "Round Keep",
                 "Shell Keep",
-                "Square Keep"
+                "Square Keep",
+                "Tower House",
+                "Unknown"
             ]
         },
         "condition": {
