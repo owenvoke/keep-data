@@ -22,8 +22,8 @@ function getFileCountryCode (file) {
 }
 
 function getCoordinateKey (entry) {
-    const lat = Number(entry?.coordinates?.lat)
-    const lng = Number(entry?.coordinates?.lng)
+    const lat = Number(entry?.coordinates?.latitude)
+    const lng = Number(entry?.coordinates?.longitude)
 
     if (!Number.isFinite(lat) || !Number.isFinite(lng)) {
         return null

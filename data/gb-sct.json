@@ -132,21 +132,6 @@
         "type": "Keepless"
     },
     {
-        "id": "019dc040-91c7-7239-a978-4ce653f14f6c",
-        "name": "Caerlaverock Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 54.97566078469697,
-            "longitude": -3.5239552193341344
-        },
-        "built": "13th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/caerlaverock-castle",
-        "ownedBy": "Historic Environment Scotland",
-        "type": "Keepless"
-    },
-    {
         "id": "019d6d69-ab71-71be-943f-3472e0751f13",
         "name": "Calvay Castle",
         "country": "GB",
@@ -762,21 +747,6 @@
         "type": "Round Keep"
     },
     {
-        "id": "019dc040-91c7-7239-a978-5bfa2db4260f",
-        "name": "Loch Doon Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 55.22602232116132,
-            "longitude": -4.384870828157848
-        },
-        "built": "13th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/loch-doon-castle",
-        "ownedBy": "Historic Environment Scotland",
-        "type": "Keepless"
-    },
-    {
         "id": "019d6d69-ab71-71be-943e-db13f329e9f0",
         "name": "Lochleven Castle",
         "country": "GB",
@@ -805,21 +775,6 @@
         "homepage": "https://www.historicenvironment.scot/visit-a-place/places/lochmaben-castle",
         "ownedBy": "Historic Environment Scotland",
         "type": "Square Keep"
-    },
-    {
-        "id": "019dc040-91c7-7239-a978-50e3e21b5ec1",
-        "name": "Lochmaben Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 55.11626806698773,
-            "longitude": -3.4308027772298515
-        },
-        "built": "14th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/lochmaben-castle",
-        "ownedBy": "Historic Environment Scotland",
-        "type": "Round Keep"
     },
     {
         "id": "019dc040-91c7-7239-a978-7743ea803021",
@@ -892,21 +847,6 @@
             "longitude": -3.747561
         },
         "built": "15th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/morton-castle",
-        "ownedBy": "Historic Environment Scotland",
-        "type": "Keepless"
-    },
-    {
-        "id": "019dc040-91c7-7239-a978-562da92a0fd5",
-        "name": "Morton Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 55.274485892627524,
-            "longitude": -3.747563735239402
-        },
-        "built": "13th Century",
         "condition": "Ruins",
         "homepage": "https://www.historicenvironment.scot/visit-a-place/places/morton-castle",
         "ownedBy": "Historic Environment Scotland",
