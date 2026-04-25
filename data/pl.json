@@ -1,0 +1,317 @@
+[
+    {
+        "name": "Baranów Sandomierski Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 50.50202863433763,
+            "longitude": 21.53563007687719
+        },
+        "built": "15-17th Century",
+        "condition": "Restored",
+        "homepage": "https://www.baranow.com.pl",
+        "ownedBy": "Zespół Zamkowo-Parkowy w Baranowie Sandomierskim",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Będzin Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 50.327217,
+            "longitude": 19.129145
+        },
+        "built": "13-14th Century",
+        "condition": "Restored",
+        "homepage": "https://muzeumzaglebia.pl/muzeum-zamkowe",
+        "ownedBy": "Zagłębie Museum",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Bobolice Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 50.61333,
+            "longitude": 19.49306
+        },
+        "built": "14th Century",
+        "condition": "Rebuilt",
+        "homepage": "https://www.zamekbobolice.pl",
+        "ownedBy": "Lasecki family",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Chęciny Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 50.79722,
+            "longitude": 20.46028
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.zamek.checiny.pl/en",
+        "ownedBy": "State Treasury",
+        "type": "Round Keep"
+    },
+    {
+        "name": "Czocha Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 51.03056,
+            "longitude": 15.30361
+        },
+        "built": "13-14th Century",
+        "condition": "Restored",
+        "homepage": "https://zamekczocha.com/en",
+        "ownedBy": "Hotel Group WAM",
+        "type": "Round Keep"
+    },
+    {
+        "name": "Gołuchów Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 51.852566909807024,
+            "longitude": 17.933839571859615
+        },
+        "built": "16th Century",
+        "condition": "Rebuilt",
+        "homepage": "https://mnp.art.pl/en/goluchow-castle-museum",
+        "ownedBy": "National Museum in Poznań",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Kórnik Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 52.243932935083365,
+            "longitude": 17.09087158319825
+        },
+        "built": "15th Century",
+        "condition": "Restored",
+        "homepage": "https://www.bkpan.poznan.pl/zamek-w-korniku",
+        "ownedBy": "Polish Academy of Sciences",
+        "type": "Palace"
+    },
+    {
+        "name": "Książ Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 50.84222,
+            "longitude": 16.29167
+        },
+        "built": "13th Century",
+        "condition": "Restored",
+        "homepage": "https://www.ksiaz.walbrzych.pl/en",
+        "ownedBy": "Książ Landscape Park and Castle Museum",
+        "type": "Palace"
+    },
+    {
+        "name": "Łańcut Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 50.0685,
+            "longitude": 22.2346
+        },
+        "built": "16-17th Century",
+        "condition": "Restored",
+        "homepage": "https://zamek-lancut.pl/en-us",
+        "ownedBy": "Łańcut Castle Museum",
+        "type": "Palace"
+    },
+    {
+        "name": "Łęczyca Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 52.05861,
+            "longitude": 19.20361
+        },
+        "built": "14th Century",
+        "condition": "Restored",
+        "homepage": "https://www.muzeumleczyca.pl",
+        "ownedBy": "Museum in Łęczyca",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Lublin Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 51.25056,
+            "longitude": 22.57222
+        },
+        "built": "12th Century",
+        "condition": "Rebuilt",
+        "homepage": "https://zamek-lublin.pl/en",
+        "ownedBy": "National Museum in Lublin",
+        "type": "Round Keep"
+    },
+    {
+        "name": "Malbork Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 54.03972,
+            "longitude": 19.02778
+        },
+        "built": "13-14th Century",
+        "condition": "Restored",
+        "homepage": "https://www.zamek.malbork.pl/en",
+        "ownedBy": "Muzeum Zamkowe w Malborku",
+        "type": "Concentric"
+    },
+    {
+        "name": "Moszna Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 50.44063421837412,
+            "longitude": 17.76791923938643
+        },
+        "built": "18-20th Century",
+        "condition": "Restored",
+        "homepage": "https://mosznazamek.pl/en",
+        "ownedBy": "Moszna Castle company",
+        "type": "Palace"
+    },
+    {
+        "name": "Niedzica Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 49.42256112187804,
+            "longitude": 20.319705176235292
+        },
+        "alternativeNames": [
+            "Dunajec Castle"
+        ],
+        "built": "14th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://zamekniedzica.pl?sLanguage=en",
+        "ownedBy": "State Treasury",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Niepołomice Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 50.03422646101088,
+            "longitude": 20.21785556232781
+        },
+        "built": "14-16th Century",
+        "condition": "Restored",
+        "homepage": "https://zamekkrolewski.com.pl",
+        "ownedBy": "Niepołomice Municipality",
+        "type": "Palace"
+    },
+    {
+        "name": "Ogrodzieniec Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 50.45333,
+            "longitude": 19.55333
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.zamek-ogrodzieniec.pl",
+        "ownedBy": "State Treasury",
+        "type": "Shell Keep"
+    },
+    {
+        "name": "Piotrków Trybunalski Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 51.40913117474851,
+            "longitude": 19.70067680705086
+        },
+        "built": "14-16th Century",
+        "condition": "Restored",
+        "homepage": "https://muzeumpiotrkow.pl",
+        "ownedBy": "Museum in Piotrków Trybunalski",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Royal Castle, Poznań",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 52.40917,
+            "longitude": 16.93111
+        },
+        "built": "13th Century",
+        "condition": "Rebuilt",
+        "homepage": "https://mnp.art.pl/en",
+        "ownedBy": "Museum of Applied Arts in Poznań",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Royal Castle, Warsaw",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 52.2478,
+            "longitude": 21.0142
+        },
+        "built": "14-17th Century",
+        "condition": "Rebuilt",
+        "homepage": "https://www.zamek-krolewski.pl/en",
+        "ownedBy": "Royal Castle Museum in Warsaw",
+        "type": "Palace"
+    },
+    {
+        "name": "Sandomierz Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 50.67611,
+            "longitude": 21.74722
+        },
+        "built": "14-16th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://zamek-sandomierz.pl/en",
+        "ownedBy": "District Museum in Sandomierz",
+        "type": "Unknown"
+    },
+    {
+        "name": "Sanok Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 49.56222,
+            "longitude": 22.20917
+        },
+        "built": "14th Century",
+        "condition": "Restored",
+        "homepage": "https://muzeum.sanok.pl",
+        "ownedBy": "Sanok Historical Museum",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Tykocin Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 53.21333,
+            "longitude": 22.77083
+        },
+        "built": "15th Century",
+        "condition": "Rebuilt",
+        "homepage": "https://zamekwtykocinie.pl",
+        "ownedBy": "Private",
+        "type": "Keepless"
+    },
+    {
+        "name": "Ujazdów Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 52.2194889,
+            "longitude": 21.0310889
+        },
+        "built": "13-17th Century",
+        "condition": "Rebuilt",
+        "homepage": "https://u-jazdowski.pl/en",
+        "ownedBy": "Centre for Contemporary Art Ujazdowski Castle",
+        "type": "Palace"
+    },
+    {
+        "name": "Wawel Castle",
+        "country": "PL",
+        "coordinates": {
+            "latitude": 50.05389,
+            "longitude": 19.93472
+        },
+        "built": "13-14th Century",
+        "condition": "Restored",
+        "homepage": "https://wawel.krakow.pl/en",
+        "ownedBy": "Wawel Royal Castle State Art Collection",
+        "type": "Square Keep"
+    }
+]
