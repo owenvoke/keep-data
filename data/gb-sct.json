@@ -1199,5 +1199,275 @@
         "condition": "Ruins",
         "ownedBy": "Private",
         "type": "Square Keep"
+    },
+    {
+        "name": "Fast Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.9324,
+            "longitude": -2.2239
+        },
+        "built": "13-16th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Private",
+        "type": "Keepless"
+    },
+    {
+        "name": "Fa'side Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.9279,
+            "longitude": -2.9975
+        },
+        "alternativeNames": [
+            "Fawside Castle",
+            "Falside Castle"
+        ],
+        "built": "15th Century",
+        "condition": "Restored",
+        "ownedBy": "Private",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Lauriston Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.971199,
+            "longitude": -3.278464
+        },
+        "built": "16th Century",
+        "condition": "Intact",
+        "ownedBy": "City of Edinburgh",
+        "type": "Tower House"
+    },
+    {
+        "name": "Blackness Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.0060639676768,
+            "longitude": -3.5161752036774594
+        },
+        "built": "15th Century",
+        "condition": "Intact",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/blackness-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Fort"
+    },
+    {
+        "name": "Dumbarton Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.936063942302034,
+            "longitude": -4.562769066620649
+        },
+        "built": "18th Century",
+        "condition": "Intact",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/dumbarton-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Newark Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 55.9345441415794,
+            "longitude": -4.678106967005913
+        },
+        "built": "15th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/newark-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Carnasserie Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.15119547669404,
+            "longitude": -5.480586282354813
+        },
+        "built": "16th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/carnasserie-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Stirling Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.123889,
+            "longitude": -3.947778
+        },
+        "built": "15-16th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/stirling-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Keepless"
+    },
+    {
+        "name": "Castle Campbell",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.175082802131065,
+            "longitude": -3.674683836485447
+        },
+        "built": "15th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/castle-campbell",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Burleigh Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.22588489246636,
+            "longitude": -3.4065166689100237
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/burleigh-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Balvaird Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.2890453446857,
+            "longitude": -3.3427079300509304
+        },
+        "built": "13-14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/balvaird-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Elcho Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.37466129334127,
+            "longitude": -3.354481937898252
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/elcho-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Huntingtower Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.409431877278415,
+            "longitude": -3.4884129213682806
+        },
+        "built": "15-16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/huntingtower-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Claypotts Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.47648734391579,
+            "longitude": -2.8900127934006967
+        },
+        "built": "16th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/claypotts-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Gylen Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.3794,
+            "longitude": -5.5565
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Tower House"
+    },
+    {
+        "name": "Duart Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.456083,
+            "longitude": -5.654944
+        },
+        "alternativeNames": [
+            "Caisteal Dhubhairt"
+        ],
+        "built": "13th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://duartcastle.com",
+        "ownedBy": "Sir Lachlan Maclean",
+        "type": "Keepless"
+    },
+    {
+        "name": "Castle Stalker",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.571499970082606,
+            "longitude": -5.386277070069054
+        },
+        "alternativeNames": [
+            "Caisteal an Stalcaire"
+        ],
+        "built": "15th Century",
+        "condition": "Partially Restored",
+        "ownedBy": "Allward Family",
+        "type": "Tower House"
+    },
+    {
+        "name": "Glamis Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.62022494222361,
+            "longitude": -3.0017383319239745
+        },
+        "built": "17th Century",
+        "condition": "Intact",
+        "homepage": "https://www.glamis-castle.co.uk",
+        "ownedBy": "The Earl of Strathmore and Kinghorne",
+        "type": "Keepless"
+    },
+    {
+        "name": "Castle Menzies",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.62391598753121,
+            "longitude": -3.896885702609967
+        },
+        "built": "16th Century",
+        "condition": "Intact",
+        "ownedBy": "Menzies Charitable Trust",
+        "type": "Fortified Manor House"
     }
 ]
