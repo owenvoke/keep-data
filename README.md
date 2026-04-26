@@ -14,6 +14,7 @@ The combined JSON data is available [here](data/all.json).
 - [Guernsey](data/gg) ([JSON](data/gg.json))
 - [Jersey](data/je) ([JSON](data/je.json))
 - [Norway](data/no) ([JSON](data/no.json))
+- [Poland](data/pl) ([JSON](data/pl.json))
 - [Sweden](data/se) ([JSON](data/se.json))
 - [United Kingdom](data/gb) ([JSON](data/gb.json))
   - [England](data/gb-eng) ([JSON](data/gb-eng.json))
