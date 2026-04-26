@@ -41,7 +41,7 @@
             "built": {
                 "description": "The century or date that the castle or fortification was built.",
                 "type": "string",
-                "pattern": "^((?:\\d+-)?(?:\\d+(?:st|nd|rd|th))?\\s+Century(?:\\s+BCE)?|\\d+(?:\\s+BCE)?)$"
+                "pattern":"^(?:(\\d+-)?\\d+(?:st|nd|rd|th)\\s+Century(\\s+BCE)?|(\\d+-)?\\s+Century(\\s+BCE)?|\\d+(\\s+BCE)?)$"
             },
             "condition": {
                 "description": "The condition of the castle or fortification.",
