@@ -11,6 +11,9 @@ jobs:
 
     name: JSON Schema
 
+    permissions:
+      contents: read
+
     steps:
 
       - name: Checkout
@@ -31,6 +34,9 @@ jobs:
     runs-on: ubuntu-latest
 
     name: Validate
+
+    permissions:
+      contents: read 
 
     steps:
 
