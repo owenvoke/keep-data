@@ -1037,6 +1037,20 @@
         "type": "Motte and Bailey"
     },
     {
+        "id": "019dd086-fece-751c-9707-5ae9cd5a8dab",
+        "name": "Eastnor Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.0297,
+            "longitude": -2.3877
+        },
+        "built": "19th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Folly"
+    },
+    {
         "id": "019d6948-63cd-715f-909e-ad8e45f6875d",
         "name": "Edlingham Castle",
         "country": "GB",
@@ -2835,18 +2849,5 @@
         "homepage": "https://www.english-heritage.org.uk/visit/places/hurst-castle",
         "ownedBy": "English Heritage",
         "type": "Artillery Fort"
-    },
-    {
-        "name": "Eastnor Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 52.0297,
-            "longitude": -2.3877
-        },
-        "built": "19th Century",
-        "condition": "Intact",
-        "ownedBy": "Private",
-        "type": "Folly"
     }
 ]
