@@ -2835,5 +2835,18 @@
         "homepage": "https://www.english-heritage.org.uk/visit/places/hurst-castle",
         "ownedBy": "English Heritage",
         "type": "Artillery Fort"
+    },
+    {
+        "name": "Eastnor Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.0297,
+            "longitude": -2.3877
+        },
+        "built": "19th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Folly"
     }
 ]
