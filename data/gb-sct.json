@@ -44,6 +44,20 @@
         "type": "Square Keep"
     },
     {
+        "id": "019dced4-f192-72bb-8ede-43d301c41df8",
+        "name": "Ardvreck Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 58.16636,
+            "longitude": -4.99393
+        },
+        "built": "15-16th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d72bd-61f4-7279-af42-4470e09d830f",
         "name": "Auchen Castle",
         "country": "GB",
@@ -70,6 +84,21 @@
         "condition": "Ruins",
         "ownedBy": "Auchenharvie Farm",
         "type": "Square Keep"
+    },
+    {
+        "id": "019dced4-f192-72bb-8ede-04642ed592a9",
+        "name": "Auchindoun Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.42279,
+            "longitude": -3.08577
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/auchindoun-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Tower House"
     },
     {
         "id": "019d72bd-61f4-7279-af42-1a208c06104b",
@@ -116,6 +145,38 @@
         "type": "Tower House"
     },
     {
+        "id": "019dced4-f192-72bb-8ede-09001011005f",
+        "name": "Balvenie Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.4534,
+            "longitude": -3.12489
+        },
+        "alternativeNames": [
+            "Mortlach"
+        ],
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/balvenie-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Keepless"
+    },
+    {
+        "id": "019dced4-f192-72bb-8ede-0d894ee5542a",
+        "name": "Beldorney Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.41957,
+            "longitude": -2.96305
+        },
+        "built": "16th Century",
+        "condition": "Restored",
+        "ownedBy": "Robinson Family",
+        "type": "Tower House"
+    },
+    {
         "id": "019dc3af-cfbd-7749-a33c-cb036b20cca6",
         "name": "Blackness Castle",
         "country": "GB",
@@ -146,6 +207,24 @@
         "type": "Keepless"
     },
     {
+        "id": "019dced4-f193-7198-930d-d952159b89a0",
+        "name": "Borve Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.42997,
+            "longitude": -7.37847
+        },
+        "alternativeNames": [
+            "Castle Wearie",
+            "Caisteal Bhuirgh"
+        ],
+        "built": "14th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Tower House"
+    },
+    {
         "id": "019d6d69-ab71-71be-943e-ee95224cd476",
         "name": "Bothwell Castle",
         "country": "GB",
@@ -174,6 +253,21 @@
         "homepage": "https://braemarcastle.co.uk",
         "ownedBy": "Clan Farquharson",
         "type": "Tower House"
+    },
+    {
+        "id": "019dced4-f192-72bb-8ede-2e2729f5826f",
+        "name": "Brodie Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.59837,
+            "longitude": -3.70888
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.nts.org.uk/visit/places/brodie-castle",
+        "ownedBy": "National Trust for Scotland",
+        "type": "Keepless"
     },
     {
         "id": "019d72bd-61f4-7279-af42-14e906a2c915",
@@ -235,6 +329,34 @@
         "homepage": "https://www.historicenvironment.scot/visit-a-place/places/caerlaverock-castle",
         "ownedBy": "Historic Environment Scotland",
         "type": "Keepless"
+    },
+    {
+        "id": "019dced4-f192-72bb-8ede-27a56473117d",
+        "name": "Cairnbulg Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.66542,
+            "longitude": -1.97501
+        },
+        "built": "13th Century",
+        "condition": "Intact",
+        "ownedBy": "Fraser Family",
+        "type": "Tower House"
+    },
+    {
+        "id": "019dced4-f193-7198-930d-dfe0f894d82d",
+        "name": "Caisteal Bheagram",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.30914,
+            "longitude": -7.38107
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Square Keep"
     },
     {
         "id": "019d6d69-ab71-71be-943f-3472e0751f13",
@@ -340,6 +462,24 @@
         "type": "Fortified Manor House"
     },
     {
+        "id": "019dced4-f192-72bb-8ede-45ce4b849075",
+        "name": "Castle of Old Wick",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 58.42318,
+            "longitude": -3.08177
+        },
+        "alternativeNames": [
+            "The Old Man of Wick"
+        ],
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/castle-of-old-wick",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Square Keep"
+    },
+    {
         "id": "019dc3af-cfbd-7749-a33c-ff65af4dbe82",
         "name": "Castle Stalker",
         "country": "GB",
@@ -398,6 +538,20 @@
         "condition": "Ruins",
         "ownedBy": "Historic Environment Scotland",
         "type": "Square Keep"
+    },
+    {
+        "id": "019dced4-f192-72bb-8ede-30c670954ca6",
+        "name": "Cawdor Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.52415,
+            "longitude": -3.9265
+        },
+        "built": "14-15th Century",
+        "condition": "Intact",
+        "ownedBy": "Cawdor Family",
+        "type": "Tower House"
     },
     {
         "id": "019dc3af-cfbd-7749-a33c-f126ec2eaa56",
@@ -533,6 +687,24 @@
         "homepage": "https://www.historicenvironment.scot/visit-a-place/places/crookston-castle",
         "ownedBy": "Historic Environment Scotland",
         "type": "Square Keep"
+    },
+    {
+        "id": "019dced4-f193-7198-930d-c9e5f3194650",
+        "name": "Cubbie Roo's Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 59.1198,
+            "longitude": -2.9768
+        },
+        "alternativeNames": [
+            "Cubbie Row's Castle"
+        ],
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/cubbie-roos-castle-and-st-marys-chapel",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Round Keep"
     },
     {
         "id": "019dc040-91c7-7239-a978-5d1613e077a2",
@@ -685,6 +857,21 @@
         "type": "Keepless"
     },
     {
+        "id": "019dced4-f192-72bb-8ede-283b929db754",
+        "name": "Duffus Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.68789,
+            "longitude": -3.36211
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/huntly-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Motte and Bailey"
+    },
+    {
         "id": "019dc3af-cfbd-7749-a33c-ce8dcea096da",
         "name": "Dumbarton Castle",
         "country": "GB",
@@ -758,6 +945,20 @@
         "type": "Square Keep"
     },
     {
+        "id": "019dced4-f192-72bb-8ede-3e8770e21437",
+        "name": "Dunrobin Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.98184,
+            "longitude": -3.94549
+        },
+        "built": "15th Century",
+        "condition": "Intact",
+        "ownedBy": "Lord Strathnaver",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d72bd-61f4-7279-af42-5d6d821645fe",
         "name": "Dunscaith Castle",
         "country": "GB",
@@ -827,6 +1028,21 @@
         "condition": "Ruins",
         "ownedBy": "Private",
         "type": "Square Keep"
+    },
+    {
+        "id": "019dced4-f192-72bb-8ede-3847bde99977",
+        "name": "Dunvegan Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.44844,
+            "longitude": -6.59006
+        },
+        "built": "13-14th Century",
+        "condition": "Intact",
+        "homepage": "https://www.dunvegancastle.com",
+        "ownedBy": "The Clan MacLeod",
+        "type": "Keepless"
     },
     {
         "id": "019d72bd-61f4-7279-af42-4ee44bf73d38",
@@ -950,6 +1166,21 @@
         "type": "Square Keep"
     },
     {
+        "id": "019dced4-f192-72bb-8ede-163de88a871f",
+        "name": "Fyvie Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.44344,
+            "longitude": -2.39485
+        },
+        "built": "13th Century",
+        "condition": "Restored",
+        "homepage": "https://www.nts.org.uk/visit/places/fyvie-castle",
+        "ownedBy": "National Trust for Scotland",
+        "type": "Keepless"
+    },
+    {
         "id": "019dc3af-cfbd-7749-a33d-00578c30543c",
         "name": "Glamis Castle",
         "country": "GB",
@@ -1068,6 +1299,21 @@
         "type": "Tower House"
     },
     {
+        "id": "019dced4-f192-72bb-8ede-11809699322f",
+        "name": "Huntly Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.45458,
+            "longitude": -2.78191
+        },
+        "built": "13th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/huntly-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Tower House"
+    },
+    {
         "id": "019d72bd-61f4-7279-af42-5003813a7a18",
         "name": "Innerwick Castle",
         "country": "GB",
@@ -1093,6 +1339,21 @@
         "built": "16th Century",
         "condition": "Ruins",
         "ownedBy": "Historic Environment Scotland",
+        "type": "Keepless"
+    },
+    {
+        "id": "019dced4-f192-72bb-8ede-343fe3e587c6",
+        "name": "Inverness Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.47632,
+            "longitude": -4.22536
+        },
+        "built": "19th Century",
+        "condition": "Intact",
+        "homepage": "https://invernesscastle.scot",
+        "ownedBy": "Scottish Government",
         "type": "Keepless"
     },
     {
@@ -1157,6 +1418,21 @@
         "type": "Square Keep"
     },
     {
+        "id": "019dced4-f192-72bb-8ede-231903cc1ea9",
+        "name": "Kinnairdy Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.53675,
+            "longitude": -2.6545
+        },
+        "accessible": false,
+        "built": "15th Century",
+        "condition": "Intact",
+        "ownedBy": "Innes Family",
+        "type": "Tower House"
+    },
+    {
         "id": "019d6d69-ab71-71be-943f-39f420629718",
         "name": "Kisimul Castle",
         "country": "GB",
@@ -1184,6 +1460,21 @@
         "condition": "Intact",
         "ownedBy": "City of Edinburgh",
         "type": "Tower House"
+    },
+    {
+        "id": "019dced4-f193-7198-930d-d6bb0c466271",
+        "name": "Lews Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 58.21159,
+            "longitude": -6.39468
+        },
+        "built": "19th Century",
+        "condition": "Intact",
+        "homepage": "https://lews-castle.co.uk",
+        "ownedBy": "Comhairle nan Eilean Siar",
+        "type": "Fortified Manor House"
     },
     {
         "id": "019d6d69-ab71-71be-943f-2795e248ff07",
@@ -1290,6 +1581,21 @@
         "type": "Fortified Manor House"
     },
     {
+        "id": "019dced4-f192-72bb-8ede-48382a79dab8",
+        "name": "Mey Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 58.6471,
+            "longitude": -3.22479
+        },
+        "built": "16th Century",
+        "condition": "Restored",
+        "homepage": "https://www.castleofmey.org.uk",
+        "ownedBy": "The Queen Elizabeth Castle of Mey Trust",
+        "type": "Tower House"
+    },
+    {
         "id": "019d6d69-ab71-71be-943f-2b96b9f46334",
         "name": "Mingary Castle",
         "country": "GB",
@@ -1380,6 +1686,21 @@
         "type": "Fortified Manor House"
     },
     {
+        "id": "019dced4-f193-7198-930d-cec7ab3a2ec8",
+        "name": "Noltland Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 59.32077,
+            "longitude": -3.00464
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/noltland-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Tower House"
+    },
+    {
         "id": "019d72bd-61f4-7279-af42-3d80aca55f76",
         "name": "Old Castle Lachlan",
         "country": "GB",
@@ -1422,6 +1743,20 @@
         "homepage": "https://www.historicenvironment.scot/visit-a-place/places/orchardton-tower",
         "ownedBy": "Historic Environment Scotland",
         "type": "Tower House"
+    },
+    {
+        "id": "019dced4-f193-7198-930d-e3b1591d96b9",
+        "name": "Ormacleit Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.26039,
+            "longitude": -7.40904
+        },
+        "built": "18th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fortified Manor House"
     },
     {
         "id": "019dce56-369b-750d-88ef-98adfa3585dc",
@@ -1554,6 +1889,21 @@
         "type": "Keepless"
     },
     {
+        "id": "019dced4-f193-7198-930d-d327deee6ae1",
+        "name": "Scalloway Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 60.13561,
+            "longitude": -1.27409
+        },
+        "built": "16-17th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/scalloway-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Fortified Manor House"
+    },
+    {
         "id": "019d6e33-1b59-748f-9e3f-634460896119",
         "name": "Skipness Castle",
         "country": "GB",
@@ -1567,6 +1917,40 @@
         "homepage": "https://www.historicenvironment.scot/visit-a-place/places/skipness-castle-and-chapel",
         "ownedBy": "Historic Environment Scotland",
         "type": "Square Keep"
+    },
+    {
+        "id": "019dced4-f192-72bb-8ede-1878a65e8890",
+        "name": "Slains Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.36051,
+            "longitude": -1.91322
+        },
+        "alternativeNames": [
+            "Old Slains Castle"
+        ],
+        "built": "13-15th Century",
+        "condition": "Ruins",
+        "ownedBy": "Slains Partnership",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019dced4-f192-72bb-8ede-1dda5c342fb1",
+        "name": "Slains Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.41514,
+            "longitude": -1.83246
+        },
+        "alternativeNames": [
+            "New Slains Castle"
+        ],
+        "built": "16th Century",
+        "condition": "Ruins",
+        "ownedBy": "Slains Partnership",
+        "type": "Tower House"
     },
     {
         "id": "019dc040-91c7-7239-a978-309680ecbde9",
@@ -1686,6 +2070,21 @@
         "type": "Square Keep"
     },
     {
+        "id": "019dced4-f192-72bb-8ede-032d7be2b92d",
+        "name": "Tolquhon Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.34809,
+            "longitude": -2.21322
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/tolquhon-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Tower House"
+    },
+    {
         "id": "019d6d69-ab71-71be-943f-2d13431ffae8",
         "name": "Urquhart Castle",
         "country": "GB",
@@ -1713,378 +2112,5 @@
         "condition": "Ruins",
         "ownedBy": "Private",
         "type": "Square Keep"
-    },
-    {
-        "name": "Tolquhon Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.34809,
-            "longitude": -2.21322
-        },
-        "built": "15th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/tolquhon-castle",
-        "ownedBy": "Historic Environment Scotland",
-        "type": "Tower House"
-    },
-    {
-        "name": "Auchindoun Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.42279,
-            "longitude": -3.08577
-        },
-        "built": "15th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/auchindoun-castle",
-        "ownedBy": "Historic Environment Scotland",
-        "type": "Tower House"
-    },
-    {
-        "name": "Balvenie Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.4534,
-            "longitude": -3.12489
-        },
-        "alternativeNames": [
-            "Mortlach"
-        ],
-        "built": "12th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/balvenie-castle",
-        "ownedBy": "Historic Environment Scotland",
-        "type": "Keepless"
-    },
-    {
-        "name": "Beldorney Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.41957,
-            "longitude": -2.96305
-        },
-        "built": "16th Century",
-        "condition": "Restored",
-        "ownedBy": "Robinson Family",
-        "type": "Tower House"
-    },
-    {
-        "name": "Huntly Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.45458,
-            "longitude": -2.78191
-        },
-        "built": "13th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/huntly-castle",
-        "ownedBy": "Historic Environment Scotland",
-        "type": "Tower House"
-    },
-    {
-        "name": "Fyvie Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.44344,
-            "longitude": -2.39485
-        },
-        "built": "13th Century",
-        "condition": "Restored",
-        "homepage": "https://www.nts.org.uk/visit/places/fyvie-castle",
-        "ownedBy": "National Trust for Scotland",
-        "type": "Keepless"
-    },
-    {
-        "name": "Slains Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.36051,
-            "longitude": -1.91322
-        },
-        "alternativeNames": [
-            "Old Slains Castle"
-        ],
-        "built": "13-15th Century",
-        "condition": "Ruins",
-        "ownedBy": "Slains Partnership",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Slains Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.41514,
-            "longitude": -1.83246
-        },
-        "alternativeNames": [
-            "New Slains Castle"
-        ],
-        "built": "16th Century",
-        "condition": "Ruins",
-        "ownedBy": "Slains Partnership",
-        "type": "Tower House"
-    },
-    {
-        "name": "Kinnairdy Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.53675,
-            "longitude": -2.6545
-        },
-        "accessible": false,
-        "built": "15th Century",
-        "condition": "Intact",
-        "ownedBy": "Innes Family",
-        "type": "Tower House"
-    },
-    {
-        "name": "Cairnbulg Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.66542,
-            "longitude": -1.97501
-        },
-        "built": "13th Century",
-        "condition": "Intact",
-        "ownedBy": "Fraser Family",
-        "type": "Tower House"
-    },
-    {
-        "name": "Duffus Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.68789,
-            "longitude": -3.36211
-        },
-        "built": "12th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/huntly-castle",
-        "ownedBy": "Historic Environment Scotland",
-        "type": "Motte and Bailey"
-    },
-    {
-        "name": "Brodie Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.59837,
-            "longitude": -3.70888
-        },
-        "built": "16th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.nts.org.uk/visit/places/brodie-castle",
-        "ownedBy": "National Trust for Scotland",
-        "type": "Keepless"
-    },
-    {
-        "name": "Cawdor Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.52415,
-            "longitude": -3.9265
-        },
-        "built": "14-15th Century",
-        "condition": "Intact",
-        "ownedBy": "Cawdor Family",
-        "type": "Tower House"
-    },
-    {
-        "name": "Inverness Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.47632,
-            "longitude": -4.22536
-        },
-        "built": "19th Century",
-        "condition": "Intact",
-        "homepage": "https://invernesscastle.scot",
-        "ownedBy": "Scottish Government",
-        "type": "Keepless"
-    },
-    {
-        "name": "Dunvegan Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.44844,
-            "longitude": -6.59006
-        },
-        "built": "13-14th Century",
-        "condition": "Intact",
-        "homepage": "https://www.dunvegancastle.com",
-        "ownedBy": "The Clan MacLeod",
-        "type": "Keepless"
-    },
-    {
-        "name": "Dunrobin Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.98184,
-            "longitude": -3.94549
-        },
-        "built": "15th Century",
-        "condition": "Intact",
-        "ownedBy": "Lord Strathnaver",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Ardvreck Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 58.16636,
-            "longitude": -4.99393
-        },
-        "built": "15-16th Century",
-        "condition": "Ruins",
-        "ownedBy": "Scheduled Ancient Monument",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Castle of Old Wick",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 58.42318,
-            "longitude": -3.08177
-        },
-        "alternativeNames": [
-            "The Old Man of Wick"
-        ],
-        "built": "12th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/castle-of-old-wick",
-        "ownedBy": "Historic Environment Scotland",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Mey Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 58.64710,
-            "longitude": -3.22479
-        },
-        "built": "16th Century",
-        "condition": "Restored",
-        "homepage": "https://www.castleofmey.org.uk",
-        "ownedBy": "The Queen Elizabeth Castle of Mey Trust",
-        "type": "Tower House"
-    },
-    {
-        "name": "Cubbie Roo's Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 59.1198,
-            "longitude": -2.9768
-        },
-        "alternativeNames": [
-            "Cubbie Row's Castle"
-        ],
-        "built": "12th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/cubbie-roos-castle-and-st-marys-chapel",
-        "ownedBy": "Historic Environment Scotland",
-        "type": "Round Keep"
-    },
-    {
-        "name": "Noltland Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 59.32077,
-            "longitude": -3.00464
-        },
-        "built": "16th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/noltland-castle",
-        "ownedBy": "Historic Environment Scotland",
-        "type": "Tower House"
-    },
-    {
-        "name": "Scalloway Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 60.13561,
-            "longitude": -1.27409
-        },
-        "built": "16-17th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/scalloway-castle",
-        "ownedBy": "Historic Environment Scotland",
-        "type": "Fortified Manor House"
-    },
-    {
-        "name": "Lews Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 58.21159,
-            "longitude": -6.39468
-        },
-        "built": "19th Century",
-        "condition": "Intact",
-        "homepage": "https://lews-castle.co.uk",
-        "ownedBy": "Comhairle nan Eilean Siar",
-        "type": "Fortified Manor House"
-    },
-    {
-        "name": "Borve Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.42997,
-            "longitude": -7.37847
-        },
-        "alternativeNames": [
-            "Castle Wearie",
-            "Caisteal Bhuirgh"
-        ],
-        "built": "14th Century",
-        "condition": "Ruins",
-        "ownedBy": "Scheduled Ancient Monument",
-        "type": "Tower House"
-    },
-    {
-        "name": "Caisteal Bheagram",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.30914,
-            "longitude": -7.38107
-        },
-        "built": "15th Century",
-        "condition": "Ruins",
-        "ownedBy": "Scheduled Ancient Monument",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Ormacleit Castle",
-        "country": "GB",
-        "region": "GB-SCT",
-        "coordinates": {
-            "latitude": 57.26039,
-            "longitude": -7.40904
-        },
-        "built": "18th Century",
-        "condition": "Ruins",
-        "ownedBy": "Scheduled Ancient Monument",
-        "type": "Fortified Manor House"
     }
 ]
