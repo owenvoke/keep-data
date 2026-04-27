@@ -5,8 +5,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.055239,
-            "longitude": -3.298292
+            "latitude": 56.05524,
+            "longitude": -3.29829
         },
         "built": "13th Century",
         "condition": "Fragmented Remains",
@@ -20,8 +20,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 57.043323,
-            "longitude": -3.176467
+            "latitude": 57.04332,
+            "longitude": -3.17647
         },
         "built": "16th Century",
         "condition": "Intact",
@@ -35,8 +35,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.641961,
-            "longitude": -4.810145
+            "latitude": 55.64196,
+            "longitude": -4.81015
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -49,8 +49,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.327472,
-            "longitude": -3.479227
+            "latitude": 55.32747,
+            "longitude": -3.47923
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -63,8 +63,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.663996,
-            "longitude": -4.605009
+            "latitude": 55.664,
+            "longitude": -4.60501
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -77,8 +77,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.193759,
-            "longitude": -3.109238
+            "latitude": 56.19376,
+            "longitude": -3.10924
         },
         "built": "14th Century",
         "condition": "Restored",
@@ -91,7 +91,7 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 57.040833,
+            "latitude": 57.04083,
             "longitude": -3.23
         },
         "built": "19th Century",
@@ -106,8 +106,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.2890453446857,
-            "longitude": -3.3427079300509304
+            "latitude": 56.28905,
+            "longitude": -3.34271
         },
         "built": "13-14th Century",
         "condition": "Ruins",
@@ -121,8 +121,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.0060639676768,
-            "longitude": -3.5161752036774594
+            "latitude": 56.00606,
+            "longitude": -3.51618
         },
         "built": "15th Century",
         "condition": "Intact",
@@ -151,8 +151,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.809453,
-            "longitude": -4.094924
+            "latitude": 55.80945,
+            "longitude": -4.09492
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -181,8 +181,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.462928,
-            "longitude": -2.870224
+            "latitude": 56.46293,
+            "longitude": -2.87022
         },
         "built": "15th Century",
         "condition": "Intact",
@@ -196,8 +196,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.22588489246636,
-            "longitude": -3.4065166689100237
+            "latitude": 56.22588,
+            "longitude": -3.40652
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -211,8 +211,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.76059684192466,
-            "longitude": -4.01732004457313
+            "latitude": 55.7606,
+            "longitude": -4.01732
         },
         "accessible": false,
         "built": "16th Century",
@@ -227,8 +227,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 54.975693,
-            "longitude": -3.524049
+            "latitude": 54.97569,
+            "longitude": -3.52405
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -242,8 +242,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 57.143237,
-            "longitude": -7.263722
+            "latitude": 57.14324,
+            "longitude": -7.26372
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -256,8 +256,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 54.87244641332604,
-            "longitude": -4.198021300471766
+            "latitude": 54.87245,
+            "longitude": -4.19802
         },
         "built": "15th Century",
         "condition": "Partial Ruins",
@@ -271,8 +271,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.15119547669404,
-            "longitude": -5.480586282354813
+            "latitude": 56.1512,
+            "longitude": -5.48059
         },
         "built": "16th Century",
         "condition": "Partial Ruins",
@@ -286,8 +286,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 54.8595240396593,
-            "longitude": -4.34668538165663
+            "latitude": 54.85952,
+            "longitude": -4.34669
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -301,8 +301,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.175082802131065,
-            "longitude": -3.674683836485447
+            "latitude": 56.17508,
+            "longitude": -3.67468
         },
         "built": "15th Century",
         "condition": "Partial Ruins",
@@ -331,8 +331,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.62391598753121,
-            "longitude": -3.896885702609967
+            "latitude": 56.62392,
+            "longitude": -3.89689
         },
         "built": "16th Century",
         "condition": "Intact",
@@ -345,8 +345,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.571499970082606,
-            "longitude": -5.386277070069054
+            "latitude": 56.5715,
+            "longitude": -5.38628
         },
         "alternativeNames": [
             "Caisteal an Stalcaire"
@@ -362,8 +362,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.947927,
-            "longitude": -5.665171
+            "latitude": 55.94793,
+            "longitude": -5.66517
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -377,8 +377,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.784636,
-            "longitude": -5.829001
+            "latitude": 56.78464,
+            "longitude": -5.829
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -391,8 +391,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 58.475758,
-            "longitude": -4.435435
+            "latitude": 58.47576,
+            "longitude": -4.43544
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -405,8 +405,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.47648734391579,
-            "longitude": -2.8900127934006967
+            "latitude": 56.47649,
+            "longitude": -2.89001
         },
         "built": "16th Century",
         "condition": "Partial Ruins",
@@ -435,8 +435,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.61039938388858,
-            "longitude": -3.5592075785914887
+            "latitude": 55.6104,
+            "longitude": -3.55921
         },
         "built": "12th Century",
         "condition": "Fragmented Remains",
@@ -465,8 +465,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.925653,
-            "longitude": -3.140871
+            "latitude": 55.92565,
+            "longitude": -3.14087
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -480,8 +480,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.558013,
-            "longitude": -3.870873
+            "latitude": 55.55801,
+            "longitude": -3.87087
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -510,8 +510,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.83961291430436,
-            "longitude": -2.9914107445692517
+            "latitude": 55.83961,
+            "longitude": -2.99141
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -525,8 +525,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.835144,
-            "longitude": -4.355865
+            "latitude": 55.83514,
+            "longitude": -4.35586
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -540,8 +540,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.354720451925296,
-            "longitude": -4.78930480378736
+            "latitude": 55.35472,
+            "longitude": -4.7893
         },
         "built": "18th Century",
         "condition": "Restored",
@@ -555,8 +555,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 57.544012,
-            "longitude": -2.412068
+            "latitude": 57.54401,
+            "longitude": -2.41207
         },
         "built": "11th Century",
         "condition": "Intact",
@@ -569,8 +569,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.045915,
-            "longitude": -2.778152
+            "latitude": 56.04592,
+            "longitude": -2.77815
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -585,7 +585,7 @@
         "region": "GB-SCT",
         "coordinates": {
             "latitude": 56.18526,
-            "longitude": -4.050157
+            "longitude": -4.05016
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -599,8 +599,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.677656,
-            "longitude": -3.334149
+            "latitude": 55.67766,
+            "longitude": -3.33415
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -614,7 +614,7 @@
         "region": "GB-SCT",
         "coordinates": {
             "latitude": 54.78765,
-            "longitude": -4.56850277778
+            "longitude": -4.5685
         },
         "built": "12th Century",
         "condition": "Fragmented Remains",
@@ -643,8 +643,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 54.996413681533106,
-            "longitude": -3.7684410985799337
+            "latitude": 54.99641,
+            "longitude": -3.76844
         },
         "built": "16th Century",
         "condition": "Intact",
@@ -672,8 +672,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.456083,
-            "longitude": -5.654944
+            "latitude": 56.45608,
+            "longitude": -5.65494
         },
         "alternativeNames": [
             "Caisteal Dhubhairt"
@@ -690,8 +690,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.936063942302034,
-            "longitude": -4.562769066620649
+            "latitude": 55.93606,
+            "longitude": -4.56277
         },
         "built": "18th Century",
         "condition": "Intact",
@@ -705,8 +705,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.57678408505751,
-            "longitude": -4.596965375979553
+            "latitude": 55.57678,
+            "longitude": -4.59697
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -734,7 +734,7 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.945777,
+            "latitude": 56.94578,
             "longitude": -2.19719
         },
         "built": "15-17th Century",
@@ -750,7 +750,7 @@
         "region": "GB-SCT",
         "coordinates": {
             "latitude": 56.42726,
-            "longitude": -5.483178
+            "longitude": -5.48318
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -763,8 +763,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 57.136566,
-            "longitude": -5.975944
+            "latitude": 57.13657,
+            "longitude": -5.97594
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -777,8 +777,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 54.83546304608522,
-            "longitude": -5.109755406881228
+            "latitude": 54.83546,
+            "longitude": -5.10976
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -791,7 +791,7 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.454689,
+            "latitude": 56.45469,
             "longitude": -5.43746
         },
         "built": "14th Century",
@@ -806,8 +806,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 57.684377,
-            "longitude": -6.347094
+            "latitude": 57.68438,
+            "longitude": -6.34709
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -820,8 +820,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.405131,
-            "longitude": -4.761903
+            "latitude": 55.40513,
+            "longitude": -4.7619
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -834,8 +834,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.948595,
-            "longitude": -3.199913
+            "latitude": 55.94859,
+            "longitude": -3.19991
         },
         "built": "12-21st Century",
         "condition": "Intact",
@@ -864,8 +864,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 57.273896,
-            "longitude": -5.516158
+            "latitude": 57.2739,
+            "longitude": -5.51616
         },
         "built": "13th Century",
         "condition": "Restored",
@@ -878,8 +878,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.37466129334127,
-            "longitude": -3.354481937898252
+            "latitude": 56.37466,
+            "longitude": -3.35448
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -911,8 +911,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.254327,
-            "longitude": -3.205583
+            "latitude": 56.25433,
+            "longitude": -3.20558
         },
         "built": "12th Century",
         "condition": "Intact",
@@ -940,8 +940,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 57.692451,
-            "longitude": -2.770359
+            "latitude": 57.69245,
+            "longitude": -2.77036
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -955,8 +955,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.62022494222361,
-            "longitude": -3.0017383319239745
+            "latitude": 56.62022,
+            "longitude": -3.00174
         },
         "built": "17th Century",
         "condition": "Intact",
@@ -985,8 +985,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.677748396404056,
-            "longitude": -2.574747650261584
+            "latitude": 55.67775,
+            "longitude": -2.57475
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -1014,8 +1014,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.973209,
-            "longitude": -2.683114
+            "latitude": 55.97321,
+            "longitude": -2.68311
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -1029,8 +1029,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.256034,
-            "longitude": -2.793231
+            "latitude": 55.25603,
+            "longitude": -2.79323
         },
         "built": "13th Century",
         "condition": "Partial Ruins",
@@ -1044,8 +1044,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.665147,
-            "longitude": -2.470937
+            "latitude": 55.66515,
+            "longitude": -2.47094
         },
         "built": "12th Century",
         "condition": "Ruins",
@@ -1058,8 +1058,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.409431877278415,
-            "longitude": -3.4884129213682806
+            "latitude": 56.40943,
+            "longitude": -3.48841
         },
         "built": "15-16th Century",
         "condition": "Ruins",
@@ -1073,8 +1073,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.955435,
-            "longitude": -2.425511
+            "latitude": 55.95544,
+            "longitude": -2.42551
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -1087,8 +1087,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 57.656359,
-            "longitude": -1.933232
+            "latitude": 57.65636,
+            "longitude": -1.93323
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -1118,7 +1118,7 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.648347,
+            "latitude": 55.64835,
             "longitude": -4.75236
         },
         "built": "12-13th Century",
@@ -1132,8 +1132,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.403715,
-            "longitude": -5.027404
+            "latitude": 56.40371,
+            "longitude": -5.0274
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -1147,8 +1147,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 57.234555,
-            "longitude": -2.904225
+            "latitude": 57.23456,
+            "longitude": -2.90422
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -1162,8 +1162,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.952134,
-            "longitude": -7.487481
+            "latitude": 56.95213,
+            "longitude": -7.48748
         },
         "built": "11th Century",
         "condition": "Partially Restored",
@@ -1177,8 +1177,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.971199,
-            "longitude": -3.278464
+            "latitude": 55.9712,
+            "longitude": -3.27846
         },
         "built": "16th Century",
         "condition": "Intact",
@@ -1191,8 +1191,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.978925,
-            "longitude": -3.600841
+            "latitude": 55.97892,
+            "longitude": -3.60084
         },
         "built": "12-17th Century",
         "condition": "Ruins",
@@ -1206,8 +1206,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.225976,
-            "longitude": -4.384875
+            "latitude": 55.22598,
+            "longitude": -4.38488
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -1221,8 +1221,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.200838,
-            "longitude": -3.391997
+            "latitude": 56.20084,
+            "longitude": -3.392
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -1236,8 +1236,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.116291,
-            "longitude": -3.431293
+            "latitude": 55.11629,
+            "longitude": -3.43129
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -1251,8 +1251,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.70521607047339,
-            "longitude": -5.291071778677572
+            "latitude": 55.70522,
+            "longitude": -5.29107
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -1267,7 +1267,7 @@
         "region": "GB-SCT",
         "coordinates": {
             "latitude": 56.16243,
-            "longitude": -3.057976
+            "longitude": -3.05798
         },
         "built": "11th Century",
         "condition": "Ruins",
@@ -1280,8 +1280,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 54.8370022334448,
-            "longitude": -4.0528917223558185
+            "latitude": 54.837,
+            "longitude": -4.05289
         },
         "built": "16th Century",
         "condition": "Partial Ruins",
@@ -1295,8 +1295,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.692829,
-            "longitude": -6.080137
+            "latitude": 56.69283,
+            "longitude": -6.08014
         },
         "alternativeNames": [
             "Mingarry Castle"
@@ -1312,8 +1312,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.274477,
-            "longitude": -3.747561
+            "latitude": 55.27448,
+            "longitude": -3.74756
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -1327,8 +1327,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.965452,
-            "longitude": -4.324582
+            "latitude": 55.96545,
+            "longitude": -4.32458
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -1356,8 +1356,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.65188374353739,
-            "longitude": -3.2153359850808134
+            "latitude": 55.65188,
+            "longitude": -3.21534
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -1370,8 +1370,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.9345441415794,
-            "longitude": -4.678106967005913
+            "latitude": 55.93454,
+            "longitude": -4.67811
         },
         "built": "15th Century",
         "condition": "Partial Ruins",
@@ -1385,8 +1385,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.108448,
-            "longitude": -5.209425
+            "latitude": 56.10845,
+            "longitude": -5.20943
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -1399,8 +1399,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.832303,
-            "longitude": -5.082389
+            "latitude": 56.8323,
+            "longitude": -5.08239
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -1414,8 +1414,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 54.87685059316303,
-            "longitude": -3.8452647658533605
+            "latitude": 54.87685,
+            "longitude": -3.84526
         },
         "built": "13th Century",
         "condition": "Partial Ruins",
@@ -1444,8 +1444,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 57.692336,
-            "longitude": -2.106913
+            "latitude": 57.69234,
+            "longitude": -2.10691
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -1458,8 +1458,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.699417,
-            "longitude": -4.904999
+            "latitude": 55.69942,
+            "longitude": -4.905
         },
         "built": "14th Century",
         "condition": "Restored",
@@ -1473,8 +1473,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.119906,
-            "longitude": -3.142068
+            "latitude": 56.11991,
+            "longitude": -3.14207
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -1488,8 +1488,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.836492,
-            "longitude": -5.055103
+            "latitude": 55.83649,
+            "longitude": -5.0551
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -1503,8 +1503,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.65008413064014,
-            "longitude": -4.488994929972044
+            "latitude": 55.65008,
+            "longitude": -4.48899
         },
         "built": "13th Century",
         "condition": "Intact",
@@ -1517,7 +1517,7 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.599005,
+            "latitude": 55.599,
             "longitude": -2.44994
         },
         "built": "12th Century",
@@ -1531,8 +1531,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.027032,
-            "longitude": -2.827715
+            "latitude": 56.02703,
+            "longitude": -2.82771
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -1545,8 +1545,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.361994,
-            "longitude": -3.918252
+            "latitude": 55.36199,
+            "longitude": -3.91825
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -1559,8 +1559,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.768012,
-            "longitude": -5.336341
+            "latitude": 55.76801,
+            "longitude": -5.33634
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -1574,8 +1574,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 54.793991516629845,
-            "longitude": -4.411115413672897
+            "latitude": 54.79399,
+            "longitude": -4.41112
         },
         "built": "16th Century",
         "condition": "Ruins",
@@ -1589,8 +1589,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.342024,
-            "longitude": -2.790305
+            "latitude": 56.34202,
+            "longitude": -2.79031
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -1604,8 +1604,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.123889,
-            "longitude": -3.947778
+            "latitude": 56.12389,
+            "longitude": -3.94778
         },
         "built": "15-16th Century",
         "condition": "Partial Ruins",
@@ -1619,7 +1619,7 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.676137,
+            "latitude": 55.67614,
             "longitude": -4.06315
         },
         "built": "14-15th Century",
@@ -1633,8 +1633,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 57.359181,
-            "longitude": -5.555131
+            "latitude": 57.35918,
+            "longitude": -5.55513
         },
         "built": "15th Century",
         "condition": "Ruins",
@@ -1647,8 +1647,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 56.056359,
-            "longitude": -2.650621
+            "latitude": 56.05636,
+            "longitude": -2.65062
         },
         "built": "14th Century",
         "condition": "Ruins",
@@ -1662,8 +1662,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.864361,
-            "longitude": -5.408739
+            "latitude": 55.86436,
+            "longitude": -5.40874
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -1676,8 +1676,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 54.9392510671978,
-            "longitude": -3.969542888792457
+            "latitude": 54.93925,
+            "longitude": -3.96954
         },
         "built": "14th Century",
         "condition": "Partial Ruins",
@@ -1692,7 +1692,7 @@
         "region": "GB-SCT",
         "coordinates": {
             "latitude": 57.32414,
-            "longitude": -4.442001
+            "longitude": -4.442
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -1706,8 +1706,8 @@
         "country": "GB",
         "region": "GB-SCT",
         "coordinates": {
-            "latitude": 55.891703,
-            "longitude": -2.712143
+            "latitude": 55.8917,
+            "longitude": -2.71214
         },
         "built": "13th Century",
         "condition": "Ruins",

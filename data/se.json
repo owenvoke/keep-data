@@ -4,8 +4,8 @@
         "name": "Borgholms slott",
         "country": "SE",
         "coordinates": {
-            "latitude": 56.870584708619205,
-            "longitude": 16.643879075870743
+            "latitude": 56.87058,
+            "longitude": 16.64388
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -18,8 +18,8 @@
         "name": "Eketorp",
         "country": "SE",
         "coordinates": {
-            "latitude": 56.29559181974537,
-            "longitude": 16.486079755029834
+            "latitude": 56.29559,
+            "longitude": 16.48608
         },
         "built": "5-12th Century BCE",
         "condition": "Rebuilt",
@@ -32,8 +32,8 @@
         "name": "Ismantorps borg",
         "country": "SE",
         "coordinates": {
-            "latitude": 56.745420789550224,
-            "longitude": 16.642602589586524
+            "latitude": 56.74542,
+            "longitude": 16.6426
         },
         "built": "2-7th Century",
         "condition": "Ruins",
@@ -45,8 +45,8 @@
         "name": "Sandby borg",
         "country": "SE",
         "coordinates": {
-            "latitude": 56.552538114498816,
-            "longitude": 16.63926376850912
+            "latitude": 56.55254,
+            "longitude": 16.63926
         },
         "built": "4-5th Century",
         "condition": "Ruins",
@@ -59,8 +59,8 @@
         "name": "Varbergs fästning",
         "country": "SE",
         "coordinates": {
-            "latitude": 57.10568244266297,
-            "longitude": 12.239746126598982
+            "latitude": 57.10568,
+            "longitude": 12.23975
         },
         "built": "13th Century",
         "condition": "Intact",

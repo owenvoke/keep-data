@@ -4,8 +4,8 @@
         "name": "Baranów Sandomierski Castle",
         "country": "PL",
         "coordinates": {
-            "latitude": 50.50202863433763,
-            "longitude": 21.53563007687719
+            "latitude": 50.50203,
+            "longitude": 21.53563
         },
         "built": "15-17th Century",
         "condition": "Restored",
@@ -18,8 +18,8 @@
         "name": "Będzin Castle",
         "country": "PL",
         "coordinates": {
-            "latitude": 50.327217,
-            "longitude": 19.129145
+            "latitude": 50.32722,
+            "longitude": 19.12915
         },
         "built": "13-14th Century",
         "condition": "Restored",
@@ -74,8 +74,8 @@
         "name": "Gołuchów Castle",
         "country": "PL",
         "coordinates": {
-            "latitude": 51.852566909807024,
-            "longitude": 17.933839571859615
+            "latitude": 51.85257,
+            "longitude": 17.93384
         },
         "built": "16th Century",
         "condition": "Rebuilt",
@@ -88,8 +88,8 @@
         "name": "Kórnik Castle",
         "country": "PL",
         "coordinates": {
-            "latitude": 52.243932935083365,
-            "longitude": 17.09087158319825
+            "latitude": 52.24393,
+            "longitude": 17.09087
         },
         "built": "15th Century",
         "condition": "Restored",
@@ -172,8 +172,8 @@
         "name": "Moszna Castle",
         "country": "PL",
         "coordinates": {
-            "latitude": 50.44063421837412,
-            "longitude": 17.76791923938643
+            "latitude": 50.44063,
+            "longitude": 17.76792
         },
         "built": "18-20th Century",
         "condition": "Restored",
@@ -186,8 +186,8 @@
         "name": "Niedzica Castle",
         "country": "PL",
         "coordinates": {
-            "latitude": 49.42256112187804,
-            "longitude": 20.319705176235292
+            "latitude": 49.42256,
+            "longitude": 20.31971
         },
         "alternativeNames": [
             "Dunajec Castle"
@@ -203,8 +203,8 @@
         "name": "Niepołomice Castle",
         "country": "PL",
         "coordinates": {
-            "latitude": 50.03422646101088,
-            "longitude": 20.21785556232781
+            "latitude": 50.03423,
+            "longitude": 20.21786
         },
         "built": "14-16th Century",
         "condition": "Restored",
@@ -231,8 +231,8 @@
         "name": "Piotrków Trybunalski Castle",
         "country": "PL",
         "coordinates": {
-            "latitude": 51.40913117474851,
-            "longitude": 19.70067680705086
+            "latitude": 51.40913,
+            "longitude": 19.70068
         },
         "built": "14-16th Century",
         "condition": "Restored",
@@ -315,8 +315,8 @@
         "name": "Ujazdów Castle",
         "country": "PL",
         "coordinates": {
-            "latitude": 52.2194889,
-            "longitude": 21.0310889
+            "latitude": 52.21949,
+            "longitude": 21.03109
         },
         "built": "13-17th Century",
         "condition": "Rebuilt",

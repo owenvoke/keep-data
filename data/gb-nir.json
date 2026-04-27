@@ -6,7 +6,7 @@
         "region": "GB-NIR",
         "coordinates": {
             "latitude": 54.71367,
-            "longitude": -5.806411
+            "longitude": -5.80641
         },
         "built": "12th Century",
         "condition": "Intact",
@@ -20,8 +20,8 @@
         "country": "GB",
         "region": "GB-NIR",
         "coordinates": {
-            "latitude": 54.250624,
-            "longitude": -7.445246
+            "latitude": 54.25062,
+            "longitude": -7.44525
         },
         "built": "17th Century",
         "condition": "Ruins",
@@ -35,8 +35,8 @@
         "country": "GB",
         "region": "GB-NIR",
         "coordinates": {
-            "latitude": 54.292142,
-            "longitude": -5.836565
+            "latitude": 54.29214,
+            "longitude": -5.83657
         },
         "built": "12-13th Century",
         "condition": "Ruins",
@@ -50,8 +50,8 @@
         "country": "GB",
         "region": "GB-NIR",
         "coordinates": {
-            "latitude": 54.261932,
-            "longitude": -5.844958
+            "latitude": 54.26193,
+            "longitude": -5.84496
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -65,8 +65,8 @@
         "country": "GB",
         "region": "GB-NIR",
         "coordinates": {
-            "latitude": 55.210692,
-            "longitude": -6.579606
+            "latitude": 55.21069,
+            "longitude": -6.57961
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -80,8 +80,8 @@
         "country": "GB",
         "region": "GB-NIR",
         "coordinates": {
-            "latitude": 54.040933,
-            "longitude": -6.097016
+            "latitude": 54.04093,
+            "longitude": -6.09702
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -95,7 +95,7 @@
         "country": "GB",
         "region": "GB-NIR",
         "coordinates": {
-            "latitude": 54.713352,
+            "latitude": 54.71335,
             "longitude": -7.39312
         },
         "built": "14th Century",
@@ -110,7 +110,7 @@
         "country": "GB",
         "region": "GB-NIR",
         "coordinates": {
-            "latitude": 54.401835,
+            "latitude": 54.40183,
             "longitude": -5.65321
         },
         "built": "12th Century",

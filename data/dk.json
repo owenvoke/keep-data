@@ -4,8 +4,8 @@
         "name": "Amalienborg",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.6840032288992,
-            "longitude": 12.593247647744828
+            "latitude": 55.684,
+            "longitude": 12.59325
         },
         "built": "18th Century",
         "condition": "Intact",
@@ -18,8 +18,8 @@
         "name": "Charlottenlund Fort",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.74567554777687,
-            "longitude": 12.587270731850133
+            "latitude": 55.74568,
+            "longitude": 12.58727
         },
         "built": "19th Century",
         "condition": "Intact",
@@ -31,8 +31,8 @@
         "name": "Christiansborg Slot",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.67622932336545,
-            "longitude": 12.580405401848328
+            "latitude": 55.67623,
+            "longitude": 12.58041
         },
         "built": "20th Century",
         "condition": "Intact",
@@ -45,8 +45,8 @@
         "name": "Christiansø",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.32038083869139,
-            "longitude": 15.18704987647295
+            "latitude": 55.32038,
+            "longitude": 15.18705
         },
         "built": "17th Century",
         "condition": "Intact",
@@ -59,8 +59,8 @@
         "name": "Dragør Fort",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.58874431850925,
-            "longitude": 12.67849541343587
+            "latitude": 55.58874,
+            "longitude": 12.6785
         },
         "built": "20th Century",
         "condition": "Intact",
@@ -72,8 +72,8 @@
         "name": "Flakfortet",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.70366621040855,
-            "longitude": 12.731431953986831
+            "latitude": 55.70367,
+            "longitude": 12.73143
         },
         "built": "20th Century",
         "condition": "Intact",
@@ -86,8 +86,8 @@
         "name": "Frederiksberg Slot",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.672099172669824,
-            "longitude": 12.525338530646113
+            "latitude": 55.6721,
+            "longitude": 12.52534
         },
         "built": "18th Century",
         "condition": "Intact",
@@ -100,8 +100,8 @@
         "name": "Frederiksborg Slot",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.93499403945293,
-            "longitude": 12.30126041862549
+            "latitude": 55.93499,
+            "longitude": 12.30126
         },
         "built": "17th Century",
         "condition": "Intact",
@@ -114,8 +114,8 @@
         "name": "Hammershus",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.27115804409355,
-            "longitude": 14.755343100130908
+            "latitude": 55.27116,
+            "longitude": 14.75534
         },
         "built": "13th Century",
         "condition": "Ruins",
@@ -128,8 +128,8 @@
         "name": "Kastellet",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.69136753618467,
-            "longitude": 12.5944157453539
+            "latitude": 55.69137,
+            "longitude": 12.59442
         },
         "built": "17th Century",
         "condition": "Intact",
@@ -142,8 +142,8 @@
         "name": "Kastrup Fort",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.6485063261222,
-            "longitude": 12.639682845925577
+            "latitude": 55.64851,
+            "longitude": 12.63968
         },
         "built": "19th Century",
         "condition": "Intact",
@@ -155,8 +155,8 @@
         "name": "Kongelundsfortet",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.56230882290065,
-            "longitude": 12.56657648580064
+            "latitude": 55.56231,
+            "longitude": 12.56658
         },
         "built": "20th Century",
         "condition": "Intact",
@@ -168,8 +168,8 @@
         "name": "Kronborg Slot",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.68572450512342,
-            "longitude": 12.577406500792657
+            "latitude": 55.68572,
+            "longitude": 12.57741
         },
         "built": "16th Century",
         "condition": "Intact",
@@ -182,8 +182,8 @@
         "name": "Middelgrundsfortet",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.72055869241654,
-            "longitude": 12.665892977361365
+            "latitude": 55.72056,
+            "longitude": 12.66589
         },
         "built": "19th Century",
         "condition": "Intact",
@@ -196,8 +196,8 @@
         "name": "Rosenborg Slot",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.685721834533126,
-            "longitude": 12.577400422611822
+            "latitude": 55.68572,
+            "longitude": 12.5774
         },
         "built": "17th Century",
         "condition": "Intact",
@@ -210,8 +210,8 @@
         "name": "Saltholm Batteri",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.636108413291595,
-            "longitude": 12.73954374817714
+            "latitude": 55.63611,
+            "longitude": 12.73954
         },
         "built": "20th Century",
         "condition": "Ruins",
@@ -223,8 +223,8 @@
         "name": "Trekroner Fort",
         "country": "DK",
         "coordinates": {
-            "latitude": 55.703271054709106,
-            "longitude": 12.614565651571375
+            "latitude": 55.70327,
+            "longitude": 12.61457
         },
         "built": "18th Century",
         "condition": "Intact",
