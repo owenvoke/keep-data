@@ -1488,5 +1488,215 @@
         "condition": "Ruins",
         "ownedBy": "Private",
         "type": "Square Keep"
+    },
+    {
+        "name": "Edzell Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.81154,
+            "longitude": -2.68189
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/edzell-castle-and-garden",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Blair Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 56.7736,
+            "longitude": -3.8578
+        },
+        "built": "11-13th Century",
+        "condition": "Rebuilt",
+        "homepage": "https://atholl-estates.co.uk/blair-castle",
+        "ownedBy": "Atholl Estates",
+        "type": "Keepless"
+    },
+    {
+        "name": "Braemar Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.0147,
+            "longitude": -3.3914
+        },
+        "built": "17th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://braemarcastle.co.uk",
+        "ownedBy": "Clan Farquharson",
+        "type": "Tower House"
+    },
+    {
+        "name": "Balmoral Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.040833,
+            "longitude": -3.23
+        },
+        "built": "19th Century",
+        "condition": "Intact",
+        "homepage": "https://balmoralcastle.com",
+        "ownedBy": "British Royal Family",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Abergeldie Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.043323,
+            "longitude": -3.176467
+        },
+        "built": "16th Century",
+        "condition": "Intact",
+        "homepage": "https://balmoralcastle.com",
+        "ownedBy": "Gordon Family",
+        "type": "Tower House"
+    },
+    {
+        "name": "Crathes Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.06156,
+            "longitude": -2.43995
+        },
+        "built": "16th Century",
+        "condition": "Intact",
+        "homepage": "https://www.nts.org.uk/visit/places/crathes-castle",
+        "ownedBy": "National Trust for Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Drum Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.09512,
+            "longitude": -2.33790
+        },
+        "built": "13th Century",
+        "condition": "Intact",
+        "homepage": "https://www.nts.org.uk/visit/places/drum-castle",
+        "ownedBy": "National Trust for Scotland",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Peel Ring of Lumphanan",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.12229,
+            "longitude": -2.70171
+        },
+        "built": "13th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/peel-ring-of-lumphanan",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Fort"
+    },
+    {
+        "name": "Corgarff Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.16281,
+            "longitude": -3.23423
+        },
+        "built": "16th Century",
+        "condition": "Restored",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/corgarff-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Craigievar Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.17418,
+            "longitude": -2.71802
+        },
+        "built": "17th Century",
+        "condition": "Intact",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/craigievar-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Castle Fraser",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.20298,
+            "longitude": -2.46054
+        },
+        "built": "16-18th Century",
+        "condition": "Intact",
+        "homepage": "https://www.nts.org.uk/visit/places/castle-fraser",
+        "ownedBy": "National Trust for Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Glenbuchat Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.22072,
+            "longitude": -2.99986
+        },
+        "built": "16th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.historicenvironment.scot/visit-a-place/places/glenbuchat-castle",
+        "ownedBy": "Historic Environment Scotland",
+        "type": "Tower House"
+    },
+    {
+        "name": "Drumin Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.35628,
+            "longitude": -3.35728
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Tower House"
+    },
+    {
+        "name": "Dunnideer Castle",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.34231,
+            "longitude": -2.64604
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Tower House"
+    },
+    {
+        "name": "Inverurie Bass",
+        "country": "GB",
+        "region": "GB-SCT",
+        "coordinates": {
+            "latitude": 57.27551,
+            "longitude": -2.36504
+        },
+        "alternativeNames": [
+            "Bass of Inverurie"
+        ],
+        "built": "12th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
     }
 ]
