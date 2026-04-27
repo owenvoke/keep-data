@@ -32,6 +32,43 @@ function getCoordinateKey (entry) {
     return `${lat},${lng}`
 }
 
+function getDecimalPlaces (value) {
+    const text = String(value).toLowerCase()
+    const [coefficient, exponentRaw = '0'] = text.split('e')
+    const exponent = Number(exponentRaw)
+    const fractionLength = (coefficient.split('.')[1] || '').length
+
+    return Math.max(0, fractionLength - exponent)
+}
+
+function getCoordinatePrecisionViolations (entry) {
+    const coordinates = entry?.coordinates
+    if (!coordinates || typeof coordinates !== 'object' || Array.isArray(coordinates)) {
+        return []
+    }
+
+    const fields = ['latitude', 'longitude']
+    const violations = []
+
+    for (const field of fields) {
+        const value = coordinates[field]
+        if (typeof value !== 'number' || !Number.isFinite(value)) {
+            continue
+        }
+
+        const decimalPlaces = getDecimalPlaces(value)
+        if (decimalPlaces > 5) {
+            violations.push({
+                field,
+                value,
+                decimalPlaces,
+            })
+        }
+    }
+
+    return violations
+}
+
 function getCoordinates (record) {
     const key = record.coordinateKey
     if (!key || key === '__missing__') {
@@ -100,6 +137,10 @@ function formatCountryMismatch (record) {
     return `${record.file} [id=${record.id}] expected country=${record.expectedCountry}, found country=${record.country || 'missing'}`
 }
 
+function formatCoordinatePrecisionViolation (record) {
+    return `${record.file} [id=${record.id}] ${record.field}=${record.value} has ${record.decimalPlaces} decimal places (max 5)`
+}
+
 async function main () {
     const files = (await readdir(dataDir)).
         filter((file) => file.endsWith('.json')).
@@ -107,6 +148,7 @@ async function main () {
 
     const byName = new Map()
     const countryMismatches = []
+    const coordinatePrecisionViolations = []
 
     for (const file of files) {
         const fullPath = path.join(dataDir, file)
@@ -121,6 +163,15 @@ async function main () {
         for (const entry of parsed) {
             if (!entry || typeof entry !== 'object' || Array.isArray(entry)) {
                 continue
+            }
+
+            const precisionViolations = getCoordinatePrecisionViolations(entry)
+            for (const violation of precisionViolations) {
+                coordinatePrecisionViolations.push({
+                    file,
+                    id: entry.id ?? 'unknown',
+                    ...violation,
+                })
             }
 
             const normalizedName = normalizeName(entry.name)
@@ -164,6 +215,19 @@ async function main () {
         const errorLines = [`Warnings: ${summary}`]
         for (const mismatch of countryMismatches) {
             errorLines.push(`  - ${formatCountryMismatch(mismatch)}`)
+        }
+        errorLines.push('')
+        reportError(errorLines.join('\n'))
+        console.log('')
+    }
+
+    if (coordinatePrecisionViolations.length > 0) {
+        const summary =
+            'Entries found with coordinate precision above 5 decimal places.'
+
+        const errorLines = [`Warnings: ${summary}`]
+        for (const violation of coordinatePrecisionViolations) {
+            errorLines.push(`  - ${formatCoordinatePrecisionViolation(violation)}`)
         }
         errorLines.push('')
         reportError(errorLines.join('\n'))
@@ -238,15 +302,18 @@ async function main () {
 
     if (duplicates.length === 0 &&
         possibleDuplicates.length === 0 &&
-        countryMismatches.length === 0) {
+        countryMismatches.length === 0 &&
+        coordinatePrecisionViolations.length === 0) {
         reportInfo(`No issues found across ${files.length} file(s).`)
         return
     }
 
     reportInfo(
-        `Checked ${files.length} file(s): ${duplicates.length} duplicate group(s), ${possibleDuplicates.length} warning group(s), ${countryMismatches.length} country mismatch error(s).`)
+        `Checked ${files.length} file(s): ${duplicates.length} duplicate group(s), ${possibleDuplicates.length} warning group(s), ${countryMismatches.length} country mismatch error(s), ${coordinatePrecisionViolations.length} coordinate precision error(s).`)
 
-    if (duplicates.length > 0 || countryMismatches.length > 0) {
+    if (duplicates.length > 0 ||
+        countryMismatches.length > 0 ||
+        coordinatePrecisionViolations.length > 0) {
         process.exitCode = 1
     }
 }

@@ -82,9 +82,11 @@
             "type": "object",
             "properties": {
                 "latitude": {
+                    "description": "The latitude of the coordinates to a maximum of 5 decimal places (within 1.11m accuracy).",
                     "type": "number"
                 },
                 "longitude": {
+                    "description": "The longitude of the coordinates to a maximum of 5 decimal places (within 1.11m accuracy).",
                     "type": "number"
                 }
             },
@@ -94,8 +96,8 @@
             ],
             "examples": [
                 {
-                    "latitude": 51.483894,
-                    "longitude": -0.604403
+                    "latitude": 51.48389,
+                    "longitude": -0.60440
                 }
             ]
         },

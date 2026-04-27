@@ -54,6 +54,32 @@ function reorderEntry (entry) {
     return ordered
 }
 
+function roundCoordinateValue (value) {
+    if (typeof value !== 'number' || !Number.isFinite(value)) {
+        return value
+    }
+
+    return Number(value.toFixed(5))
+}
+
+function normalizeCoordinatesPrecision (entry) {
+    if (!entry || typeof entry !== 'object' || Array.isArray(entry)) {
+        return
+    }
+
+    const coordinates = entry.coordinates
+    if (!coordinates || typeof coordinates !== 'object' || Array.isArray(coordinates)) {
+        return
+    }
+
+    if ('latitude' in coordinates) {
+        coordinates.latitude = roundCoordinateValue(coordinates.latitude)
+    }
+    if ('longitude' in coordinates) {
+        coordinates.longitude = roundCoordinateValue(coordinates.longitude)
+    }
+}
+
 async function main () {
     const files = (await readdir(dataDir)).filter(
         (file) => file.endsWith('.json')).sort((a, b) => a.localeCompare(b))
@@ -83,6 +109,7 @@ async function main () {
                 generatedIds += 1
             }
 
+            normalizeCoordinatesPrecision(entry)
             normalized.push(reorderEntry(entry))
         }
 
