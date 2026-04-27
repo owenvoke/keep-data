@@ -145,7 +145,7 @@
     },
     {
         "id": "019d72bd-61f5-779b-8c35-c9434bfeff77",
-        "name": "Castel Aberlleiniog",
+        "name": "Castell Aberlleiniog",
         "country": "GB",
         "region": "GB-WLS",
         "coordinates": {
@@ -167,7 +167,8 @@
             "longitude": -3.2437
         },
         "alternativeNames": [
-            "Blaenllynfi Castle"
+            "Blaenllynfi Castle",
+            "Castell Blaen Llynfi"
         ],
         "built": "13-14th Century",
         "condition": "Fragmented Remains",
@@ -1100,5 +1101,450 @@
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/wiston-castle",
         "ownedBy": "Cadw",
         "type": "Motte and Bailey"
+    },
+    {
+        "name": "Castell Machen",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.59196,
+            "longitude": -3.11928
+        },
+        "alternativeNames": [
+            "Castell Meredydd"
+        ],
+        "built": "12-13th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Unknown"
+    },
+    {
+        "name": "Caerau Hillfort",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.46818,
+            "longitude": -3.24595
+        },
+        "built": "1-6th Century BCE",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fort"
+    },
+    {
+        "name": "Barry Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.39672,
+            "longitude": -3.29397
+        },
+        "built": "13-14th Century",
+        "condition": "Ruins",
+        "ownedBy": "Cadw",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Penmark Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.41135,
+            "longitude": -3.35468
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Candleston Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.48288,
+            "longitude": -3.62674
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Llanilid Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.52182,
+            "longitude": -3.47513
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fort"
+    },
+    {
+        "name": "Llantrisant Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.54162,
+            "longitude": -3.37478
+        },
+        "built": "13th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Round Keep"
+    },
+    {
+        "name": "Cwn Camlais Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.92333,
+            "longitude": -3.5198
+        },
+        "built": "11-16th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Castell Du",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.94358,
+            "longitude": -3.57304
+        },
+        "alternativeNames": [
+            "Sennybridge Castle",
+            "Castell Rhyd-y-Briw"
+        ],
+        "built": "11-13th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Unknown"
+    },
+    {
+        "name": "Carmarthen Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.85579,
+            "longitude": -4.30603
+        },
+        "built": "12-13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Shell Keep"
+    },
+    {
+        "name": "St Clears Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.81096,
+            "longitude": -4.49516
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Picton Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.78406,
+            "longitude": -4.88541
+        },
+        "built": "13th Century",
+        "condition": "Intact",
+        "ownedBy": "Picton Castle Trust",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Camrose Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.83881,
+            "longitude": -5.01076
+        },
+        "alternativeNames": [
+            "Landsker Castle"
+        ],
+        "built": "11-12th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Newport Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.0143,
+            "longitude": -4.83247
+        },
+        "accessible": false,
+        "built": "19th Century",
+        "condition": "Intact",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Nevern Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.02647,
+            "longitude": -4.79707
+        },
+        "alternativeNames": [
+            "Castell Nanhyfer"
+        ],
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Hay Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.07394,
+            "longitude": -3.1259
+        },
+        "built": "12-13th Century",
+        "condition": "Partially Restored",
+        "ownedBy": "Hay Castle Trust",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Builth Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.14931,
+            "longitude": -3.39867
+        },
+        "built": "13th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Castell Crug Eryr",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.22545,
+            "longitude": -3.23466
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Cefnllys Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.24403,
+            "longitude": -3.33489
+        },
+        "built": "13th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Castell Dinerth",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.23882,
+            "longitude": -4.20545
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Caer Penrhos",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.3046,
+            "longitude": -4.1244
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fort"
+    },
+    {
+        "name": "Castell Gwallter",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.46145,
+            "longitude": -4.03002
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Castell Cynfael",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.59461,
+            "longitude": -4.0461
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Powis Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.64988,
+            "longitude": -3.16131
+        },
+        "built": "12th Century",
+        "condition": "Intact",
+        "homepage": "https://www.nationaltrust.org.uk/visit/wales/powis-castle-and-garden",
+        "ownedBy": "National Trust",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Carreghoffa Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.79197,
+            "longitude": -3.10689
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fort"
+    },
+    {
+        "name": "Chirk Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.93522,
+            "longitude": -3.08964
+        },
+        "built": "13th Century",
+        "condition": "Intact",
+        "homepage": "https://www.nationaltrust.org.uk/visit/wales/chirk-castle",
+        "ownedBy": "National Trust",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Mold Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 53.17039,
+            "longitude": -3.14545
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Prestatyn Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 53.33861,
+            "longitude": -3.39472
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Tomen y Bala",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.91157,
+            "longitude": -3.5955
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Castell Carndochan",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.91157,
+            "longitude": -3.5955
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Tomen y Mur",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.92985,
+            "longitude": -3.92734
+        },
+        "built": "1-10th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Castell Carn Fadryn",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.88652,
+            "longitude": -4.55985
+        },
+        "built": "1-12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fort"
+    },
+    {
+        "name": "Castell Deganwy",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 53.29792,
+            "longitude": -3.82963
+        },
+        "built": "13th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Round Keep"
     }
 ]
