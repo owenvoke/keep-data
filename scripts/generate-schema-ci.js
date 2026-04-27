@@ -36,7 +36,7 @@ function setRequiredIdPolicy (schema) {
 
 async function validateGeneratedSchema (tempSchemaPath) {
     const quotedSchemaPath = JSON.stringify(tempSchemaPath)
-    const command = `npx ajv validate --all-errors -c ajv-formats --errors text --verbose -s ${quotedSchemaPath} -d 'data/*.json'`
+    const command = `npx z-schema ${quotedSchemaPath} data/*.json`
 
     try {
         await execAsync(command, { cwd: projectRoot })

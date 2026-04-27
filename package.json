@@ -2,9 +2,8 @@
     "private": true,
     "type": "module",
     "devDependencies": {
-        "ajv-cli": "^5.0.0",
-        "ajv-formats": "^3.0.1",
-        "uuid": "^13.0.0"
+        "uuid": "^13.0.0",
+        "z-schema": "^12.2.0"
     },
     "scripts": {
         "clean": "test -f data/gb.json && rm data/gb.json || true && test -f data/all.json && rm data/all.json || true && rm data/*.md || true",
@@ -12,7 +11,7 @@
         "markdown": "node scripts/generate-markdown.js",
         "build": "npm run clean && node scripts/aggregate-countries.js && npm run markdown",
         "test:validate": "node scripts/validate.js",
-        "test:schema": "npm run clean && npx ajv validate -c ajv-formats --errors text --verbose -s schema.json -d 'data/*.json'",
+        "test:schema": "npm run clean && npx z-schema 'schema.json' data/*.json",
         "test:schema:ci": "npm run clean && node scripts/generate-schema-ci.js"
     }
 }
