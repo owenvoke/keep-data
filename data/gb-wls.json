@@ -1579,5 +1579,146 @@
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/wiston-castle",
         "ownedBy": "Cadw",
         "type": "Motte and Bailey"
+    },
+    {
+        "name": "Cardigan Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.0815,
+            "longitude": -4.6605
+        },
+        "built": "11-13th Century",
+        "condition": "Restored",
+        "homepage": "https://cardigancastle.com",
+        "ownedBy": "Ceredigion County Council",
+        "type": "Round Keep"
+    },
+    {
+        "name": "Castell Bryn Gwyn",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 53.1784,
+            "longitude": -4.2979
+        },
+        "alternativeNames": [
+            "Castell Bryn Gwyn"
+        ],
+        "built": "20-25th Century BCE",
+        "condition": "Earthworks",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-bryngwyn-prehistoric-enclosure",
+        "ownedBy": "Cadw",
+        "type": "Fort"
+    },
+    {
+        "name": "Llangynwyd Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.58563,
+            "longitude": -3.65888
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Private",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Morgraig Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.55186,
+            "longitude": -3.21247
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
+        "type": "Round Keep"
+    },
+    {
+        "name": "Llandaff Bishop's Palace",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.49459,
+            "longitude": -3.21755
+        },
+        "alternativeNames": [
+            "Llandaff Castle",
+            "Bishop's Castle",
+            "Old Bishop's Palace"
+        ],
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Llandaff Society",
+        "type": "Square Keep"
+    },
+    {
+        "name": "St Fagans Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.48639,
+            "longitude": -3.26884
+        },
+        "alternativeNames": [
+            "Castell Sain Ffagan"
+        ],
+        "built": "16th Century",
+        "condition": "Intact",
+        "ownedBy": "Amgueddfa Cymru",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Castell Meurig",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.93185,
+            "longitude": -3.87842
+        },
+        "alternativeNames": [
+            "Llangadog Castle",
+            "Castell Pridd"
+        ],
+        "built": "11-13th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Lampeter Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.1145,
+            "longitude": -4.0762
+        },
+        "alternativeNames": [
+            "Castell Llanbedr",
+            "Stephen's Castle"
+        ],
+        "built": "11th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Gwydir Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 53.1328,
+            "longitude": -3.801
+        },
+        "alternativeNames": [
+            "Castell Gwydir"
+        ],
+        "built": "14-15th Century",
+        "condition": "Partially Restored",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
     }
 ]
