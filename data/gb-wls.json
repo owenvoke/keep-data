@@ -217,6 +217,21 @@
         "type": "Shell Keep"
     },
     {
+        "id": "019dd565-b276-711a-806a-eaf7a944b791",
+        "name": "Cardigan Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.0815,
+            "longitude": -4.6605
+        },
+        "built": "11-13th Century",
+        "condition": "Restored",
+        "homepage": "https://cardigancastle.com",
+        "ownedBy": "Ceredigion County Council",
+        "type": "Round Keep"
+    },
+    {
         "id": "019d6d61-7386-73ba-8f97-796145f131d4",
         "name": "Carew Castle",
         "country": "GB",
@@ -304,6 +319,24 @@
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-bronllys",
         "ownedBy": "Cadw",
         "type": "Round Keep"
+    },
+    {
+        "id": "019dd565-b277-750e-8b1c-9d032ef931c3",
+        "name": "Castell Bryn Gwyn",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 53.1784,
+            "longitude": -4.2979
+        },
+        "alternativeNames": [
+            "Castell Bryn Gwyn"
+        ],
+        "built": "20-25th Century BCE",
+        "condition": "Earthworks",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-bryngwyn-prehistoric-enclosure",
+        "ownedBy": "Cadw",
+        "type": "Fort"
     },
     {
         "id": "019d72bd-61f5-779b-8c35-d6576c1f4bd8",
@@ -705,6 +738,24 @@
         "type": "Unknown"
     },
     {
+        "id": "019dd565-b277-750e-8b1c-b0fbcae62d92",
+        "name": "Castell Meurig",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.93185,
+            "longitude": -3.87842
+        },
+        "alternativeNames": [
+            "Llangadog Castle",
+            "Castell Pridd"
+        ],
+        "built": "11-13th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
         "id": "019d6947-63ce-7320-bd1b-4f3aa74ed3de",
         "name": "Castell Oxwich",
         "country": "GB",
@@ -881,6 +932,23 @@
         "type": "Square Keep"
     },
     {
+        "id": "019dd565-b277-750e-8b1c-b8b0b781c788",
+        "name": "Gwydir Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 53.1328,
+            "longitude": -3.801
+        },
+        "alternativeNames": [
+            "Castell Gwydir"
+        ],
+        "built": "14-15th Century",
+        "condition": "Partially Restored",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
+    },
+    {
         "id": "019d6d61-7386-73ba-8f97-7e541133800c",
         "name": "Haverfordwest Castle",
         "country": "GB",
@@ -966,6 +1034,24 @@
         "type": "Square Keep"
     },
     {
+        "id": "019dd565-b277-750e-8b1c-b452f9b21ca4",
+        "name": "Lampeter Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.1145,
+            "longitude": -4.0762
+        },
+        "alternativeNames": [
+            "Castell Llanbedr",
+            "Stephen's Castle"
+        ],
+        "built": "11th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
         "id": "019d6947-63ce-7320-bd1b-4f3a9f3415e8",
         "name": "Laugharne Castle",
         "country": "GB",
@@ -999,6 +1085,25 @@
         "type": "Square Keep"
     },
     {
+        "id": "019dd565-b277-750e-8b1c-abfed6fdf007",
+        "name": "Llandaff Bishop's Palace",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.49459,
+            "longitude": -3.21755
+        },
+        "alternativeNames": [
+            "Llandaff Castle",
+            "Bishop's Castle",
+            "Old Bishop's Palace"
+        ],
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Llandaff Society",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6d1d-5e41-730f-82c2-98104fbc2203",
         "name": "Llandovery Castle",
         "country": "GB",
@@ -1011,6 +1116,20 @@
         "condition": "Ruins",
         "ownedBy": "Private",
         "type": "Square Keep"
+    },
+    {
+        "id": "019dd565-b277-750e-8b1c-a372e42209ef",
+        "name": "Llangynwyd Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.58563,
+            "longitude": -3.65888
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Private",
+        "type": "Motte and Bailey"
     },
     {
         "id": "019dcfb0-85f5-71e8-b81d-7c7c86868198",
@@ -1127,6 +1246,20 @@
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/montgomery-castle",
         "ownedBy": "Cadw",
         "type": "Keepless"
+    },
+    {
+        "id": "019dd565-b277-750e-8b1c-a759fc9b8753",
+        "name": "Morgraig Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.55186,
+            "longitude": -3.21247
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
+        "type": "Round Keep"
     },
     {
         "id": "019d6d16-4e5e-76cf-906a-9decaad96dff",
@@ -1449,6 +1582,23 @@
         "type": "Square Keep"
     },
     {
+        "id": "019dd565-b277-750e-8b1c-ad57a0c38303",
+        "name": "St Fagans Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.48639,
+            "longitude": -3.26884
+        },
+        "alternativeNames": [
+            "Castell Sain Ffagan"
+        ],
+        "built": "16th Century",
+        "condition": "Intact",
+        "ownedBy": "Amgueddfa Cymru",
+        "type": "Fortified Manor House"
+    },
+    {
         "id": "019d6d0e-be90-7199-a90f-55c24dedaea6",
         "name": "Swansea Castle",
         "country": "GB",
@@ -1579,146 +1729,5 @@
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/wiston-castle",
         "ownedBy": "Cadw",
         "type": "Motte and Bailey"
-    },
-    {
-        "name": "Cardigan Castle",
-        "country": "GB",
-        "region": "GB-WLS",
-        "coordinates": {
-            "latitude": 52.0815,
-            "longitude": -4.6605
-        },
-        "built": "11-13th Century",
-        "condition": "Restored",
-        "homepage": "https://cardigancastle.com",
-        "ownedBy": "Ceredigion County Council",
-        "type": "Round Keep"
-    },
-    {
-        "name": "Castell Bryn Gwyn",
-        "country": "GB",
-        "region": "GB-WLS",
-        "coordinates": {
-            "latitude": 53.1784,
-            "longitude": -4.2979
-        },
-        "alternativeNames": [
-            "Castell Bryn Gwyn"
-        ],
-        "built": "20-25th Century BCE",
-        "condition": "Earthworks",
-        "homepage": "https://cadw.gov.wales/visit/places-to-visit/castell-bryngwyn-prehistoric-enclosure",
-        "ownedBy": "Cadw",
-        "type": "Fort"
-    },
-    {
-        "name": "Llangynwyd Castle",
-        "country": "GB",
-        "region": "GB-WLS",
-        "coordinates": {
-            "latitude": 51.58563,
-            "longitude": -3.65888
-        },
-        "built": "12th Century",
-        "condition": "Fragmented Remains",
-        "ownedBy": "Private",
-        "type": "Motte and Bailey"
-    },
-    {
-        "name": "Morgraig Castle",
-        "country": "GB",
-        "region": "GB-WLS",
-        "coordinates": {
-            "latitude": 51.55186,
-            "longitude": -3.21247
-        },
-        "built": "13th Century",
-        "condition": "Ruins",
-        "ownedBy": "Private",
-        "type": "Round Keep"
-    },
-    {
-        "name": "Llandaff Bishop's Palace",
-        "country": "GB",
-        "region": "GB-WLS",
-        "coordinates": {
-            "latitude": 51.49459,
-            "longitude": -3.21755
-        },
-        "alternativeNames": [
-            "Llandaff Castle",
-            "Bishop's Castle",
-            "Old Bishop's Palace"
-        ],
-        "built": "13th Century",
-        "condition": "Ruins",
-        "ownedBy": "Llandaff Society",
-        "type": "Square Keep"
-    },
-    {
-        "name": "St Fagans Castle",
-        "country": "GB",
-        "region": "GB-WLS",
-        "coordinates": {
-            "latitude": 51.48639,
-            "longitude": -3.26884
-        },
-        "alternativeNames": [
-            "Castell Sain Ffagan"
-        ],
-        "built": "16th Century",
-        "condition": "Intact",
-        "ownedBy": "Amgueddfa Cymru",
-        "type": "Fortified Manor House"
-    },
-    {
-        "name": "Castell Meurig",
-        "country": "GB",
-        "region": "GB-WLS",
-        "coordinates": {
-            "latitude": 51.93185,
-            "longitude": -3.87842
-        },
-        "alternativeNames": [
-            "Llangadog Castle",
-            "Castell Pridd"
-        ],
-        "built": "11-13th Century",
-        "condition": "Earthworks",
-        "ownedBy": "Scheduled Ancient Monument",
-        "type": "Motte and Bailey"
-    },
-    {
-        "name": "Lampeter Castle",
-        "country": "GB",
-        "region": "GB-WLS",
-        "coordinates": {
-            "latitude": 52.1145,
-            "longitude": -4.0762
-        },
-        "alternativeNames": [
-            "Castell Llanbedr",
-            "Stephen's Castle"
-        ],
-        "built": "11th Century",
-        "condition": "Earthworks",
-        "ownedBy": "Scheduled Ancient Monument",
-        "type": "Motte and Bailey"
-    },
-    {
-        "name": "Gwydir Castle",
-        "country": "GB",
-        "region": "GB-WLS",
-        "coordinates": {
-            "latitude": 53.1328,
-            "longitude": -3.801
-        },
-        "alternativeNames": [
-            "Castell Gwydir"
-        ],
-        "built": "14-15th Century",
-        "condition": "Partially Restored",
-        "ownedBy": "Private",
-        "type": "Fortified Manor House"
     }
 ]
