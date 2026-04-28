@@ -2849,5 +2849,882 @@
         "homepage": "https://www.english-heritage.org.uk/visit/places/hurst-castle",
         "ownedBy": "English Heritage",
         "type": "Artillery Fort"
+    },
+    {
+        "name": "St. Michaels Mount",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.11651,
+            "longitude": -5.47807
+        },
+        "built": "12th Century",
+        "condition": "Intact",
+        "homepage": "https://www.nationaltrust.org.uk/visit/cornwall/st-michaels-mount",
+        "ownedBy": "National Trust / St Aubyn Family",
+        "type": "Keepless"
+    },
+    {
+        "name": "St. Mawes Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.15551,
+            "longitude": -5.02373
+        },
+        "built": "16th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/st-mawes-castle",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Powderham Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.64298,
+            "longitude": -3.4605
+        },
+        "built": "14-15th Century",
+        "condition": "Intact",
+        "ownedBy": "Courtenay Family",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Nether Stowey Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.14956,
+            "longitude": -3.16395
+        },
+        "alternativeNames": [
+            "Stowey Castle"
+        ],
+        "built": "11th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Farleigh Hungerford Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.3176,
+            "longitude": -2.28714
+        },
+        "built": "14-15th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/farleigh-hungerford-castle",
+        "ownedBy": "English Heritage",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Devizes Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.3508,
+            "longitude": -1.9985
+        },
+        "accessible": false,
+        "built": "19th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Herstmonceux Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.86946,
+            "longitude": 0.33871
+        },
+        "built": "15th Century",
+        "condition": "Intact",
+        "ownedBy": "Bader International Study Centre",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Camber Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.93353,
+            "longitude": 0.73376
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/camber-castle",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Rye Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.94978,
+            "longitude": 0.73559
+        },
+        "alternativeNames": [
+            "Ypres Tower"
+        ],
+        "built": "13-14th Century",
+        "condition": "Restored",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Scotney Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.09284,
+            "longitude": 0.40823
+        },
+        "built": "14-19th Century",
+        "condition": "Rebuilt",
+        "homepage": "https://www.nationaltrust.org.uk/visit/kent/scotney-castle",
+        "ownedBy": "National Trust",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Hever Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.18689,
+            "longitude": 0.11387
+        },
+        "built": "13-16th Century",
+        "condition": "Intact",
+        "homepage": "https://hevercastle.co.uk",
+        "ownedBy": "Broadland Properties Limited",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Westenhanger Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.09444,
+            "longitude": 1.03139
+        },
+        "built": "14th Century",
+        "condition": "Partially Restored",
+        "ownedBy": "Forge Family",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Dane John Mound",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.27494,
+            "longitude": 1.07786
+        },
+        "built": "11th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Canterbury City Council",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Rayleigh Mount",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.58798,
+            "longitude": 0.60465
+        },
+        "built": "11-13th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/rayleigh-mount",
+        "ownedBy": "National Trust",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Boarstall Tower",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.82331,
+            "longitude": -1.09569
+        },
+        "built": "14th Century",
+        "condition": "Intact",
+        "homepage": "https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/boarstall-tower",
+        "ownedBy": "National Trust",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Totternhoe Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.88879,
+            "longitude": -0.57884
+        },
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Someries Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.86908,
+            "longitude": -0.37573
+        },
+        "built": "13-15th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Chalgrave Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.936,
+            "longitude": -0.5337
+        },
+        "built": "11th Century",
+        "condition": "No Visible Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Toddington Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.94957,
+            "longitude": -0.52976
+        },
+        "built": "13th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Meppershall Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.00953,
+            "longitude": -0.35146
+        },
+        "built": "12th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Cainhoe Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.02431,
+            "longitude": -0.40116
+        },
+        "built": "11th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Biggleswade Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.08620,
+            "longitude": -0.27340
+        },
+        "built": "12th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Bedford Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.13543,
+            "longitude": -0.46334
+        },
+        "built": "11th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Colchester Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.89056,
+            "longitude": 0.90301
+        },
+        "built": "12th Century",
+        "condition": "Intact",
+        "ownedBy": "Colchester & Ipswich Museum Service",
+        "type": "Round Keep"
+    },
+    {
+        "name": "Mount Bures Castle Mound",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.95896,
+            "longitude": 0.77045
+        },
+        "built": "12th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Thurleigh Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.21411,
+            "longitude": -0.46163
+        },
+        "alternativeNames": [
+            "Bury Hills"
+        ],
+        "built": "11-12th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Kirtling Tower",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.1894,
+            "longitude": 0.46622
+        },
+        "accessible": false,
+        "built": "13th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Thetford Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.41134,
+            "longitude": 0.75383
+        },
+        "built": "11th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Weeting Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.4711,
+            "longitude": 0.61637
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/weeting-castle",
+        "ownedBy": "English Heritage",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Baconsthorpe Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.89891,
+            "longitude": 1.15209
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/baconsthorpe-castle",
+        "ownedBy": "English Heritage",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Buckden Palace",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.29467,
+            "longitude": -0.25296
+        },
+        "alternativeNames": [
+            "Buckden Towers"
+        ],
+        "built": "15th Century",
+        "condition": "Ruins",
+        "ownedBy": "Claretian Missionary",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Kimbolton Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.29564,
+            "longitude": -0.38711
+        },
+        "built": "17-18th Century",
+        "condition": "Ruins",
+        "ownedBy": "Kimbolton School",
+        "type": "Palace"
+    },
+    {
+        "name": "Yielden Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.29163,
+            "longitude": -0.51491
+        },
+        "alternativeNames": [
+            "Yeldon Castle",
+            "Yelden Castle",
+            "Giuelden Castle",
+            "Yielding Castle"
+        ],
+        "built": "12th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Lilbourne Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.39278,
+            "longitude": -1.17726
+        },
+        "built": "11-12th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Brinklow Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.4126,
+            "longitude": -1.35636
+        },
+        "alternativeNames": [
+            "The Tump"
+        ],
+        "built": "11th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Kinnersley Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.14103,
+            "longitude": -2.95683
+        },
+        "built": "12th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Hartshill Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.54567,
+            "longitude": -1.52165
+        },
+        "built": "12-14th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Fotheringhay Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.52429,
+            "longitude": -0.43584
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Longthorpe Tower",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.57081,
+            "longitude": -0.28685
+        },
+        "built": "14th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/longthorpe-tower",
+        "ownedBy": "English Heritage",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Acton Burnell Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.61292,
+            "longitude": -2.68993
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/acton-burnell-castle",
+        "ownedBy": "English Heritage",
+        "type": "Tower House"
+    },
+    {
+        "name": "Somerton Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 53.11772,
+            "longitude": -0.5759
+        },
+        "built": "13th Century",
+        "condition": "Partially Restored",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Round Keep"
+    },
+    {
+        "name": "Flamborough Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.11411,
+            "longitude": -0.12605
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Spofforth Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 53.95481,
+            "longitude": -1.45259
+        },
+        "built": "13-14th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/spofforth-castle",
+        "ownedBy": "English Heritage",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Hapton Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 53.7792,
+            "longitude": -2.3226
+        },
+        "built": "14-17th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Dalton Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.1554,
+            "longitude": -3.1864
+        },
+        "built": "14th Century",
+        "condition": "Intact",
+        "homepage": "https://www.nationaltrust.org.uk/visit/lake-district/dalton-castle",
+        "ownedBy": "National Trust",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Castle Howe",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.44023,
+            "longitude": -2.59728
+        },
+        "built": "11-12th Century",
+        "condition": "Earthworks",
+        "ownedBy": "South Lakeland District Council",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Muncaster Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.35477,
+            "longitude": -3.38089
+        },
+        "built": "14th Century",
+        "condition": "Intact",
+        "ownedBy": "Pennington Family",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Egremont Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.47992,
+            "longitude": -3.52969
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Bewley Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.5841,
+            "longitude": -2.54647
+        },
+        "accessible": false,
+        "alternativeNames": [
+            "Bellus Locus"
+        ],
+        "built": "13-14th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Dacre Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.63066,
+            "longitude": -2.83743
+        },
+        "accessible": false,
+        "built": "14th Century",
+        "condition": "Restored",
+        "ownedBy": "Private",
+        "type": "Tower House"
+    },
+    {
+        "name": "Greystoke Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.67,
+            "longitude": -2.87703
+        },
+        "accessible": false,
+        "built": "11-14th Century",
+        "condition": "Intact",
+        "ownedBy": "Howard Family",
+        "type": "Tower House"
+    },
+    {
+        "name": "Kirkoswald Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.76217,
+            "longitude": -2.68621
+        },
+        "accessible": false,
+        "built": "15th Century",
+        "condition": "Intact",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Rose Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.8065,
+            "longitude": -2.98015
+        },
+        "accessible": false,
+        "built": "14-20th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Corby Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.87983,
+            "longitude": -2.82609
+        },
+        "accessible": false,
+        "built": "13th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Tower House"
+    },
+    {
+        "name": "Naworth Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.95596,
+            "longitude": -2.68882
+        },
+        "accessible": false,
+        "alternativeNames": [
+            "Naward Castle"
+        ],
+        "built": "13th Century",
+        "condition": "Restored",
+        "homepage": "https://www.naworth.co.uk",
+        "ownedBy": "Howard Family",
+        "type": "Tower House"
+    },
+    {
+        "name": "Triermain Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.9941,
+            "longitude": -2.63501
+        },
+        "built": "14th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Askerton Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 55.0153,
+            "longitude": -2.7053
+        },
+        "built": "14th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Askerton Castle Estate",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Bellister Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.96076,
+            "longitude": -2.46853
+        },
+        "accessible": false,
+        "built": "19th Century",
+        "condition": "Intact",
+        "ownedBy": "National Trust",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Blenkinsop Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.974,
+            "longitude": -2.525
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Tower House"
+    },
+    {
+        "name": "Aydon Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.99152,
+            "longitude": -1.99985
+        },
+        "built": "13th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/aydon-castle",
+        "ownedBy": "English Heritage",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Hylton Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 54.92262,
+            "longitude": -1.44321
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/hylton-castle",
+        "ownedBy": "English Heritage",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Elsdon Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 55.2354,
+            "longitude": -2.09972
+        },
+        "built": "12th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Elsdon Tower",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 55.23481,
+            "longitude": -2.10185
+        },
+        "accessible": false,
+        "alternativeNames": [
+            "Elsdon Vicar's Pele"
+        ],
+        "built": "14-15th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Tower House"
     }
 ]
