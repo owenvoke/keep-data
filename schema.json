@@ -122,8 +122,10 @@
         "condition": {
             "description": "The condition of a castle or fortification.",
             "enum": [
+                "Earthworks",
                 "Fragmented Remains",
                 "Intact",
+                "No Visible Remains",
                 "Partial Ruins",
                 "Partially Restored",
                 "Rebuilt",
