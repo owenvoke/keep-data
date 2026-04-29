@@ -908,21 +908,6 @@
         "type": "Keepless"
     },
     {
-        "id": "019d6da0-6e59-74dd-a527-dfbd0ce3fd2c",
-        "name": "Chirk Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 52.93538,
-            "longitude": -3.08968
-        },
-        "built": "13th Century",
-        "condition": "Intact",
-        "homepage": "https://www.nationaltrust.org.uk/visit/wales/chirk-castle",
-        "ownedBy": "National Trust",
-        "type": "Keepless"
-    },
-    {
         "id": "019d6948-63cd-715f-909e-ad8e60ae0032",
         "name": "Christchurch Castle",
         "country": "GB",
