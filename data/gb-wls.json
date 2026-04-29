@@ -334,6 +334,23 @@
         "type": "Motte and Bailey"
     },
     {
+        "id": "019dd93b-3654-71a0-b5e6-d3972f43008d",
+        "name": "Castell Arnallt",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.785,
+            "longitude": -2.987
+        },
+        "alternativeNames": [
+            "Castle Arnold"
+        ],
+        "built": "12th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
+    },
+    {
         "id": "019dbe8e-e97d-755b-9240-dea24ecba1fd",
         "name": "Castell Blaenllynfi",
         "country": "GB",
@@ -976,6 +993,20 @@
         "type": "Motte and Bailey"
     },
     {
+        "id": "019dd93b-3654-71a0-b5e6-d455fbeeed2f",
+        "name": "Dunraven Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.4434,
+            "longitude": -3.6018
+        },
+        "built": "12th Century",
+        "condition": "Partial Ruins",
+        "ownedBy": "Cadw",
+        "type": "Fortified Manor House"
+    },
+    {
         "id": "019dd8fa-3860-775f-ab6f-ff4ad4159b40",
         "name": "Dyserth Castle",
         "country": "GB",
@@ -1047,6 +1078,21 @@
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/grosmont-castle",
         "ownedBy": "Cadw",
         "type": "Square Keep"
+    },
+    {
+        "id": "019dd93b-3654-71a0-b5e6-d92e8c4918f5",
+        "name": "Gwrych Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 53.2833,
+            "longitude": -3.6087
+        },
+        "built": "14-19th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://www.gwrychcastle.co.uk",
+        "ownedBy": "Gwrych Castle Preservation Trust",
+        "type": "Fortified Manor House"
     },
     {
         "id": "019dd565-b277-750e-8b1c-b8b0b781c788",
@@ -2064,48 +2110,5 @@
         "condition": "No Visible Remains",
         "ownedBy": "Private",
         "type": "Unknown"
-    },
-    {
-        "name": "Castell Arnallt",
-        "country": "GB",
-        "region": "GB-WLS",
-        "coordinates": {
-            "latitude": 51.785,
-            "longitude": -2.987
-        },
-        "alternativeNames": [
-            "Castle Arnold"
-        ],
-        "built": "12th Century",
-        "condition": "Earthworks",
-        "ownedBy": "Private",
-        "type": "Fortified Manor House"
-    },
-    {
-        "name": "Dunraven Castle",
-        "country": "GB",
-        "region": "GB-WLS",
-        "coordinates": {
-            "latitude": 51.4434,
-            "longitude": -3.6018
-        },
-        "built": "12th Century",
-        "condition": "Partial Ruins",
-        "ownedBy": "Cadw",
-        "type": "Fortified Manor House"
-    },
-    {
-        "name": "Gwrych Castle",
-        "country": "GB",
-        "region": "GB-WLS",
-        "coordinates": {
-            "latitude": 53.2833,
-            "longitude": -3.6087
-        },
-        "built": "14-19th Century",
-        "condition": "Partially Restored",
-        "homepage": "https://www.gwrychcastle.co.uk",
-        "ownedBy": "Gwrych Castle Preservation Trust",
-        "type": "Fortified Manor House"
     }
 ]

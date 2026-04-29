@@ -163,6 +163,20 @@
         "type": "Fortified Manor House"
     },
     {
+        "id": "019dd93b-364d-75b2-9d58-17d727177fd6",
+        "name": "Bagot's Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.36966,
+            "longitude": -1.50015
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
+        "type": "Square Keep"
+    },
+    {
         "id": "019d6e1e-1269-77ab-bd88-6d7cb24979a3",
         "name": "Bamburgh Castle",
         "country": "GB",
@@ -266,6 +280,20 @@
         "homepage": "https://www.english-heritage.org.uk/visit/places/belsay-hall-castle-and-gardens",
         "ownedBy": "English Heritage",
         "type": "Square Keep"
+    },
+    {
+        "id": "019dd93b-364d-75b2-9d58-182600778613",
+        "name": "Belvoir Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.8945,
+            "longitude": -0.78256
+        },
+        "built": "19th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Folly"
     },
     {
         "id": "019d6d02-d27b-714c-9598-6c30826a5ec9",
@@ -2557,6 +2585,21 @@
         "type": "Round Keep"
     },
     {
+        "id": "019dd93b-364d-75b2-9d58-1d99a058d22a",
+        "name": "Peckforton Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 53.1175,
+            "longitude": -2.699
+        },
+        "built": "19th Century",
+        "condition": "Intact",
+        "homepage": "https://www.peckfortoncastle.co.uk",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
+    },
+    {
         "id": "019d727e-b3b5-769c-a8eb-d7169f6315ce",
         "name": "Pembridge Castle",
         "country": "GB",
@@ -2896,6 +2939,21 @@
         "type": "Fortified Manor House"
     },
     {
+        "id": "019dd93b-364d-75b2-9d58-10a37b4ef3ac",
+        "name": "Rowton Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.7087,
+            "longitude": -2.9207
+        },
+        "accessible": false,
+        "built": "17th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
+    },
+    {
         "id": "019d72a8-a3ca-7120-80ac-e3e595426e05",
         "name": "Rufus Castle",
         "country": "GB",
@@ -3218,6 +3276,21 @@
         "condition": "Ruins",
         "ownedBy": "Local Council",
         "type": "Keepless"
+    },
+    {
+        "id": "019dd93b-364c-7614-b999-bf4712cd1725",
+        "name": "Stokesay Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.43028,
+            "longitude": -2.83094
+        },
+        "built": "13th Century",
+        "condition": "Intact",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/stokesay-castle",
+        "ownedBy": "English Heritage",
+        "type": "Fortified Manor House"
     },
     {
         "id": "019d6948-63cd-715f-909e-ad8e5c86beca",
@@ -3774,73 +3847,5 @@
         "condition": "Fragmented Remains",
         "ownedBy": "Scheduled Ancient Monument",
         "type": "Motte and Bailey"
-    },
-    {
-        "name": "Stokesay Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 52.43028,
-            "longitude": -2.83094
-        },
-        "built": "13th Century",
-        "condition": "Intact",
-        "homepage": "https://www.english-heritage.org.uk/visit/places/stokesay-castle",
-        "ownedBy": "English Heritage",
-        "type": "Fortified Manor House"
-    },
-    {
-        "name": "Rowton Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 52.7087,
-            "longitude": -2.9207
-        },
-        "accessible": false,
-        "built": "17th Century",
-        "condition": "Intact",
-        "ownedBy": "Private",
-        "type": "Fortified Manor House"
-    },
-    {
-        "name": "Bagot's Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 52.36966,
-            "longitude": -1.50015
-        },
-        "built": "14th Century",
-        "condition": "Ruins",
-        "ownedBy": "Private",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Belvoir Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 52.8945,
-            "longitude": -0.78256
-        },
-        "built": "19th Century",
-        "condition": "Intact",
-        "ownedBy": "Private",
-        "type": "Folly"
-    },
-    {
-        "name": "Peckforton Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 53.1175,
-            "longitude": -2.699
-        },
-        "built": "19th Century",
-        "condition": "Intact",
-        "homepage": "https://www.peckfortoncastle.co.uk",
-        "ownedBy": "Private",
-        "type": "Fortified Manor House"
     }
 ]
