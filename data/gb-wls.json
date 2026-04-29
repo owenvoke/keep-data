@@ -1729,5 +1729,318 @@
         "homepage": "https://cadw.gov.wales/visit/places-to-visit/wiston-castle",
         "ownedBy": "Cadw",
         "type": "Motte and Bailey"
+    },
+    {
+        "name": "Dyserth Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 53.30796,
+            "longitude": -3.41207
+        },
+        "built": "13th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Private",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Penrhyn Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 53.22569,
+            "longitude": -4.09466
+        },
+        "built": "19th Century",
+        "condition": "Intact",
+        "homepage": "https://www.nationaltrust.org.uk/visit/wales/penrhyn-castle-and-garden",
+        "ownedBy": "National Trust",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Dingestow Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.79,
+            "longitude": -2.7902
+        },
+        "built": "12th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Pen y Clawdd Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.8753,
+            "longitude": -3.0039
+        },
+        "accessible": false,
+        "built": "11th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Cas Troggy Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.6526,
+            "longitude": -2.8469
+        },
+        "alternativeNames": [
+            "Striguil Castle"
+        ],
+        "built": "11th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Round Keep"
+    },
+    {
+        "name": "Llanvair Discoed Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.6278,
+            "longitude": -2.8021
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Round Keep"
+    },
+    {
+        "name": "Pencoed Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.60028,
+            "longitude": -2.85861
+        },
+        "accessible": false,
+        "built": "16th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Penhow Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.6137,
+            "longitude": -2.8337
+        },
+        "accessible": false,
+        "built": "12th Century",
+        "condition": "Rebuilt",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Wentloog Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.5452,
+            "longitude": -3.0809
+        },
+        "accessible": false,
+        "built": "11-14th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Private",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Benton Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.72514,
+            "longitude": -4.88933
+        },
+        "accessible": false,
+        "built": "13th Century",
+        "condition": "Restored",
+        "ownedBy": "Private",
+        "type": "Fort"
+    },
+    {
+        "name": "Castell Dinas",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.9633,
+            "longitude": -3.19654
+        },
+        "built": "13th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Brecon Beacons National Park",
+        "type": "Fort"
+    },
+    {
+        "name": "Dinas Powys Hillfort",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.72514,
+            "longitude": -4.88933
+        },
+        "built": "2-3rd Century BCE",
+        "condition": "Earthworks",
+        "ownedBy": "Private",
+        "type": "Fort"
+    },
+    {
+        "name": "Knighton Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.34428,
+            "longitude": -3.05223
+        },
+        "built": "11-14th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Bryn y Castell",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.34305,
+            "longitude": -3.04339
+        },
+        "built": "11-14th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Knucklas Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.36378,
+            "longitude": -3.10358
+        },
+        "alternativeNames": [
+            "Cnwclas Castle"
+        ],
+        "built": "13th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Keepless"
+    },
+    {
+        "name": "Radnor Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.2417,
+            "longitude": -3.1566
+        },
+        "alternativeNames": [
+            "New Radnor Castle"
+        ],
+        "built": "11th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Painscastle Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.10754,
+            "longitude": -3.21861
+        },
+        "accessible": false,
+        "built": "11th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Rhayader Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.30086,
+            "longitude": -3.51409
+        },
+        "alternativeNames": [
+            "Castell Gwrtheyrn",
+            "Castle Gwerthrynion"
+        ],
+        "built": "12th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Keepless"
+    },
+    {
+        "name": "Hen Domen Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.57435,
+            "longitude": -3.16159
+        },
+        "accessible": false,
+        "built": "11th Century",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Motte and Bailey"
+    },
+    {
+        "name": "Fonmon Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.4037,
+            "longitude": -3.3708
+        },
+        "built": "12-13th Century",
+        "condition": "Restored",
+        "homepage": "https://fonmoncastle.com",
+        "ownedBy": "Private",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Old Beaupre Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.4389,
+            "longitude": -3.42731
+        },
+        "built": "14-16th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://cadw.gov.wales/visit/places-to-visit/old-beaupre-castle",
+        "ownedBy": "Cadw",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Wrinstone Castle",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 51.44585,
+            "longitude": -3.24585
+        },
+        "accessible": false,
+        "alternativeNames": [
+            "Grenestone Castle"
+        ],
+        "built": "11-13th Century",
+        "condition": "No Visible Remains",
+        "ownedBy": "Private",
+        "type": "Unknown"
     }
 ]
