@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Neuschwanstein Castle",
+        "country": "DE",
+        "coordinates": {
+            "latitude": 47.55758,
+            "longitude": 10.7498
+        },
+        "built": "19th Century",
+        "condition": "Intact",
+        "homepage": "https://neuschwanstein.de/englisch/tourist/index.htm",
+        "ownedBy": "Bavarian Palace Department",
+        "type": "Palace"
+    }
+]
