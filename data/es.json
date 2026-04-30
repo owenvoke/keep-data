@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Palace of the Kings of Navarre of Olite",
+        "country": "ES",
+        "coordinates": {
+            "latitude": 42.48167,
+            "longitude": -1.64944
+        },
+        "alternativeNames": [
+            "Royal Palace of Olite"
+        ],
+        "built": "13th Century",
+        "condition": "Restored",
+        "homepage": "https://palaciorealolite.com/en",
+        "ownedBy": "Government of Navarre",
+        "type": "Palace"
+    }
+]
