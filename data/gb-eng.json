@@ -405,6 +405,20 @@
         "type": "Motte and Bailey"
     },
     {
+        "id": "019ddd7f-6694-76b4-af76-79711e60dc3e",
+        "name": "Birtsmorton Court",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.0171,
+            "longitude": -2.292
+        },
+        "built": "13th Century",
+        "condition": "Restored",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
+    },
+    {
         "id": "019db6e8-cbd1-7142-96e5-b7d83f8821a9",
         "name": "Blaise Castle",
         "country": "GB",
@@ -3847,18 +3861,5 @@
         "condition": "Fragmented Remains",
         "ownedBy": "Scheduled Ancient Monument",
         "type": "Motte and Bailey"
-    },
-    {
-        "name": "Birtsmorton Court",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 52.0171,
-            "longitude": -2.292
-        },
-        "built": "13th Century",
-        "condition": "Restored",
-        "ownedBy": "Private",
-        "type": "Fortified Manor House"
     }
 ]
