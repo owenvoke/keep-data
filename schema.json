@@ -52,6 +52,7 @@
                 "type": "string"
             },
             "homepage": {
+                "$comment": "Use an English version if available.",
                 "description": "The homepage of the castle or fortification.",
                 "type": "string",
                 "format": "uri-reference"
