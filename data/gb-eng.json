@@ -3847,5 +3847,18 @@
         "condition": "Fragmented Remains",
         "ownedBy": "Scheduled Ancient Monument",
         "type": "Motte and Bailey"
+    },
+    {
+        "name": "Birtsmorton Court",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 52.0171,
+            "longitude": -2.292
+        },
+        "built": "13th Century",
+        "condition": "Restored",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
     }
 ]
