@@ -71,6 +71,7 @@
             "name",
             "country",
             "coordinates",
+            "built",
             "condition",
             "ownedBy",
             "type"
