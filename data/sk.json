@@ -1,19 +1,5 @@
 [
     {
-        "id": "019dcf2c-09ac-72b3-8125-98badac2471f",
-        "name": "Attilov hrob",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 49.08972,
-            "longitude": 18.9398
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "Elevated hilltop above Martin (Košúty) believed to have been a prehistoric hillfort, later associated with folk legends of Attila the Hun's burial.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
         "id": "019dcf2c-09ac-72b3-8125-9e3695a6c011",
         "name": "Banská Bystrica Castle",
         "country": "SK",
@@ -33,20 +19,6 @@
         "type": "Unknown"
     },
     {
-        "id": "019dcf2c-09ac-72b3-8125-a1812b188036",
-        "name": "Bašta",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 49.08401,
-            "longitude": 19.05898
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "Small fortified structure in Podhradie (Martin district); only the last conserved remnants survive. Connected by a green hiking trail to Sučiansky hrad.",
-        "ownedBy": "Slovak Republic",
-        "type": "Tower House"
-    },
-    {
         "id": "019dcf2c-09ad-72fd-8821-0bc15d8a51c9",
         "name": "Beckov Castle",
         "country": "SK",
@@ -58,22 +30,9 @@
         "alternativeNames": [
             "Beckov"
         ],
+        "built": "13th Century",
         "condition": "Ruins",
         "homepage": "https://www.hrad-beckov.sk",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8821-0c1e472e7637",
-        "name": "Bešeňová",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 49.10709,
-            "longitude": 19.43451
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "Ancient settlement of uncertain character (possible hillfort) near Bešeňová aquapark; significantly damaged by historical travertine quarrying.",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -105,6 +64,7 @@
             "longitude": 17.19636
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Partial Ruins",
         "description": "Gothic castle ruins of large spatial extent on a forested rocky hill of the Little Carpathians above Svätý Jur. The site is actively maintained by the local heritage association Castrum Sancti Georgii.",
         "homepage": "https://www.hrady-zamky.sk/en/biely-kamen/",
@@ -120,6 +80,7 @@
             "longitude": 18.9471
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Partially Restored",
         "description": "Castle ruin at 658 m above sea level on a limestone ridge between Gaderská Valley and Turčianska Basin, about 2 km from Blatnica village; under active reconstruction.",
         "homepage": "https://www.hrady-zamky.sk/en/blatnica/",
@@ -154,6 +115,7 @@
             "longitude": 17.46707
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Partial Ruins",
         "description": "One of the oldest castles in the Záhorie region, situated on a slope of the Myjavská Pahorkatina plateau above the village of Podbranč. Partially, not very sensitively restored ruins.",
         "homepage": "https://www.hrady-zamky.sk/en/branc/",
@@ -190,6 +152,7 @@
             "longitude": 20.84992
         },
         "accessible": true,
+        "built": "14th Century",
         "condition": "Fragmented Remains",
         "description": "A defunct small castle (hrádok) in Brezovica village. Only the hilltop site remains; a chapel now stands where the fortification once was.",
         "homepage": "https://www.hrady-zamky.sk/en/brezovica/",
@@ -234,20 +197,6 @@
         "type": "Palace"
     },
     {
-        "id": "019dcf2c-09ad-72fd-8821-3509b4b2ec78",
-        "name": "Burchbrich – Veľká Lomnica",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 49.11737,
-            "longitude": 20.36594
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "An archaeological hilltop settlement (hradisko) dating to the Late Stone Age and Early Bronze Age, now occupied by the Veľká Lomnica cemetery. The site is bounded on three sides by a large moat.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
         "id": "019dcf2c-09ad-72fd-8821-38c218c2ebd6",
         "name": "Bytča Castle",
         "country": "SK",
@@ -274,6 +223,7 @@
             "longitude": 19.0898
         },
         "accessible": true,
+        "built": "12th Century",
         "condition": "Fragmented Remains",
         "description": "A former Premonstratensian monastery converted into a gothic-renaissance anti-Turkish fortress. The site preserves the final remnants of the former monastery surrounded by strong walls and four bastions. Freely accessible and family-friendly.",
         "homepage": "https://www.hrady-zamky.sk/en/bzovik/",
@@ -292,6 +242,7 @@
         "alternativeNames": [
             "Hrad Litava"
         ],
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "Ruins of a gothic castle at the end of a rock promontory encircled on three sides by the Litava River. The site is maintained by the local association Rondel. It offers surprising size and an interesting location with scenic vistas.",
         "homepage": "https://www.hrady-zamky.sk/en/cabrad/",
@@ -310,6 +261,7 @@
         "alternativeNames": [
             "Čachtický hrad"
         ],
+        "built": "13th Century",
         "condition": "Ruins",
         "homepage": "https://www.cachtickyhrad.eu",
         "ownedBy": "Trenčín Museum",
@@ -324,6 +276,7 @@
             "longitude": 21.26807
         },
         "accessible": true,
+        "built": "10th Century",
         "condition": "Fragmented Remains",
         "description": "An Árpádian-era frontier stronghold whose name derives from its role in the salt trade. A Baroque Church of St. Stephen of Hungary now stands on the site.",
         "ownedBy": "Slovak Republic",
@@ -338,6 +291,7 @@
             "longitude": 17.28806
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "One of the least-known castles in Slovakia, located on the edge of Bernolákovo village. Only minimal fragmentary remains have survived above ground.",
         "homepage": "https://www.hrady-zamky.sk/en/ceklis/",
@@ -353,6 +307,7 @@
             "longitude": 18.14133
         },
         "accessible": true,
+        "built": "2nd Century BCE",
         "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -366,6 +321,7 @@
             "longitude": 17.33552
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Restored",
         "description": "A well-preserved Renaissance castle near the village of Častá in the Little Carpathians, operated as a museum by the Slovak National Museum. The castle offers multiple tour routes and is known as one of Slovakia's finest castle attractions.",
         "homepage": "https://hradcervenykamen.sk/",
@@ -400,6 +356,7 @@
             "longitude": 18.32851
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -413,6 +370,7 @@
             "longitude": 18.29219
         },
         "accessible": false,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "Čierny hrad (Black Castle) sits on a wooded ridge of the Tribeč Mountains near the village of Zlatno, historically associated with gold mining in the region. Very little of the original structure survives beyond a prominent earth rampart. The site is freely accessible via a yellow-marked trail from Zlatno.",
         "homepage": "https://www.hrady-zamky.sk/en/cierny-hrad/",
@@ -441,20 +399,6 @@
         "type": "Keepless"
     },
     {
-        "id": "019dcf2c-09ad-72fd-8821-693870b767e5",
-        "name": "Dievči hrádok",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.23005,
-            "longitude": 17.03298
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "A small hilltop fortification along the old road between Lamač and Záhorská Bystrica in the Bratislava District. The site is heavily overgrown and best visited in late autumn for better visibility of the remains.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
         "id": "019dcf2c-09ad-72fd-8821-6c7b5cd09122",
         "name": "Divín",
         "country": "SK",
@@ -463,6 +407,7 @@
             "longitude": 19.53305
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Partial Ruins",
         "description": "A partially preserved castle ruin on a wooded hill directly above the village of Divín. The site includes a manor house and fortified church, and features a newly discovered cave beneath the castle. Paid admission, open daily 9:00–17:00.",
         "homepage": "https://www.hrady-zamky.sk/en/divin/",
@@ -478,6 +423,7 @@
             "longitude": 18.52393
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -491,6 +437,7 @@
             "longitude": 19.10367
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "The site preserves visible remnants of ramparts and one consolidated castle wall above the village of Podzámčok. The location offers beautiful views and is visible from the Zvolen–Krupina road. Freely accessible.",
         "homepage": "https://www.hrady-zamky.sk/en/dobra-niva/",
@@ -506,6 +453,7 @@
             "longitude": 17.52891
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "Quite extensive castle structure well hidden in the forest near the village of the same name, surrounded by woodland in the Little Carpathians.",
         "homepage": "https://www.hrady-zamky.sk/en/dobra-voda/",
@@ -538,6 +486,7 @@
             "latitude": 48.67226,
             "longitude": 19.22371
         },
+        "built": "16th Century",
         "condition": "Partial Ruins",
         "description": "A Renaissance mansion built on a gothic foundation in Dolná Mičiná village, in the Zvolen hills near the river Lukavica. The structure is privately owned and poorly maintained, with hazardous conditions discouraging entry.",
         "homepage": "https://www.hrady-zamky.sk/en/dolna-micina/",
@@ -553,6 +502,7 @@
             "longitude": 17.11098
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "A small medieval fortification whose remnants are spread along a forested ridge at the end of a tongue of land extending into the Červený potok valley, about 2 km east of Borinka village.",
         "homepage": "https://www.hrady-zamky.sk/en/draci-hradok/",
@@ -568,23 +518,10 @@
             "longitude": 19.27264
         },
         "accessible": true,
+        "built": "15th Century",
         "condition": "Fragmented Remains",
         "description": "A heavily ruined and overgrown fortified residence or manor in the centre of Dúbravica village. The structure historically featured a guard tower. No archaeological research has yet been conducted on the site.",
         "homepage": "https://www.hrady-zamky.sk/en/dubravica/",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8821-8e923ad2a050",
-        "name": "Dvorníky – Nový hrad",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.36547,
-            "longitude": 17.76833
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "Overgrown site featuring a rampart and oval acropolis, situated east of Starý hrad near Dvorníky village in the Hlohovec district.",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -597,36 +534,9 @@
             "longitude": 17.77138
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "Defunct fortification occupying the northern section of Posádka municipality; much of the former castle site is now used as a cemetery.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8821-9556252ed138",
-        "name": "Dvorníky – Posádka hrádok II.",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.37123,
-            "longitude": 17.77066
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "Unresearched ruined fortlet situated beyond a small stream near a crossroads in Posádka village, characterised by a distinctive forested elevation.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8821-9832bf87a9e9",
-        "name": "Dvorníky – Starý hrad",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.36612,
-            "longitude": 17.76405
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "Old castle site near Dvorníky village accessible via a hiking trail through forest toward the Váh River.",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -642,6 +552,7 @@
         "alternativeNames": [
             "Fiľakovo Castle"
         ],
+        "built": "12th Century",
         "condition": "Partially Restored",
         "description": "One of Slovakia's oldest masonry castles built on a volcanic hill above Fiľakovo. The castle is largely in ruins but the Bebekov Tower has been reconstructed and houses a historical exhibition. It was destroyed by Turkish forces in 1680 after a month-long siege.",
         "homepage": "https://www.hradfilakovo.sk",
@@ -657,6 +568,7 @@
             "longitude": 20.93093
         },
         "accessible": false,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "Gelnica Castle stood on a strategic hill above the mining town of Gelnica, guarding the surrounding ore-rich region. It burned down at the end of the 17th century and its masonry was later reused to build the town hall. Today only the last remnants of walls and a tower section survive, accessible via Zámková Street.",
         "homepage": "https://www.hrady-zamky.sk/en/gelnica/",
@@ -687,6 +599,7 @@
             "longitude": 18.89198
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "A lesser-known castle ruin overlooking the town of Banská Štiavnica from above. The site offers scenic views of the local calvary and is reached via a short hike from the Hodruša Hámre direction. Freely accessible.",
         "ownedBy": "Slovak Republic",
@@ -735,35 +648,10 @@
             "longitude": 17.86965
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Intact",
         "ownedBy": "Slovak Republic",
         "type": "Fort"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8821-b88f11ecb23d",
-        "name": "Hatné I.",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 49.19366,
-            "longitude": 18.37275
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8821-bc3c4df712dd",
-        "name": "Hatné II.",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 49.1934,
-            "longitude": 18.37512
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
     },
     {
         "id": "019dcf2c-09ad-72fd-8821-c2f054cc9733",
@@ -791,6 +679,7 @@
             "longitude": 20.52697
         },
         "accessible": true,
+        "built": "15th Century",
         "condition": "Fragmented Remains",
         "description": "Modest wall remnants of a possible fortified aristocratic residence located directly within the village of Holumnica. Historical records question its classification as a proper castle.",
         "ownedBy": "Slovak Republic",
@@ -805,6 +694,7 @@
             "longitude": 18.26191
         },
         "accessible": true,
+        "built": "15th Century",
         "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -817,6 +707,7 @@
             "latitude": 48.47403,
             "longitude": 20.12568
         },
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "A castle ruin located within a game preserve near Veľký Blh in the Rimavská Sobota district. The site maintains impressive dimensions and receives minimal visitor traffic. Vehicle access requires authorisation; on foot approximately 50–60 minutes from the gate.",
         "ownedBy": "Slovak Republic",
@@ -831,6 +722,7 @@
             "longitude": 18.62786
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "The last remains of a medieval castle near Tekovská Breznica, part of the Pohronská hradná cesta castle route. A marked green trail leads from the cemetery parking area through zigzag paths to the ruins. The route continues to the nearby Sokolia Skala fortlet.",
         "ownedBy": "Slovak Republic",
@@ -845,6 +737,7 @@
             "longitude": 18.54909
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -858,6 +751,7 @@
             "longitude": 19.95535
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "A hilltop ruin built on a volcanic outcrop near Hajnáčka village. Little has been preserved beyond the last remnants of walls and one surviving chamber with a carved staircase. Freely accessible with an iconic gate entrance and panoramic views.",
         "ownedBy": "Slovak Republic",
@@ -872,21 +766,9 @@
             "longitude": 19.98308
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "A heavily overgrown medieval fortification above Hodejov village, between Rimavská Sobota and Fiľakovo. The castle was damaged by historical quarrying and dismantling by local inhabitants. Freely accessible via a short 10-minute hike from the cemetery.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8821-e1924d5d682d",
-        "name": "Hrad Hrádok",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.69838,
-            "longitude": 17.88341
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -902,6 +784,7 @@
         "alternativeNames": [
             "Lietava Castle"
         ],
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "One of Slovakia's most impressive castle ruins in the Súľov Mountains, approximately 10 km from Žilina; maintained by a local association with a small exhibition and refreshments.",
         "homepage": "https://www.hrady-zamky.sk/en/lietava/",
@@ -917,6 +800,7 @@
             "longitude": 20.93522
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "A former royal castle on Jazvečí Hill above Lačnovská gorge, built to guard the trade route from Prešov to Levoča. A large stone tower and final wall fragments remain.",
         "homepage": "https://www.hrady-zamky.sk/en/hrad-lipovce/",
@@ -939,36 +823,6 @@
         "condition": "Partially Restored",
         "description": "Originally a guard castle at the intersection of two major trade routes; the older nucleus became a ruin after an 1803 fire while the younger manor house survives; now operates as Hotel Chateau GrandCastle.",
         "homepage": "https://www.grandcastle.sk",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8821-f323848ba036",
-        "name": "Hrad Mariáš",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.60513,
-            "longitude": 17.51065
-        },
-        "accessible": true,
-        "alternativeNames": [
-            "Hrádok Mariáš"
-        ],
-        "condition": "Fragmented Remains",
-        "description": "Abandoned fortress near Dobrá Voda castle featuring a mound fortified by ramparts on three sides with substantial defensive earthworks and interesting rock formations.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8821-f63f36e8686b",
-        "name": "Hrad Nitrianska Streda",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.52332,
-            "longitude": 18.17004
-        },
-        "condition": "Fragmented Remains",
-        "description": "Hrad Nitrianska Streda was originally a water castle (vodný hrad) in the Topoľčany district. The castle no longer stands; an Evangelical church was built on its former site, and only a slight elevated area around the church marks its location.",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -996,6 +850,7 @@
             "longitude": 19.28111
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Partially Restored",
         "description": "A castle undergoing ongoing restoration above the village of Slovenská Ľupča, forming a dominant landmark visible from the Banská Bystrica–Brezno road. Open to the public with guided tours of approximately 30–40 minutes.",
         "homepage": "https://www.hradlupca.sk",
@@ -1015,6 +870,7 @@
             "Pustý hrad nad Sklenými Teplicami",
             "Červený hrad"
         ],
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "Also known as Pustý hrad or Červený hrad, this castle above Sklené Teplice guarded access routes to Banská Štiavnica. It was dismantled around the turn of the 16th–17th centuries and its stones used to construct a local church. Freely accessible via marked trails from Sklené Teplice spa town.",
         "ownedBy": "Slovak Republic",
@@ -1032,6 +888,7 @@
         "alternativeNames": [
             "Hrad Zniev"
         ],
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "The upper and older part of Zniev castle at the hilltop; practically nothing remains, with building material likely reused in the lower castle.",
         "ownedBy": "Slovak Republic",
@@ -1050,23 +907,11 @@
             "Bojná Valy",
             "Bojná"
         ],
+        "built": "9th Century",
         "condition": "Partial Ruins",
         "description": "Hradisko Bojná Valy is an early medieval fortified settlement near Bojná village in the Topoľčany district, featuring massive earth ramparts several meters high and a reconstructed entrance gate. The site is freely accessible on foot and is valued for its well-preserved defensive earthworks. Vehicle access is restricted after 17:00.",
         "ownedBy": "Slovak Republic",
         "type": "Motte and Bailey"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-0cf93ffaf692",
-        "name": "Hradisko Čížik",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.55746,
-            "longitude": 18.26642
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
     },
     {
         "id": "019dcf2c-09ad-72fd-8822-1102ed5d7805",
@@ -1077,6 +922,7 @@
             "longitude": 18.05579
         },
         "accessible": false,
+        "built": "8th Century BCE",
         "condition": "Fragmented Remains",
         "description": "Hradisko Dražovce is a prehistoric fortified settlement above the village of Dražovce in the Nitra district. An iconic Romanesque chapel now stands on the site of the former hillfort, and visible earthwork remnants can still be observed. The site is freely accessible and suitable for family visits.",
         "ownedBy": "Slovak Republic",
@@ -1091,21 +937,9 @@
             "longitude": 17.87278
         },
         "accessible": true,
+        "built": "9th Century",
         "condition": "Partially Restored",
         "description": "Great Moravian-era fortified settlement between Ducové and Hubina villages near Piešťany. Features one of the best-preserved Great Moravian church/rotunda foundations and reconstructed palisades on earthen ramparts.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-1a6b93cc178a",
-        "name": "Hradisko Hradište",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.68608,
-            "longitude": 18.37783
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -1118,48 +952,8 @@
             "longitude": 17.90462
         },
         "accessible": true,
+        "built": "16th Century BCE",
         "condition": "Fragmented Remains",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-203a002ef9b4",
-        "name": "Hradisko Kšinná",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.80726,
-            "longitude": 18.34835
-        },
-        "accessible": true,
-        "condition": "Intact",
-        "ownedBy": "Slovak Republic",
-        "type": "Fort"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-260784479e41",
-        "name": "Hradisko Liptovská Štiavnica",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 49.04152,
-            "longitude": 19.36443
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "Defunct hillfort on an isolated hill called Lúčny Hríb at the end of Liptovská Štiavnica village; best approached via the ridge.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-2b9a14332fda",
-        "name": "Hradisko Pernek",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.36589,
-            "longitude": 17.15301
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "A large prehistoric or early medieval hillfort on a densely forested hill above the village of Pernek, featuring recognizable ramparts and a ditch. The site has suffered considerable damage from past quarrying activity.",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -1172,22 +966,9 @@
             "longitude": 19.32988
         },
         "accessible": true,
+        "built": "8th Century BCE",
         "condition": "Fragmented Remains",
         "description": "Archaeological hillfort site in Ludrová (Ružomberok district); offers views across to the opposite hill where Hrádok Páncová once stood.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-31755b3be008",
-        "name": "Hradisko Sučany-Skala",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 49.09064,
-            "longitude": 18.9999
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "Distinctive rocky formation at the end of Sučany village (Martin district) with visible earthworks; features a picnic area and children's playground on the hilltop.",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -1200,6 +981,7 @@
             "longitude": 19.43423
         },
         "accessible": true,
+        "built": "8th Century BCE",
         "condition": "Fragmented Remains",
         "description": "Prehistoric hillfort above Sedliacka Dubová village (Dolný Kubín district) near a ruined church; history reaches back to prehistory.",
         "ownedBy": "Slovak Republic",
@@ -1214,6 +996,7 @@
             "longitude": 18.49069
         },
         "accessible": false,
+        "built": "14th Century",
         "condition": "Rebuilt",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -1227,6 +1010,7 @@
             "longitude": 18.4896
         },
         "accessible": true,
+        "built": "14th Century",
         "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -1240,21 +1024,9 @@
             "longitude": 17.42374
         },
         "accessible": true,
+        "built": "17th Century",
         "condition": "Fragmented Remains",
         "description": "Star-shaped fortress near Dolné Janíky village with clearly visible fortification ramparts, situated metres from the Malý Dunaj river.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-44dd0af257ab",
-        "name": "Hrádok Dolný Lieskov",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 49.0612,
-            "longitude": 18.39244
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -1267,21 +1039,8 @@
             "longitude": 18.09825
         },
         "accessible": true,
+        "built": "12-13th Century",
         "condition": "Fragmented Remains",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-4c2ffc199c05",
-        "name": "Hrádok Horné Janíky",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.14023,
-            "longitude": 17.39597
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "Historical earth mound fortress in Horné Janíky, now featuring the Church of the Most Sacred Heart of Jesus built on the original site; visible ramparts confirm the original fortification purpose.",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -1294,6 +1053,7 @@
             "longitude": 18.68381
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -1307,21 +1067,9 @@
             "longitude": 17.83117
         },
         "accessible": true,
+        "built": "12th Century",
         "condition": "Fragmented Remains",
         "description": "Ruined small castle in Jalšové village where St. Martin's Church now stands on the former castle location; a preserved moat remains visible around the church grounds.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-5bf8cb17a25b",
-        "name": "Hrádok Ješkova Ves",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.77737,
-            "longitude": 18.48876
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -1334,48 +1082,8 @@
             "longitude": 18.58171
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-6176445fdebc",
-        "name": "Hrádok Kostolná Ves",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.80199,
-            "longitude": 18.48745
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-6400f75e4f89",
-        "name": "Hrádok Lukáčovce",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.39241,
-            "longitude": 17.93488
-        },
-        "accessible": false,
-        "condition": "Fragmented Remains",
-        "description": "Hrádok Lukáčovce is a medieval motte located within the village cemetery of Lukáčovce in the Nitra district. Only an artificial earthen mound remains, part of which was damaged during construction of a nearby footpath. The site is freely accessible and lies near the village church.",
-        "ownedBy": "Slovak Republic",
-        "type": "Motte and Bailey"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-68b1c8d78a7b",
-        "name": "Hrádok Malá Mača",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.22486,
-            "longitude": 17.64029
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "Defunct castle of which most was destroyed during construction of a football stadium; a large earthwork embankment remains visible near Záhradnícka Street in Malá Mača.",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -1388,22 +1096,9 @@
             "longitude": 18.82356
         },
         "accessible": false,
+        "built": "1st Century BCE",
         "condition": "Fragmented Remains",
         "description": "Extinct fortification in Kysucké Nové Mesto district; largely destroyed by quarrying after 1985 archaeological finds of pottery, an arrowhead, and a spear point.",
-        "ownedBy": "Slovak Republic",
-        "type": "Motte and Bailey"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-71d36c066cc8",
-        "name": "Hrádok Most pri Bratislave",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.14242,
-            "longitude": 17.2587
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "An inconspicuous earthen mound at the entrance of the village of Most pri Bratislave, believed to be the site of a former small castle. The mound is the only surviving evidence of the original fortification.",
         "ownedBy": "Slovak Republic",
         "type": "Motte and Bailey"
     },
@@ -1416,6 +1111,7 @@
             "longitude": 19.32526
         },
         "accessible": true,
+        "built": "5th Century BCE",
         "condition": "Fragmented Remains",
         "description": "Ruined small castle on a steep bare hilltop above Ludrová near Ružomberok; only faint terrain traces remain of the original structure.",
         "ownedBy": "Slovak Republic",
@@ -1430,34 +1126,9 @@
             "longitude": 18.10854
         },
         "accessible": false,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "Hrádok Podhorany is a disappeared medieval small castle (hrádok) in the village of Podhorany, Nitra district. The site is on fenced private land and is not accessible to the public. Adjacent ruins of a fortified church are also present in the vicinity.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-7d8cf7c3b99b",
-        "name": "Hrádok Selec",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.77959,
-            "longitude": 18.01877
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-82e9973cf833",
-        "name": "Hrádok Šimúnky",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 49.20972,
-            "longitude": 18.33417
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -1470,61 +1141,7 @@
             "longitude": 18.17745
         },
         "accessible": true,
-        "condition": "Fragmented Remains",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-88d42105f8cd",
-        "name": "Hrádok Sokolia Skala",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.37737,
-            "longitude": 18.63054
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "A small fortlet approximately 200 metres from Breznica Castle where only the rampart survives. The narrow and slippery pathway requires caution but the site offers scenic views. Freely accessible as part of the Pohronská hradná cesta route.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-8d83fb502822",
-        "name": "Hrádok Turie",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 49.1467,
-            "longitude": 18.73111
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "Defunct fortified site on a prominent forested hill in Turie village (Žilina district); notable feature is a cistern carved into the rock.",
-        "ownedBy": "Slovak Republic",
-        "type": "Motte and Bailey"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-905ce6a6c502",
-        "name": "Hrádok Varín",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 49.20212,
-            "longitude": 18.85748
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "Defunct fortified mound in Varín village on Železničná street; features a large linden tree, an informational monument, and a visible defensive embankment on the northern side.",
-        "ownedBy": "Slovak Republic",
-        "type": "Motte and Bailey"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8822-961109d00d20",
-        "name": "Hrádok Veľká Hradná",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.76728,
-            "longitude": 18.14921
-        },
-        "accessible": true,
+        "built": "11-12th Century",
         "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -1538,6 +1155,7 @@
             "longitude": 18.30365
         },
         "accessible": false,
+        "built": "14th Century",
         "condition": "Rebuilt",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -1551,6 +1169,7 @@
             "longitude": 18.61989
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "Ruins on a distinctive cliff of the northernmost outcrop of the Súľov Hills at 564 m above sea level above Hričovské Podhradie; access via red-marked trail.",
         "homepage": "https://www.hrady-zamky.sk/en/hricov/",
@@ -1585,6 +1204,7 @@
             "longitude": 18.42605
         },
         "accessible": false,
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "Hrušov castle stands on the top of a quartzite ridge of the Tribeč Mountains south of Skýcov village in the Zlaté Moravce district. The ruins are maintained by the Leustach association, which keeps the grounds in good condition. The site is freely accessible with parking available near the main road.",
         "homepage": "https://www.hrady-zamky.sk/en/hrusov/",
@@ -1618,6 +1238,7 @@
             "longitude": 18.23256
         },
         "accessible": false,
+        "built": "13th Century",
         "condition": "Intact",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -1634,6 +1255,7 @@
         "alternativeNames": [
             "Živanská veža"
         ],
+        "built": "13th Century",
         "condition": "Partial Ruins",
         "description": "Živanská veža (Živany Tower) is a ruined medieval watchtower near Jedľové Kostoľany in the Zlaté Moravce district, built to guard an important trade route. Only the northern part of the original tower has survived. The structure likely fell into disuse after 1708, around the same time as nearby Hrušov castle.",
         "homepage": "https://www.hrady-zamky.sk/en/zivanska-veza/",
@@ -1649,6 +1271,7 @@
             "longitude": 20.97039
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "Medieval castle ruins on a limestone ridge in the Čergov Mountains above Kamenica village. The fortress resisted the Hussites; Imperial forces later destroyed it and locals quarried its stones for a distillery.",
         "homepage": "https://www.hrady-zamky.sk/en/kamenica/",
@@ -1699,6 +1322,7 @@
             "longitude": 18.48482
         },
         "accessible": true,
+        "built": "1640",
         "condition": "Partially Restored",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -1712,6 +1336,7 @@
             "longitude": 18.59802
         },
         "accessible": true,
+        "built": "15th Century",
         "condition": "Intact",
         "description": "Originally a water fortification converted into a manor house in Kotešová (Bytča district); privately owned and available for accommodation rental.",
         "ownedBy": "Private",
@@ -1726,6 +1351,7 @@
             "longitude": 17.93325
         },
         "accessible": false,
+        "built": "15th Century",
         "condition": "Partial Ruins",
         "description": "Kaštieľ Lukáčovce is a Renaissance-era fortified manor house situated along the main road through Lukáčovce village in the Nitra district. First mentioned in the 15th century, the structure is currently closed and in a deteriorating state. It lies close to the Hrádok Lukáčovce motte site.",
         "ownedBy": "Slovak Republic",
@@ -1740,6 +1366,7 @@
             "longitude": 18.78834
         },
         "accessible": true,
+        "built": "16th Century",
         "condition": "Restored",
         "description": "Renaissance square residential tower in Radoľa (Kysucké Nové Mesto district) with cross vaults and comb ornamentation; houses a Kysucké Museum exhibition.",
         "homepage": "https://www.kysuckemuzeum.sk",
@@ -1755,6 +1382,7 @@
             "longitude": 18.11182
         },
         "accessible": false,
+        "built": "14th Century",
         "condition": "Partially Restored",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -1771,6 +1399,7 @@
         "alternativeNames": [
             "Streda nad Bodrogom kastély"
         ],
+        "built": "14th Century",
         "condition": "Partial Ruins",
         "description": "This Renaissance manor with an L-shaped floor plan stands on the site of a medieval fortress in Streda nad Bodrogom. Some medieval architectural elements remain visible within the later Renaissance construction. The building currently houses the local municipal office.",
         "ownedBy": "Slovak Republic",
@@ -1785,6 +1414,7 @@
             "longitude": 21.58306
         },
         "accessible": false,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "The castle at Kazimír left no surviving written records of its origins, and only a single wall fragment — likely from a palace building — survives beside the local church above the Izra stream. The remnants can be viewed via a small pavilion and stairway near the site.",
         "homepage": "https://www.hrady-zamky.sk/en/kazimir/",
@@ -1803,6 +1433,7 @@
         "alternativeNames": [
             "Kežmarský hrad"
         ],
+        "built": "1465",
         "condition": "Restored",
         "description": "The only completely preserved castle in the Spiš region, first documented in 1463. Houses multiple exhibitions on the development of Kežmarok city.",
         "homepage": "https://www.kezmarok.com/",
@@ -1841,6 +1472,7 @@
         "alternativeNames": [
             "Korlátko"
         ],
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "Gothic castle ruins on a rocky outcrop in the Little Carpathians near Cerová (Rozbehy), notable for being one of the few castles approached by going downhill. Relatively large ruins with scenic vistas.",
         "homepage": "https://www.hrady-zamky.sk/en/korlatka/",
@@ -1856,6 +1488,7 @@
             "longitude": 18.30739
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -1869,6 +1502,7 @@
             "longitude": 18.85017
         },
         "accessible": true,
+        "built": "15th Century",
         "condition": "Fragmented Remains",
         "description": "Ruined small castle above Kotrčiná Lúčka village (Žilina district) with well-preserved earthen ramparts and scenic views of the village.",
         "ownedBy": "Slovak Republic",
@@ -1883,6 +1517,7 @@
             "longitude": 18.84864
         },
         "accessible": true,
+        "built": "15th Century",
         "condition": "Fragmented Remains",
         "description": "Secondary ruined fortification above Kotrčiná Lúčka village (Žilina district); best visited together with Kotrčiná Lúčka I in a single excursion.",
         "ownedBy": "Slovak Republic",
@@ -1935,6 +1570,7 @@
             "longitude": 18.2113
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "homepage": "https://www.hradlednica.sk",
         "ownedBy": "Slovak Republic",
@@ -1967,6 +1603,7 @@
             "longitude": 18.60139
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "Levice castle is situated in the center of the town of Levice at the intersection of the Hronská floodplain and Ipeľ hilly country. The castle complex includes an adjacent manor house (kaštieľ) that houses the Tekovské Museum. The grounds are open to the public daily.",
         "homepage": "https://www.hrady-zamky.sk/en/levice/",
@@ -1982,6 +1619,7 @@
             "longitude": 19.31209
         },
         "accessible": true,
+        "built": "14th Century",
         "condition": "Partial Ruins",
         "description": "The largest castle in the Liptov region above Likava village; a royal guard castle with two accessible courtyards and Hunyad Tower; managed by Liptov Museum.",
         "homepage": "https://www.liptovskemuzeum.sk",
@@ -2000,6 +1638,7 @@
         "alternativeNames": [
             "Ľubovniansky hrad"
         ],
+        "built": "13th Century",
         "condition": "Partially Restored",
         "description": "A border guard fortress overlooking Stará Ľubovňa. Notable for housing Polish coronation jewels; replicas are on display. Open year-round with attractive exhibitions.",
         "homepage": "https://www.hradlubovna.sk/",
@@ -2030,6 +1669,7 @@
             "longitude": 18.85447
         },
         "accessible": true,
+        "built": "17th Century",
         "condition": "Partial Ruins",
         "description": "Small redoubt forming part of the 17th-century Malé Šance fortification complex in Čadca district; heavily overgrown but the earthworks remain identifiable.",
         "ownedBy": "Slovak Republic",
@@ -2081,6 +1721,7 @@
             "longitude": 21.48517
         },
         "accessible": true,
+        "built": "12th Century",
         "condition": "Ruins",
         "description": "A small fortified castle (hrádok) without a forecastle, initially commissioned by the Johannite Order and used by the Hussite Brethren in the mid-15th century. Situated on a rocky promontory with panoramic views.",
         "homepage": "https://www.hrady-zamky.sk/en/medzianky/",
@@ -2096,6 +1737,7 @@
             "longitude": 18.40972
         },
         "accessible": true,
+        "built": "11th Century",
         "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -2109,6 +1751,7 @@
             "longitude": 19.33326
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Partial Ruins",
         "description": "A gothic castle ruin with a preserved Baroque manor house directly above the town of Modrý Kameň in the Krupina Plateau. The Baroque manor now houses a toy museum. The site offers scenic views of the surrounding landscape.",
         "homepage": "https://www.hradmodrykamen.sk",
@@ -2124,6 +1767,7 @@
             "longitude": 18.87062
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "Ruined small castle on a hill beside a railway underpass in Nezbudská Lúčka (Žilina district); partially destroyed by railway construction; a chapel now occupies the site.",
         "ownedBy": "Slovak Republic",
@@ -2141,6 +1785,7 @@
         "alternativeNames": [
             "Nitriansky hrad"
         ],
+        "built": "9th Century",
         "condition": "Intact",
         "description": "Nitra Castle is the dominant landmark of the city of Nitra, situated on a limestone hill at 220 meters above sea level. It is one of Slovakia's oldest and best-preserved castle complexes, incorporating a cathedral that has been the seat of the Diocese of Nitra for over a millennium. Entry to the castle grounds is free, while cathedral tours require a ticket.",
         "homepage": "https://www.nitrianskyhrad.sk",
@@ -2175,6 +1820,7 @@
             "longitude": 18.84733
         },
         "accessible": true,
+        "built": "15th Century",
         "condition": "Fragmented Remains",
         "description": "A small siege fortification located approximately 350 metres south of Hrad Teplica, with recognisable earthwork ramparts. It functioned as an auxiliary military outpost during the castle's active period. Freely accessible via the green-marked trail heading south from Teplica Castle.",
         "ownedBy": "Slovak Republic",
@@ -2192,19 +1838,6 @@
         "built": "15th Century",
         "condition": "Fragmented Remains",
         "description": "City fortifications of the royal free town of Sabinov, construction ordered in 1474. Originally over 1,300 m of walls with 16 towers; only fragments on Ružová street survive today.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8823-4297e545ad65",
-        "name": "Opevnený bratrícky tábor/hrádok",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.69484,
-            "longitude": 18.20871
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -2236,6 +1869,7 @@
             "longitude": 18.15632
         },
         "accessible": false,
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "Oponický hrad is a ruined castle perched on a wooded quartzite rock southeast of the village of Oponice in the Tribeč Mountains, Topoľčany district. The ruins are considered among the most scenic in the Tribeč range and are freely accessible via a green-marked hiking trail. A picnic area is available near the castle.",
         "homepage": "https://www.hrady-zamky.sk/en/oponicky-hrad/",
@@ -2254,6 +1888,7 @@
         "alternativeNames": [
             "Oravský hrad"
         ],
+        "built": "13th Century",
         "condition": "Restored",
         "description": "Dominant landmark of the Orava region above the Orava River in Oravský Podzámok; one of Slovakia's most beautiful castles with multiple museum tour routes operated by Orava Museum.",
         "homepage": "https://www.oravskemuzeum.sk/expozicie/oravsky-hrad/otvaracie-hodiny/",
@@ -2269,6 +1904,7 @@
             "longitude": 17.3721
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "Castle ruins located on limestone cliffs of the Záruby ridge above Buková village near Smolenice, at 528 metres elevation. Features extensive remains with fireplaces and informational plaques.",
         "homepage": "https://www.hrady-zamky.sk/en/ostry-kamen/",
@@ -2284,6 +1920,7 @@
             "longitude": 17.08267
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "A large and scenic medieval castle ruin perched on a limestone rock in the Little Carpathians above the village of Borinka. The castle was destroyed by French forces in 1809 and is today one of the most visited castle ruins near Bratislava.",
         "homepage": "https://www.hrady-zamky.sk/en/pajstun/",
@@ -2299,21 +1936,9 @@
             "longitude": 21.7272
         },
         "accessible": false,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "Parič was a lowland water castle, formerly surrounded by moats, located in what is now a Trebišov city park. Only the western portion of a brick wall survives, the rest having been destroyed during feudal uprisings with the stone repurposed for a nearby manor house.",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8823-5f322d74df56",
-        "name": "Pevnosť Veľké Uherce",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.61143,
-            "longitude": 18.44458
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -2326,6 +1951,7 @@
             "longitude": 17.22224
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "Fragmentary medieval castle remains north of Pezinok, of which a significant portion was lost to quarrying operations. The site offers pleasant views and is best visited as a brief stop when touring the nearby Červený Kameň Castle.",
         "ownedBy": "Slovak Republic",
@@ -2340,6 +1966,7 @@
             "longitude": 17.24862
         },
         "accessible": true,
+        "built": "14th Century",
         "condition": "Fragmented Remains",
         "description": "A defunct medieval fortification above Pezinok town, surviving only as earthen ramparts and terraces on a forested hillside above a psychiatric hospital. Wild boar are present in the surrounding forest.",
         "ownedBy": "Slovak Republic",
@@ -2388,6 +2015,7 @@
             "longitude": 17.26862
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "A large castle ruin on a marginal limestone hill of the Little Carpathians directly above the village of Plavecké Podhradie, commanding expansive views over the Záhorie lowland. The site is freely accessible and popular with families.",
         "homepage": "https://www.hrady-zamky.sk/en/plavecky-hrad/",
@@ -2403,6 +2031,7 @@
             "longitude": 20.402
         },
         "accessible": false,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "Only a fragmentary section of the castle wall of Plešivec survives, located within a private residential garden on the edge of the Slovenský Kras karst region. The site is on private property and is viewable only from outside the fence.",
         "homepage": "https://www.hrady-zamky.sk/en/plesivec/",
@@ -2436,6 +2065,7 @@
         "alternativeNames": [
             "Hrad Bystrica"
         ],
+        "built": "13th Century",
         "condition": "Partial Ruins",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -2452,6 +2082,7 @@
         "alternativeNames": [
             "Husitské hradby"
         ],
+        "built": "17th Century",
         "condition": "Partial Ruins",
         "description": "Fortifications of uncertain origin with a trapezoid ground plan and 61 shooting ports, locally called Hussite fortifications. May have served as anti-Turkish defences; exact historical origins unknown.",
         "ownedBy": "Slovak Republic",
@@ -2466,6 +2097,7 @@
             "longitude": 18.63531
         },
         "accessible": true,
+        "built": "11th Century",
         "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -2482,6 +2114,7 @@
         "alternativeNames": [
             "Pustý hrad Zvolen"
         ],
+        "built": "9th Century",
         "condition": "Ruins",
         "description": "One of the largest castle complexes in Slovakia, consisting of upper and lower castles above Zvolen. Among the oldest medieval castles in Slovakia, with the lower castle discovered relatively recently. A buffet operates between the two levels during summer.",
         "homepage": "https://www.hrady-zamky.sk/en/pusty-hrad/",
@@ -2512,6 +2145,7 @@
             "longitude": 18.62161
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "Only the last stone wall remnants confirmed by archaeological research survive near Dubová hill above Jasenové (Žilina district); educational trail and a lookout tower on site.",
         "ownedBy": "Slovak Republic",
@@ -2526,6 +2160,7 @@
             "longitude": 18.72276
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Partially Restored",
         "description": "A medieval fortress on a steep andesite hill above the Hron River, managed by the Association for the Rescue of Revište Castle since 2011. Active restoration is ongoing and the site hosts regular cultural events. An educational trail with eight information panels leads from the free parking area.",
         "homepage": "https://www.hrady-zamky.sk/en/reviste/",
@@ -2541,6 +2176,7 @@
             "longitude": 20.92519
         },
         "accessible": false,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "The last remnants of Richnava castle are found along an inconspicuous alley in the village, with wall sections straddling the boundary between a private residence and the public street. Most of the original stonework was removed and repurposed for the construction of the nearby Kluknava manor. An information plaque marks the site.",
         "ownedBy": "Slovak Republic",
@@ -2555,6 +2191,7 @@
             "longitude": 18.1976
         },
         "accessible": true,
+        "built": "11-12th Century",
         "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -2568,6 +2205,7 @@
             "longitude": 16.97195
         },
         "accessible": true,
+        "built": "9th Century",
         "condition": "Fragmented Remains",
         "description": "A well-known archaeological site with educational trails near Bratislava, featuring the still-discernible earthwork rampart of a medieval fortification situated above a former quarry. The site pairs naturally with a visit to nearby Devín Castle.",
         "ownedBy": "Slovak Republic",
@@ -2582,6 +2220,7 @@
             "longitude": 18.90007
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Partially Restored",
         "description": "A partially preserved medieval fortress above the Hron River, maintained by the Association for the Rescue of Šášov Castle since 2003. A significant portion of the structure survives with ongoing volunteer restoration. The castle hosts periodic guided night tours.",
         "homepage": "https://www.hrady-zamky.sk/en/sasov/",
@@ -2597,6 +2236,7 @@
             "longitude": 21.35607
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "A small medieval castle above Podhradík village near Prešov on an andesite hill, rebuilt from wood to stone. Only final wall remnants survive; deliberately burned by the residents and magistrate of Prešov.",
         "ownedBy": "Slovak Republic",
@@ -2611,20 +2251,8 @@
             "longitude": 18.39097
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Partially Restored",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8823-b0340e5e0639",
-        "name": "Šípkov",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.85346,
-            "longitude": 18.29799
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -2637,6 +2265,7 @@
             "longitude": 18.87638
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "Castle ruins occupying the site of a former fortified settlement on Sitno hill at 860 metres in the Štiavnice Mountains, offering some of the most scenic castle views in Slovakia. Two hiking routes exist: an easier asphalt road from Svätý Anton or a more challenging marked trail from Lake Počúvadlo. Freely accessible.",
         "homepage": "https://www.hrady-zamky.sk/en/sitno/",
@@ -2652,6 +2281,7 @@
             "longitude": 18.63885
         },
         "accessible": true,
+        "built": "14th Century",
         "condition": "Ruins",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -2665,25 +2295,12 @@
             "longitude": 19.01907
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Partial Ruins",
         "description": "Largest fortress in the Turiec region above Sklabinský Podzámok (Martin district); cared for by the DONJON association with a small museum, local cheese and sausage sales.",
         "homepage": "https://www.hrady-zamky.sk/en/sklabina/",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ad-72fd-8823-c370567bef5c",
-        "name": "Slovenské Pravno",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.90888,
-            "longitude": 18.7593
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "Nearly defunct small castle above Slovenské Pravno (Turčianske Teplice district) with distinctly visible earthen ramparts and remaining wall fragments.",
-        "ownedBy": "Slovak Republic",
-        "type": "Motte and Bailey"
     },
     {
         "id": "019dcf2c-09ad-72fd-8823-c5e9184ea065",
@@ -2712,6 +2329,7 @@
             "longitude": 19.85718
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "A castle ruin on a conical basalt hill in the Cerová vrchovina range on the Slovak–Hungarian border. The Slovak approach features an interesting stone waterfall and stone sea geological formations. The site is very photogenic with views of the nearby Hungarian castle Salgó vára.",
         "homepage": "https://www.hrady-zamky.sk/en/somoska/",
@@ -2727,6 +2345,7 @@
             "longitude": 19.91204
         },
         "accessible": true,
+        "built": "13-14th Century",
         "condition": "Fragmented Remains",
         "description": "Practically nothing has been preserved of this castle above Šurice village; only a cistern and stone-carved steps remain on a rare rock formation. The site features a pavilion and informational signs with a short 10–15 minute woodland trail to the summit. Freely accessible.",
         "homepage": "https://www.hrady-zamky.sk/en/sovi-hrad/",
@@ -2762,6 +2381,7 @@
             "longitude": 20.46274
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Partial Ruins",
         "description": "A fortified church of St. Ladislaus with surrounding defensive walls and an earthen rampart visible on the northern side, located at the centre of Spišský Štvrtok village.",
         "ownedBy": "Slovak Republic",
@@ -2794,6 +2414,7 @@
         "alternativeNames": [
             "Starhrad pri Varíne"
         ],
+        "built": "13th Century",
         "condition": "Partial Ruins",
         "description": "One of Slovakia's most beautiful castle ruins forming a distinctive landmark above the Váh River near Varín; maintained by the Castrum Warna association.",
         "ownedBy": "Slovak Republic",
@@ -2811,6 +2432,7 @@
         "alternativeNames": [
             "Old Castle Banská Štiavnica"
         ],
+        "built": "13th Century",
         "condition": "Restored",
         "description": "A municipal castle in the centre of Banská Štiavnica created by the reconstruction of a fortified church. The castle houses multiple exhibitions including mining displays, municipal history, and weapons collections. Managed by the regional museum.",
         "homepage": "https://www.hrady-zamky.sk/en/stary-zamok/",
@@ -2847,6 +2469,7 @@
         "alternativeNames": [
             "Strečno"
         ],
+        "built": "14th Century",
         "condition": "Partially Restored",
         "description": "Reconstructed ruin on a rocky cliff of Malá Fatra above the Váh River; operated by Považské Museum; exceptional panoramic views of the Váh valley.",
         "homepage": "https://www.muzeum.sk/hrad-strecno.html",
@@ -2894,6 +2517,7 @@
             "longitude": 18.01482
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -2907,6 +2531,7 @@
             "longitude": 19.06847
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Fragmented Remains",
         "description": "Castle ruin in the hills above Podhradie (Martin district) accessed via a green-marked trail along Hradský stream; practically nothing of the structure survives.",
         "ownedBy": "Slovak Republic",
@@ -2921,6 +2546,7 @@
             "longitude": 18.58339
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "One of Slovakia's least accessible castles on a conglomerate hill at 660 m in the Súľov Mountains (Bytča district); originally consisting of lower and upper sections; trail includes ladders.",
         "homepage": "https://www.hrady-zamky.sk/en/sulov/",
@@ -2956,6 +2582,7 @@
             "longitude": 17.92919
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Partial Ruins",
         "homepage": "https://www.tematin.eu",
         "ownedBy": "Slovak Republic",
@@ -2970,6 +2597,7 @@
             "longitude": 18.0492
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "description": "Topoľčiansky hrad is a ruined castle rising above the village of Podhradie on a partially wooded dolomite hill in the Považský Inovec range, Topoľčany district. It serves as the dominant landmark of the surrounding area and is visible from a considerable distance. Seasonal free access is available via a short trail from the village church.",
         "homepage": "https://www.topolcianskyhrad.sk",
@@ -2985,6 +2613,7 @@
             "longitude": 20.32124
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Rebuilt",
         "description": "The original small fortified tower at this site no longer exists; an artificially created folly ruin was constructed in the 19th century in its place. Located above an amphitheatre in the municipal park of Tornaľa. Freely accessible via a short 10-minute walk from parking near the local château.",
         "ownedBy": "Slovak Republic",
@@ -3002,6 +2631,7 @@
         "alternativeNames": [
             "Trenčiansky hrad"
         ],
+        "built": "11th Century",
         "condition": "Partially Restored",
         "homepage": "https://www.muzeumtn.sk",
         "ownedBy": "Trenčín Museum",
@@ -3016,6 +2646,7 @@
             "longitude": 18.30629
         },
         "accessible": true,
+        "built": "16th Century",
         "condition": "Restored",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -3029,6 +2660,7 @@
             "longitude": 18.52559
         },
         "accessible": true,
+        "built": "16th Century",
         "condition": "Restored",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -3042,6 +2674,7 @@
             "longitude": 18.39125
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -3074,6 +2707,7 @@
         "alternativeNames": [
             "Vígľašský zámok"
         ],
+        "built": "14th Century",
         "condition": "Restored",
         "description": "A robust reconstructed castle set on a low hill spur of the Javorie range, surrounded by the Slatina River in Vígľaš village near Zvolen. Comprehensively restored and now operated as a luxury hotel.",
         "ownedBy": "Private",
@@ -3091,6 +2725,7 @@
         "alternativeNames": [
             "Hronsek Water Castle"
         ],
+        "built": "14th Century",
         "condition": "Partially Restored",
         "description": "A water castle in Hronsek village undergoing reconstruction, accompanied by a wooden church and manor house within the same settlement. Located directly in the village and easy to find.",
         "ownedBy": "Slovak Republic",
@@ -3105,38 +2740,8 @@
             "longitude": 18.15078
         },
         "accessible": true,
+        "built": "13th Century",
         "condition": "Ruins",
-        "ownedBy": "Slovak Republic",
-        "type": "Unknown"
-    },
-    {
-        "id": "019dcf2c-09ae-752a-ad4c-c22f46f4d4b1",
-        "name": "Zábaštie – predsunutá pevnosť",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.5777,
-            "longitude": 18.90243
-        },
-        "accessible": true,
-        "condition": "Fragmented Remains",
-        "description": "A forward outpost fortress that served as an advanced defensive position for nearby Šášov Castle. The site features surviving wall fragments and an earthen rampart on a hilltop. Approximately 15 minutes from Šášov Castle via the green-marked trail with a steep ascent.",
-        "ownedBy": "Slovak Republic",
-        "type": "Fort"
-    },
-    {
-        "id": "019dcf2c-09ae-752a-ad4c-c55210c1fcbd",
-        "name": "Žakýl",
-        "country": "SK",
-        "coordinates": {
-            "latitude": 48.50827,
-            "longitude": 18.93474
-        },
-        "accessible": true,
-        "alternativeNames": [
-            "Brezový hrad"
-        ],
-        "condition": "Fragmented Remains",
-        "description": "A defunct medieval castle featuring extensive earthwork ramparts and two excavated underground galleries connected to a cistern system, but no surviving masonry walls or towers. A blue-marked trail leads through scenic fields and forest with a maintained fireplace and seating area. Freely accessible.",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
     },
@@ -3149,6 +2754,7 @@
             "longitude": 18.24843
         },
         "accessible": false,
+        "built": "14th Century",
         "condition": "Rebuilt",
         "ownedBy": "Slovak Republic",
         "type": "Unknown"
@@ -3180,6 +2786,7 @@
         "alternativeNames": [
             "Zvolenský hrad"
         ],
+        "built": "1360",
         "condition": "Restored",
         "description": "A preserved originally gothic castle with renaissance superstructure in the centre of Zvolen city, operated by the Slovak National Gallery. The castle is a national cultural monument hosting gallery exhibitions and available for event rental.",
         "homepage": "https://www.hrady-zamky.sk/en/zvolensky-hrad/",
