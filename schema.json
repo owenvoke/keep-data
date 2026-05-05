@@ -32,6 +32,7 @@
                 "type": "boolean"
             },
             "alternativeNames": {
+                "$comment": "Use an English version if available, for non-English names include the translation in brackets.",
                 "description": "The alternative names of the castle or fortification.",
                 "type": "array",
                 "items": {
@@ -53,7 +54,7 @@
             },
             "homepage": {
                 "$comment": "Use an English version if available.",
-                "description": "The homepage of the castle or fortification.",
+                "description": "The official homepage of the castle or fortification.",
                 "type": "string",
                 "format": "uri-reference"
             },
