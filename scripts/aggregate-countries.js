@@ -129,11 +129,11 @@ async function main () {
     meta.hashes[allFileName] = await hashFile(allFileName)
     for (const file of allFiles) {
         meta.hashes[file] = await hashFile(file)
-        meta.countries.push(file.replace('.json', ''))
+        meta.countries.push(file.replace('.json', '').toUpperCase())
     }
     for (const file of regionFiles) {
         meta.hashes[file] = await hashFile(file)
-        meta.regions.push(file.replace('.json', ''))
+        meta.regions.push(file.replace('.json', '').toUpperCase())
     }
     await writeFile(path.join(dataDir, '.meta.json'), `${JSON.stringify(meta)}\n`, 'utf8')
 
