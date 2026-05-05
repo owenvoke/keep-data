@@ -6,7 +6,7 @@ destination: .build
 
 # Files
 include:
-  - 'data/.meta.json'
+  - .meta.json
 
 # Files
 exclude:
