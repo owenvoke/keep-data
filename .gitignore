@@ -1,4 +1,5 @@
 /.build/
+/data/.meta.json
 /data/all.json
 /data/gb.json
 /data/*.md

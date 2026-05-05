@@ -6,7 +6,7 @@
         "z-schema": "^12.2.0"
     },
     "scripts": {
-        "clean": "test -f data/gb.json && rm data/gb.json || true && test -f data/all.json && rm data/all.json || true && rm data/*.md || true",
+        "clean": "test -f data/.meta.json && rm data/.meta.json || true && test -f data/all.json && rm data/all.json || true && test -f data/gb.json && rm data/gb.json || true && rm data/*.md || true",
         "format": "npm run clean && node scripts/format.js",
         "markdown": "node scripts/generate-markdown.js",
         "build": "npm run clean && node scripts/aggregate-countries.js && npm run markdown",

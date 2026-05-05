@@ -6,6 +6,9 @@
 
 The combined JSON data is available [here](data/all.json).
 
+The [`data/.meta.json`](data/.meta.json) file can be used to check additional
+data such as the available countries and hashes.
+
 ## Countries
 
 <!-- COUNTRIES -->

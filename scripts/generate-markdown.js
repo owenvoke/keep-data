@@ -207,7 +207,7 @@ async function updateReadmeCountriesSection (files) {
 
 async function main () {
     const files = (await readdir(dataDir)).
-        filter((file) => file.endsWith('.json') && file !== 'all.json').
+        filter((file) => file.endsWith('.json') && ! ['.meta.json', 'all.json'].includes(file)).
         sort((a, b) => a.localeCompare(b))
 
     let written = 0

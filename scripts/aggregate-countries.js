@@ -1,3 +1,4 @@
+import { createHash } from 'node:crypto'
 import { readdir, readFile, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -118,6 +119,23 @@ async function main () {
 
     allEntries.sort(sortByName)
     await writeFile(path.join(dataDir, allFileName), `${JSON.stringify(allEntries)}\n`, 'utf8')
+
+    const hashFile = async (file) => {
+        const content = await readFile(path.join(dataDir, file))
+        return createHash('sha1').update(content).digest('hex')
+    }
+
+    const meta = {hashes: {}, countries: [], regions: []}
+    meta.hashes[allFileName] = await hashFile(allFileName)
+    for (const file of allFiles) {
+        meta.hashes[file] = await hashFile(file)
+        meta.countries.push(file.replace('.json', ''))
+    }
+    for (const file of regionFiles) {
+        meta.hashes[file] = await hashFile(file)
+        meta.regions.push(file.replace('.json', ''))
+    }
+    await writeFile(path.join(dataDir, '.meta.json'), `${JSON.stringify(meta)}\n`, 'utf8')
 
     reportInfo(
         `Aggregated ${countryList.length} country file(s) from ${regionFiles.length} region file(s). Generated data/all.json from ${allFiles.length} country file(s).`)
