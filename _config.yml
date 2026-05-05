@@ -5,6 +5,10 @@ title: Keep
 destination: .build
 
 # Files
+include:
+  - 'data/.meta.json'
+
+# Files
 exclude:
   - node_modules/
   - package.json
