@@ -117,5 +117,166 @@
         "condition": "Intact",
         "ownedBy": "Hamilton Family",
         "type": "Square Keep"
+    },
+    {
+        "name": "Audley's Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.37958,
+            "longitude": -5.57194
+        },
+        "built": "15-16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/audleys-castle",
+        "ownedBy": "Northern Ireland Environment Agency",
+        "type": "Tower House"
+    },
+    {
+        "name": "Quoile Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.34985,
+            "longitude": -5.69947
+        },
+        "built": "16-17th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/quoile-castle",
+        "ownedBy": "Northern Ireland Environment Agency",
+        "type": "Tower House"
+    },
+    {
+        "name": "Sketrick Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.48821,
+            "longitude": -5.64812
+        },
+        "built": "12-16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/sketrick-castle",
+        "ownedBy": "Northern Ireland Environment Agency",
+        "type": "Tower House"
+    },
+    {
+        "name": "Belfast Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.6428,
+            "longitude": -5.9422
+        },
+        "built": "12-19th Century",
+        "condition": "Restored",
+        "homepage": "https://www.belfastcity.gov.uk/belfastcastle",
+        "ownedBy": "Belfast City Council",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Castle Lug",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.68881,
+            "longitude": -5.86999
+        },
+        "alternativeNames": [
+            "Castle Lugg",
+            "Cloughnalarty",
+            "Cloughlougherty"
+        ],
+        "built": "15-16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/castle-lug",
+        "ownedBy": "Northern Ireland Environment Agency",
+        "type": "Tower House"
+    },
+    {
+        "name": "Olderfleet Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.84276,
+            "longitude":-5.8008
+        },
+        "built": "13-17th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/olderfleet-castle",
+        "ownedBy": "Northern Ireland Environment Agency",
+        "type": "Tower House"
+    },
+    {
+        "name": "Ballygally Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.89929,
+            "longitude": -5.86144
+        },
+        "built": "17th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Tower House"
+    },
+    {
+        "name": "Red Bay Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 55.0674,
+            "longitude": -6.05528
+        },
+        "accessible": false,
+        "built": "17th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
+        "type": "Fort"
+    },
+    {
+        "name": "Kinbane Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 55.22947,
+            "longitude": -6.29126
+        },
+        "built": "17th Century",
+        "condition": "Earthworks",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/kinbane-castle",
+        "ownedBy": "Northern Ireland Environment Agency",
+        "type": "Fort"
+    },
+    {
+        "name": "Benburb Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.40998,
+            "longitude": -6.7461
+        },
+        "alternativeNames": [
+            "Wingfield Bawn"
+        ],
+        "built": "17th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://benburbpriory.com/what-we-offer/benburb-castle",
+        "ownedBy": "Benburb Priory",
+        "type": "Keepless"
+    },
+    {
+        "name": "Narrow Water Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.11118,
+            "longitude":-6.27972
+        },
+        "built": "16th Century",
+        "condition": "Intact",
+        "homepage": "https://narrowwatercastle.co.uk",
+        "ownedBy": "Private",
+        "type": "Tower House"
     }
 ]
