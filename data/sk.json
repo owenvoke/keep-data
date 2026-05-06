@@ -273,7 +273,7 @@
         "condition": "Fragmented Remains",
         "description": "An Árpádian-era frontier stronghold whose name derives from its role in the salt trade. A Baroque Church of St. Stephen of Hungary now stands on the site.",
         "ownedBy": "Slovak Republic",
-        "type": "Unknown"
+        "type": "Fort"
     },
     {
         "id": "019dcf2c-09ad-72fd-8821-4f1b2a0e93f7",
@@ -402,7 +402,7 @@
         "condition": "Partial Ruins",
         "description": "A partially preserved castle ruin on a wooded hill directly above the village of Divín. The site includes a manor house and fortified church, and features a newly discovered cave beneath the castle. Paid admission, open daily 9:00–17:00.",
         "ownedBy": "Slovak Republic",
-        "type": "Unknown"
+        "type": "Fortified Manor House"
     },
     {
         "id": "019dcf2c-09ad-72fd-8821-73450385cc83",
@@ -2682,8 +2682,9 @@
         "built": "14th Century",
         "condition": "Partially Restored",
         "description": "A water castle in Hronsek village undergoing reconstruction, accompanied by a wooden church and manor house within the same settlement. Located directly in the village and easy to find.",
+        "homepage": "https://vodnyhradhronsek.sk/en",
         "ownedBy": "Slovak Republic",
-        "type": "Unknown"
+        "type": "Fortified Manor House"
     },
     {
         "id": "019dcf2c-09ae-752a-ad4c-bdfdc899bea0",
