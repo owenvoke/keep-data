@@ -127,20 +127,6 @@
         "type": "Tower House"
     },
     {
-        "id": "019e01d1-bb92-7517-82bf-9b599eae3f5d",
-        "name": "Castle Roche",
-        "country": "GB",
-        "region": "GB-NIR",
-        "coordinates": {
-            "latitude": 54.04646,
-            "longitude": -6.48831
-        },
-        "built": "13th Century",
-        "condition": "Ruins",
-        "ownedBy": "Private",
-        "type": "Square Keep"
-    },
-    {
         "id": "019d6d0a-bb30-721d-b925-45bf9790794c",
         "name": "Clough Castle",
         "country": "GB",
@@ -152,7 +138,7 @@
         "built": "12-13th Century",
         "condition": "Ruins",
         "homepage": "https://www.communities-ni.gov.uk/heritage-sites/clough-castle",
-        "ownedBy": "State Care Historic Monument",
+        "ownedBy": "Northern Ireland Environment Agency",
         "type": "Motte and Bailey"
     },
     {
@@ -167,7 +153,7 @@
         "built": "13th Century",
         "condition": "Ruins",
         "homepage": "https://www.communities-ni.gov.uk/heritage-sites/dundrum-castle",
-        "ownedBy": "State Care Historic Monument",
+        "ownedBy": "Northern Ireland Environment Agency",
         "type": "Round Keep"
     },
     {
@@ -212,7 +198,7 @@
         "built": "13th Century",
         "condition": "Ruins",
         "homepage": "https://www.communities-ni.gov.uk/heritage-sites/greencastle",
-        "ownedBy": "State Care Historic Monument",
+        "ownedBy": "Northern Ireland Environment Agency",
         "type": "Square Keep"
     },
     {
