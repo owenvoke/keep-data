@@ -289,5 +289,91 @@
         "homepage": "https://www.communities-ni.gov.uk/heritage-sites/sketrick-castle",
         "ownedBy": "Northern Ireland Environment Agency",
         "type": "Tower House"
+    },
+    {
+        "name": "Moyry Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.07022,
+            "longitude": -6.38523
+        },
+        "built": "17th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/moyry-castle",
+        "ownedBy": "Northern Ireland Environment Agency",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Castle Roche",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.04646,
+            "longitude": -6.48831
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Belle Isle Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.26869,
+            "longitude": -7.55557
+        },
+        "built": "18th Century",
+        "condition": "Intact",
+        "homepage": "https://belle-isle.com",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Enniskillen Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.34612,
+            "longitude": -7.6447
+        },
+        "built": "15-16th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.enniskillencastle.co.uk",
+        "ownedBy": "Fermanagh & Omagh District Council",
+        "type": "Tower House"
+    },
+    {
+        "name": "Monea Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.39263,
+            "longitude": -7.74743
+        },
+        "built": "17th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.communities-ni.gov.uk/heritage-sites/monea-castle",
+        "ownedBy": "Northern Ireland Environment Agency",
+        "type": "Tower House"
+    },
+    {
+        "name": "Necarne Castle",
+        "country": "GB",
+        "region": "GB-NIR",
+        "coordinates": {
+            "latitude": 54.46306,
+            "longitude": -7.63704
+        },
+        "alternativeNames": [
+            "Castle Irvine"
+        ],
+        "built": "17th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://www.castleirvine.com",
+        "ownedBy": "Northern Ireland Environment Agency",
+        "type": "Fortified Manor House"
     }
 ]
