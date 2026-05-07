@@ -363,5 +363,309 @@
         "homepage": "https://heritageireland.ie/visit/places-to-visit/trim-castle",
         "ownedBy": "Office of Public Works",
         "type": "Round Keep"
+    },
+    {
+        "name": "Glenquin Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.38388,
+            "longitude": -9.10682
+        },
+        "built": "15-16th Century",
+        "condition": "Intact",
+        "homepage": "https://heritageireland.ie/unguided-sites/glenquin-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "name": "Springfield Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.35198,
+            "longitude": -8.95546
+        },
+        "built": "15th Century",
+        "condition": "Intact",
+        "homepage": "https://springfieldcastle.com",
+        "ownedBy": "Private",
+        "type": "Square Keep"
+    },
+    {
+        "name": "King John's Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.66973,
+            "longitude": -8.6255
+        },
+        "alternativeNames": [
+            "Limerick Castle"
+        ],
+        "built": "13th Century",
+        "condition": "Restored",
+        "homepage": "https://kingjohnscastle.ie",
+        "ownedBy": "Limerick City and County Council",
+        "type": "Tower House"
+    },
+    {
+        "name": "Ballyhack Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.24592,
+            "longitude": -6.96749
+        },
+        "built": "15th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://heritageireland.ie/places-to-visit/ballyhack-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "name": "Lismore Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.14067,
+            "longitude": -7.93211
+        },
+        "built": "16th Century",
+        "condition": "Partially Restored",
+        "ownedBy": "Private",
+        "type": "Tower House"
+    },
+    {
+        "name": "Conna Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.09439,
+            "longitude": -8.10175
+        },
+        "built": "16th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://heritageireland.ie/unguided-sites/conna-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "name": "Blackwater Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.17038,
+            "longitude": -8.46043
+        },
+        "alternativeNames": [
+            "Castle Widenham"
+        ],
+        "built": "12th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://www.blackwatercastle.com",
+        "ownedBy": "Private",
+        "type": "Round Keep"
+    },
+    {
+        "name": "Mallow Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.1339,
+            "longitude": -8.6394
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/mallow-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Kanturk Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.16491,
+            "longitude": -8.90279
+        },
+        "alternativeNames": [
+            "The Old Court"
+        ],
+        "built": "17th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/kanturk-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Fortified Manor House"
+    },
+    {
+        "name": "Ross Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.04124,
+            "longitude": -9.53146
+        },
+        "built": "15th Century",
+        "condition": "Restored",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/ross-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "name": "Macroom Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.90518,
+            "longitude": -8.9622
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "ownedBy": "The People of Macroom",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Blarney Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.92909,
+            "longitude": -8.57088
+        },
+        "built": "15th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://blarneycastle.ie",
+        "ownedBy": "Private",
+        "type": "Square Keep"
+    },
+    {
+        "name": "Barryscourt Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.90457,
+            "longitude": -8.25922
+        },
+        "built": "14-15th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/places-to-visit/barryscourt-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "name": "Kilcrea Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.86507,
+            "longitude": -8.7185
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
+        "type": "Tower House"
+    },
+    {
+        "name": "Ballinskelligs Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.82003,
+            "longitude": -10.27026
+        },
+        "alternativeNames": [
+            "McCarthy Mór Castle"
+        ],
+        "built": "16th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
+        "type": "Tower House"
+    },
+    {
+        "name": "Ballycarbery Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.94886,
+            "longitude": -10.25866
+        },
+        "accessible": false,
+        "built": "16th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
+        "type": "Tower House"
+    },
+    {
+        "name": "Belvelly Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.8881,
+            "longitude": -8.3024
+        },
+        "accessible": false,
+        "built": "14-15th Century",
+        "condition": "Restored",
+        "ownedBy": "Private",
+        "type": "Tower House"
+    },
+    {
+        "name": "Carriganass Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.754,
+            "longitude": -9.379
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://carriganasscastle.com",
+        "ownedBy": "Community / Carriganass Development Association",
+        "type": "Tower House"
+    },
+    {
+        "name": "Castle Donovan",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.69205,
+            "longitude": -9.28276
+        },
+        "alternativeNames": [
+            "Castledonovan",
+            "O'Donovan's Castle"
+        ],
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/castledonovan-castle",
+        "ownedBy": "Office Of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "name": "Kilcoe Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.54024,
+            "longitude": -9.41442
+        },
+        "accessible": false,
+        "built": "15th Century",
+        "condition": "Restored",
+        "ownedBy": "Private",
+        "type": "Tower House"
+    },
+    {
+        "name": "Dunlough Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.48277,
+            "longitude": -9.82944
+        },
+        "accessible": true,
+        "alternativeNames": [
+            "Three Castles"
+        ],
+        "built": "13th Century",
+        "condition": "Partial Ruins",
+        "ownedBy": "Private",
+        "type": "Tower House"
+    },
+    {
+        "name": "Dunasead Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.48356,
+            "longitude": -9.37306
+        },
+        "alternativeNames": [
+            "Dún na Séad Castle"
+        ],
+        "built": "13-14th Century",
+        "condition": "Restored",
+        "homepage": "https://www.baltimorecastle.ie",
+        "ownedBy": "Private",
+        "type": "Tower House"
     }
 ]
