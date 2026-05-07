@@ -16,6 +16,7 @@ data such as the available countries and hashes.
 - [Denmark](data/dk) ([JSON](data/dk.json))
 - [Germany](data/de) ([JSON](data/de.json))
 - [Guernsey](data/gg) ([JSON](data/gg.json))
+- [Ireland](data/ie) ([JSON](data/ie.json))
 - [Jersey](data/je) ([JSON](data/je.json))
 - [Norway](data/no) ([JSON](data/no.json))
 - [Poland](data/pl) ([JSON](data/pl.json))

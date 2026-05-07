@@ -1,73 +1,6 @@
 [
     {
-        "id": "019e01d1-bb92-7517-82bf-9b599eae3f5d",
-        "name": "Castle Roche",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 54.04646,
-            "longitude": -6.48831
-        },
-        "built": "13th Century",
-        "condition": "Ruins",
-        "ownedBy": "Private",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Carrickabraghy Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 55.31633,
-            "longitude": -7.37267
-        },
-        "built": "16th Century",
-        "condition": "Partially Restored",
-        "homepage": "https://carrickabraghycastle.com",
-        "ownedBy": "Carrickabraghy Restoration Society",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Doe Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 55.135,
-            "longitude": -7.864
-        },
-        "alternativeNames": [
-            "Caisleán na dTuath"
-        ],
-        "built": "15th Century",
-        "condition": "Restored",
-        "homepage": "https://heritageireland.ie/places-to-visit/doe-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Donegal Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 54.65505,
-            "longitude": -8.11046
-        },
-        "built": "15-17th Century",
-        "condition": "Partially Restored",
-        "homepage": "https://heritageireland.ie/places-to-visit/donegal-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Markree Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 54.17436,
-            "longitude": -8.46139
-        },
-        "built": "14-17th Century",
-        "condition": "Restored",
-        "homepage": "https://www.markreecastle.ie",
-        "ownedBy": "Private",
-        "type": "Fortified Manor House"
-    },
-    {
+        "id": "019e02b7-3d81-77e6-8f33-b0ba8d73125c",
         "name": "Ashford Castle",
         "country": "IE",
         "coordinates": {
@@ -81,31 +14,21 @@
         "type": "Fortified Manor House"
     },
     {
-        "name": "Ballinlough Castle",
+        "id": "019e02b7-3d81-77e6-8f33-c33e4cd38c43",
+        "name": "Athenry Castle",
         "country": "IE",
         "coordinates": {
-            "latitude": 53.63664,
-            "longitude": -7.02576
+            "latitude": 53.30014,
+            "longitude": -8.74432
         },
-        "built": "17th Century",
-        "condition": "Intact",
-        "ownedBy": "Private",
-        "type": "Fortified Manor House"
-    },
-    {
-        "name": "Trim Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.55431,
-            "longitude": -6.78968
-        },
-        "built": "12th Century",
+        "built": "13th Century",
         "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/trim-castle",
+        "homepage": "https://heritageireland.ie/places-to-visit/athenry-castle",
         "ownedBy": "Office of Public Works",
-        "type": "Round Keep"
+        "type": "Tower House"
     },
     {
+        "id": "019e02b7-3d81-77e6-8f33-be35a64225d0",
         "name": "Athlone Castle",
         "country": "IE",
         "coordinates": {
@@ -122,47 +45,49 @@
         "type": "Round Keep"
     },
     {
-        "name": "Athenry Castle",
+        "id": "019e02b7-3d81-77e6-8f33-b48f9679223c",
+        "name": "Ballinlough Castle",
         "country": "IE",
         "coordinates": {
-            "latitude": 53.30014,
-            "longitude": -8.74432
+            "latitude": 53.63664,
+            "longitude": -7.02576
         },
-        "built": "13th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/places-to-visit/athenry-castle",
-        "ownedBy": "Office of Public Works",
+        "built": "17th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Fortified Manor House"
+    },
+    {
+        "id": "019e02b7-3d81-77e6-8f33-e56e57e0154a",
+        "name": "Birr Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.09536,
+            "longitude": -7.91476
+        },
+        "accessible": false,
+        "built": "12th Century",
+        "condition": "Restored",
+        "homepage": "https://birrcastle.com",
+        "ownedBy": "The Birr Scientific and Heritage Foundation",
+        "type": "Fortified Manor House"
+    },
+    {
+        "id": "019e02b7-3d81-77e6-8f33-f70cc893c77b",
+        "name": "Bunratty Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.6966,
+            "longitude": -8.81209
+        },
+        "built": "15th Century",
+        "condition": "Restored",
+        "homepage": "https://www.bunrattycastle.ie",
+        "ownedBy": "The Clare Collection",
         "type": "Tower House"
     },
     {
-        "name": "Menlo Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.29657,
-            "longitude": -9.0735
-        },
-        "alternativeNames": [
-            "Blake Castle"
-        ],
-        "built": "16th Century",
-        "condition": "Ruins",
-        "homepage": "https://www.galwaytourism.ie/menlo-castle",
-        "ownedBy": "Galway City Council",
-        "type": "Tower House"
-    },
-    {
-        "name": "Swords Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.45949,
-            "longitude": -6.22022
-        },
-        "built": "13th Century",
-        "condition": "Partially Restored",
-        "ownedBy": "Fingal County Council",
-        "type": "Square Keep"
-    },
-    {
+        "id": "019e02b7-3d81-77e6-8f33-cf2a39c1a0dd",
         "name": "Cahir Castle",
         "country": "IE",
         "coordinates": {
@@ -176,34 +101,149 @@
         "type": "Square Keep"
     },
     {
-        "name": "Malahide Castle",
+        "id": "019e02b7-3d81-77e6-8f33-efcfa19e8f6f",
+        "name": "Carlow Castle",
         "country": "IE",
         "coordinates": {
-            "latitude": 53.44492,
-            "longitude": -6.16454
+            "latitude": 52.8363,
+            "longitude": -6.93594
         },
-        "built": "12th Century",
-        "condition": "Restored",
-        "homepage": "https://malahidecastleandgardens.ie",
-        "ownedBy": "Fingal County Council",
-        "type": "Fortified Manor House"
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/carlow-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Square Keep"
     },
     {
-        "name": "O'Brien's Castle",
+        "id": "019e02b7-3d81-77e6-8f33-f35501aa3150",
+        "name": "Carlow Castle",
         "country": "IE",
         "coordinates": {
-            "latitude": 53.06202,
-            "longitude": -9.51925
+            "latitude": 52.79387,
+            "longitude": -8.83175
+        },
+        "built": "15th Century",
+        "condition": "Restored",
+        "homepage": "https://www.knappoguecastle.ie",
+        "ownedBy": "The Clare Collection",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e02b7-3d81-77e6-8f33-a31181ede378",
+        "name": "Carrickabraghy Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 55.31633,
+            "longitude": -7.37267
+        },
+        "built": "16th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://carrickabraghycastle.com",
+        "ownedBy": "Carrickabraghy Restoration Society",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019e01d1-bb92-7517-82bf-9b599eae3f5d",
+        "name": "Castle Roche",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 54.04646,
+            "longitude": -6.48831
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "ownedBy": "Private",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019e02b7-3d81-77e6-8f33-a66cefa47c92",
+        "name": "Doe Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 55.135,
+            "longitude": -7.864
         },
         "alternativeNames": [
-            "Furmina Castle"
+            "Caisleán na dTuath"
         ],
         "built": "15th Century",
-        "condition": "Ruins",
+        "condition": "Restored",
+        "homepage": "https://heritageireland.ie/places-to-visit/doe-castle",
         "ownedBy": "Office of Public Works",
         "type": "Tower House"
     },
     {
+        "id": "019e02b7-3d81-77e6-8f33-a9988c77e694",
+        "name": "Donegal Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 54.65505,
+            "longitude": -8.11046
+        },
+        "built": "15-17th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://heritageireland.ie/places-to-visit/donegal-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e02b7-3d81-77e6-8f33-e8c02d0989c2",
+        "name": "Dunamase Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.03192,
+            "longitude": -7.21073
+        },
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/rock-of-dunamase",
+        "ownedBy": "Office of Public Works",
+        "type": "Fortified Manor House"
+    },
+    {
+        "id": "019e02b7-3d81-77e6-8f33-de5e6d3e15ff",
+        "name": "Dunguaire Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.14214,
+            "longitude": -8.92608
+        },
+        "built": "16th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://www.dunguairecastle.com",
+        "ownedBy": "Private",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e02b7-3d81-77e6-8f33-e030a2e36628",
+        "name": "Fiddaun Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.01054,
+            "longitude": -8.87948
+        },
+        "built": "16th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://heritageireland.ie/unguided-sites/fiddaun-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e02b7-3d81-77e6-8f33-fae1a03b6244",
+        "name": "Kilkenny Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.65028,
+            "longitude": -7.24917
+        },
+        "built": "13th Century",
+        "condition": "Restored",
+        "homepage": "https://www.kilkennycastle.ie",
+        "ownedBy": "Office of Public Works",
+        "type": "Keepless"
+    },
+    {
+        "id": "019e02b7-3d81-77e6-8f33-d90976bc41d5",
         "name": "Leamaneh Castle",
         "country": "IE",
         "coordinates": {
@@ -220,111 +260,81 @@
         "type": "Tower House"
     },
     {
-        "name": "Dunguaire Castle",
+        "id": "019e02b7-3d81-77e6-8f33-d1912b1b8950",
+        "name": "Malahide Castle",
         "country": "IE",
         "coordinates": {
-            "latitude": 53.14214,
-            "longitude": -8.92608
+            "latitude": 53.44492,
+            "longitude": -6.16454
         },
-        "built": "16th Century",
-        "condition": "Partially Restored",
-        "homepage": "https://www.dunguairecastle.com",
-        "ownedBy": "Private",
-        "type": "Tower House"
-    },
-    {
-        "name": "Fiddaun Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.01054,
-            "longitude": -8.87948
-        },
-        "built": "16th Century",
-        "condition": "Partially Restored",
-        "homepage": "https://heritageireland.ie/unguided-sites/fiddaun-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Birr Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.09536,
-            "longitude": -7.91476
-        },
-        "accessible": false,
         "built": "12th Century",
         "condition": "Restored",
-        "homepage": "https://birrcastle.com",
-        "ownedBy": "The Birr Scientific and Heritage Foundation",
+        "homepage": "https://malahidecastleandgardens.ie",
+        "ownedBy": "Fingal County Council",
         "type": "Fortified Manor House"
     },
     {
-        "name": "Dunamase Castle",
+        "id": "019e02b7-3d81-77e6-8f33-af4b4c7a85dc",
+        "name": "Markree Castle",
         "country": "IE",
         "coordinates": {
-            "latitude": 53.03192,
-            "longitude": -7.21073
+            "latitude": 54.17436,
+            "longitude": -8.46139
         },
-        "built": "12th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/rock-of-dunamase",
-        "ownedBy": "Office of Public Works",
+        "built": "14-17th Century",
+        "condition": "Restored",
+        "homepage": "https://www.markreecastle.ie",
+        "ownedBy": "Private",
         "type": "Fortified Manor House"
     },
     {
-        "name": "Carlow Castle",
+        "id": "019e02b7-3d81-77e6-8f33-c4a2d6203d5a",
+        "name": "Menlo Castle",
         "country": "IE",
         "coordinates": {
-            "latitude": 52.8363,
-            "longitude": -6.93594
+            "latitude": 53.29657,
+            "longitude": -9.0735
+        },
+        "alternativeNames": [
+            "Blake Castle"
+        ],
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://www.galwaytourism.ie/menlo-castle",
+        "ownedBy": "Galway City Council",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e02b7-3d81-77e6-8f33-d71b72aebc67",
+        "name": "O'Brien's Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.06202,
+            "longitude": -9.51925
+        },
+        "alternativeNames": [
+            "Furmina Castle"
+        ],
+        "built": "15th Century",
+        "condition": "Ruins",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e02b7-3d81-77e6-8f33-cb1fe39704e6",
+        "name": "Swords Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.45949,
+            "longitude": -6.22022
         },
         "built": "13th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/carlow-castle",
-        "ownedBy": "Office of Public Works",
+        "condition": "Partially Restored",
+        "ownedBy": "Fingal County Council",
         "type": "Square Keep"
     },
     {
-        "name": "Carlow Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.79387,
-            "longitude": -8.83175
-        },
-        "built": "15th Century",
-        "condition": "Restored",
-        "homepage": "https://www.knappoguecastle.ie",
-        "ownedBy": "The Clare Collection",
-        "type": "Tower House"
-    },
-    {
-        "name": "Bunratty Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.6966,
-            "longitude": -8.81209
-        },
-        "built": "15th Century",
-        "condition": "Restored",
-        "homepage": "https://www.bunrattycastle.ie",
-        "ownedBy": "The Clare Collection",
-        "type": "Tower House"
-    },
-    {
-        "name": "Kilkenny Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.65028,
-            "longitude": -7.24917
-        },
-        "built": "13th Century",
-        "condition": "Restored",
-        "homepage": "https://www.kilkennycastle.ie",
-        "ownedBy": "Office of Public Works",
-        "type": "Keepless"
-    },
-    {
+        "id": "019e02b7-3d81-77e6-8f33-fc628d3a0937",
         "name": "The Rock of Cashel",
         "country": "IE",
         "coordinates": {
@@ -337,6 +347,20 @@
         "built": "13th Century",
         "condition": "Ruins",
         "homepage": "https://heritageireland.ie/places-to-visit/the-rock-of-cashel",
+        "ownedBy": "Office of Public Works",
+        "type": "Round Keep"
+    },
+    {
+        "id": "019e02b7-3d81-77e6-8f33-b93083b93420",
+        "name": "Trim Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.55431,
+            "longitude": -6.78968
+        },
+        "built": "12th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/trim-castle",
         "ownedBy": "Office of Public Works",
         "type": "Round Keep"
     }
