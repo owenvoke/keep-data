@@ -1921,6 +1921,20 @@
         "type": "Artillery Fort"
     },
     {
+        "id": "019e21b4-7758-72b5-b4cd-8e8f77a342c7",
+        "name": "King's Weston Hill Fort",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.50032,
+            "longitude": -2.64181
+        },
+        "built": "8th Century BCE",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fort"
+    },
+    {
         "id": "019dd483-6da8-75ec-a31e-5b66cddce786",
         "name": "Kinnersley Castle",
         "country": "GB",
@@ -3861,18 +3875,5 @@
         "condition": "Fragmented Remains",
         "ownedBy": "Scheduled Ancient Monument",
         "type": "Motte and Bailey"
-    },
-    {
-        "name": "King's Weston Hill Fort",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 51.50032,
-            "longitude": -2.64181
-        },
-        "built": "8th Century BCE",
-        "condition": "Earthworks",
-        "ownedBy": "Scheduled Ancient Monument",
-        "type": "Fort"
     }
 ]
