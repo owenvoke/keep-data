@@ -3861,5 +3861,18 @@
         "condition": "Fragmented Remains",
         "ownedBy": "Scheduled Ancient Monument",
         "type": "Motte and Bailey"
+    },
+    {
+        "name": "King's Weston Hill Fort",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.50032,
+            "longitude": -2.64181
+        },
+        "built": "8th Century BCE",
+        "condition": "Earthworks",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Fort"
     }
 ]
