@@ -3875,5 +3875,139 @@
         "condition": "Fragmented Remains",
         "ownedBy": "Scheduled Ancient Monument",
         "type": "Motte and Bailey"
+    },
+    {
+        "name": "Sandown Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.2384,
+            "longitude": 1.4022
+        },
+        "built": "16th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Sandgate Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.07344,
+            "longitude": 1.14889
+        },
+        "built": "16th Century",
+        "condition": "Restored",
+        "ownedBy": "Private",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Sandsfoot Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.59522,
+            "longitude": -2.46082
+        },
+        "alternativeNames": [
+            "Weymouth Castle"
+        ],
+        "accessible": false,
+        "built": "16th Century",
+        "condition": "Ruins",
+        "ownedBy": "Dorset Council",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "St Mawes Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.15539,
+            "longitude": -5.02379
+        },
+        "built": "16th Century",
+        "condition": "Intact",
+        "ownedBy": "English Heritage",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Netley Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.87751,
+            "longitude": -1.36016
+        },
+        "accessible": false,
+        "built": "16th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "St Andrew's Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.85243,
+            "longitude": -1.31974
+        },
+        "alternativeNames": [
+            "Hamble Castle",
+            "St Andrews Point"
+        ],
+        "built": "16th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Hull Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 53.7422,
+            "longitude": -0.3227
+        },
+        "built": "16th Century",
+        "condition": "Fragmented Remains",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Southsea Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.77805,
+            "longitude": -1.08888
+        },
+        "alternativeNames": [
+            "Chaderton Castle",
+            "Portsea Castle",
+            "South Castle"
+        ],
+        "built": "16th Century",
+        "condition": "Intact",
+        "ownedBy": "Portsmouth City Council",
+        "type": "Artillery Fort"
+    },
+    {
+        "name": "Brownsea Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.68834,
+            "longitude": -1.95826
+        },
+        "alternativeNames": [
+            "Branksea Castle"
+        ],
+        "built": "16th Century",
+        "condition": "Restored",
+        "ownedBy": "National Trust",
+        "type": "Artillery Fort"
     }
 ]
