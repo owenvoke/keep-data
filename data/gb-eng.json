@@ -850,6 +850,21 @@
         "type": "Square Keep"
     },
     {
+        "id": "019e26d4-aac2-7640-ab19-2037d2e434ec",
+        "name": "Castle Drogo",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.69595,
+            "longitude": -3.81102
+        },
+        "built": "20th Century",
+        "condition": "Intact",
+        "homepage": "https://www.nationaltrust.org.uk/visit/devon/castle-drogo",
+        "ownedBy": "National Trust",
+        "type": "Fortified Manor House"
+    },
+    {
         "id": "019dd483-6da8-75ec-a31e-8266c050db9f",
         "name": "Castle Howe",
         "country": "GB",
@@ -3313,6 +3328,26 @@
         "type": "Artillery Fort"
     },
     {
+        "id": "019e26d4-aac2-7640-ab19-1e9207f37552",
+        "name": "Spitbank Fort",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 50.77052,
+            "longitude": -1.09889
+        },
+        "accessible": false,
+        "alternativeNames": [
+            "Spit Fort",
+            "Spit Sand Fort",
+            "Spitsand Fort"
+        ],
+        "built": "19th Century",
+        "condition": "Intact",
+        "ownedBy": "Private",
+        "type": "Artillery Fort"
+    },
+    {
         "id": "019dd483-6da8-75ec-a31e-76e78673cab4",
         "name": "Spofforth Castle",
         "country": "GB",
@@ -3463,6 +3498,21 @@
         "homepage": "https://www.english-heritage.org.uk/visit/places/stokesay-castle",
         "ownedBy": "English Heritage",
         "type": "Fortified Manor House"
+    },
+    {
+        "id": "019e26d4-aac2-7640-ab19-243714310687",
+        "name": "Sudeley Castle",
+        "country": "GB",
+        "region": "GB-ENG",
+        "coordinates": {
+            "latitude": 51.94722,
+            "longitude": -1.95611
+        },
+        "built": "15th Century",
+        "condition": "Intact",
+        "homepage": "https://sudeleycastle.co.uk",
+        "ownedBy": "Private",
+        "type": "Keepless"
     },
     {
         "id": "019d6948-63cd-715f-909e-ad8e5c86beca",
@@ -4019,52 +4069,5 @@
         "condition": "Fragmented Remains",
         "ownedBy": "Scheduled Ancient Monument",
         "type": "Motte and Bailey"
-    },
-    {
-        "name": "Spitbank Fort",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 50.77052,
-            "longitude": -1.09889
-        },
-        "accessible": false,
-        "alternativeNames": [
-            "Spit Fort",
-            "Spit Sand Fort",
-            "Spitsand Fort"
-        ],
-        "built": "19th Century",
-        "condition": "Intact",
-        "ownedBy": "Private",
-        "type": "Artillery Fort"
-    },
-    {
-        "name": "Castle Drogo",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 50.69595,
-            "longitude": -3.81102
-        },
-        "built": "20th Century",
-        "condition": "Intact",
-        "homepage": "https://www.nationaltrust.org.uk/visit/devon/castle-drogo",
-        "ownedBy": "National Trust",
-        "type": "Fortified Manor House"
-    },
-    {
-        "name": "Sudeley Castle",
-        "country": "GB",
-        "region": "GB-ENG",
-        "coordinates": {
-            "latitude": 51.94722,
-            "longitude": -1.95611
-        },
-        "built": "15th Century",
-        "condition": "Intact",
-        "homepage": "https://sudeleycastle.co.uk",
-        "ownedBy": "Private",
-        "type": "Keepless"
     }
 ]
