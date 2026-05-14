@@ -770,7 +770,7 @@
             "latitude": 50.81991,
             "longitude": -1.30743
         },
-        "built": "14th Century",
+        "built": "16th Century",
         "condition": "Intact",
         "homepage": "https://www.english-heritage.org.uk/visit/places/calshot-castle",
         "ownedBy": "English Heritage",
@@ -1284,7 +1284,7 @@
             "latitude": 51.21945,
             "longitude": 1.40364
         },
-        "built": "14th Century",
+        "built": "16th Century",
         "condition": "Intact",
         "homepage": "https://www.english-heritage.org.uk/visit/places/deal-castle",
         "ownedBy": "English Heritage",
@@ -1872,7 +1872,7 @@
             "latitude": 50.7065,
             "longitude": -1.55121
         },
-        "built": "14th Century",
+        "built": "16th Century",
         "condition": "Intact",
         "homepage": "https://www.english-heritage.org.uk/visit/places/hurst-castle",
         "ownedBy": "English Heritage",
@@ -2696,7 +2696,7 @@
             "latitude": 50.14683,
             "longitude": -5.04674
         },
-        "built": "14th Century",
+        "built": "16th Century",
         "condition": "Intact",
         "homepage": "https://www.english-heritage.org.uk/visit/places/pendennis-castle",
         "ownedBy": "English Heritage",
@@ -2846,7 +2846,7 @@
             "latitude": 50.56752,
             "longitude": -2.44575
         },
-        "built": "14th Century",
+        "built": "16th Century",
         "condition": "Intact",
         "homepage": "https://www.english-heritage.org.uk/visit/places/portland-castle",
         "ownedBy": "English Heritage",
@@ -3369,7 +3369,8 @@
             "latitude": 50.32749,
             "longitude": -4.64486
         },
-        "built": "14th Century",
+        "accessible": false,
+        "built": "16th Century",
         "condition": "Partial Ruins",
         "homepage": "https://www.english-heritage.org.uk/visit/places/st-catherines-castle",
         "ownedBy": "English Heritage",
@@ -3776,7 +3777,7 @@
             "latitude": 51.20023,
             "longitude": 1.40113
         },
-        "built": "14th Century",
+        "built": "16th Century",
         "condition": "Intact",
         "homepage": "https://www.english-heritage.org.uk/visit/places/walmer-castle-and-gardens",
         "ownedBy": "English Heritage",
@@ -3993,9 +3994,9 @@
             "latitude": 50.70508,
             "longitude": -1.50216
         },
-        "built": "14th Century",
+        "built": "16th Century",
         "condition": "Intact",
-        "homepage": "https://www.english-heritage.org.uk/visit/places/hurst-castle",
+        "homepage": "https://www.english-heritage.org.uk/visit/places/yarmouth-castle",
         "ownedBy": "English Heritage",
         "type": "Artillery Fort"
     },
