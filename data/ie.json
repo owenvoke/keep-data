@@ -1099,6 +1099,21 @@
         "type": "Fortified Manor House"
     },
     {
+        "id": "019e2c46-c486-7179-ac63-599121e76a22",
+        "name": "Kilbolane Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.33773,
+            "longitude": -8.84687
+        },
+        "accessible": false,
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/kilbolane-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Shell Keep"
+    },
+    {
         "id": "019e0308-b458-735b-ac11-e3034f62e8e0",
         "name": "Kilcoe Castle",
         "country": "IE",
@@ -1126,6 +1141,21 @@
         "type": "Tower House"
     },
     {
+        "id": "019e2c46-c487-71a7-b07f-4cfb48a46596",
+        "name": "Kildavnet Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.88084,
+            "longitude": -9.94593
+        },
+        "accessible": false,
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/kildavnet-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
         "id": "019e02b7-3d81-77e6-8f33-fae1a03b6244",
         "name": "Kilkenny Castle",
         "country": "IE",
@@ -1136,6 +1166,21 @@
         "built": "13th Century",
         "condition": "Restored",
         "homepage": "https://www.kilkennycastle.ie",
+        "ownedBy": "Office of Public Works",
+        "type": "Keepless"
+    },
+    {
+        "id": "019e2c46-c487-71a7-b07f-5160f0972856",
+        "name": "Kindlestown Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.14119,
+            "longitude": -6.08902
+        },
+        "accessible": false,
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/kindlestown-castle",
         "ownedBy": "Office of Public Works",
         "type": "Keepless"
     },
@@ -1157,6 +1202,39 @@
         "type": "Tower House"
     },
     {
+        "id": "019e2c46-c487-71a7-b07f-560c5f9c51dd",
+        "name": "King John's Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.40137,
+            "longitude": -8.57665
+        },
+        "accessible": false,
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/king-johns-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Keepless"
+    },
+    {
+        "id": "019e2c46-c487-71a7-b07f-589fc9d32bf4",
+        "name": "Kinlough Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.49844,
+            "longitude": -9.11481
+        },
+        "accessible": false,
+        "alternativeNames": [
+            "MacWilliam's House"
+        ],
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/kinlough-abbey-and-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
         "id": "019e02b7-3d81-77e6-8f33-d90976bc41d5",
         "name": "Leamaneh Castle",
         "country": "IE",
@@ -1174,6 +1252,36 @@
         "type": "Tower House"
     },
     {
+        "id": "019e2c46-c487-71a7-b07f-5f2bc17fb3e3",
+        "name": "Leighlinbridge Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.73602,
+            "longitude": -6.9778
+        },
+        "accessible": false,
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/leighlinbridge-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019e2c46-c487-71a7-b07f-62ed23f84245",
+        "name": "Liscarroll Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.26092,
+            "longitude": -8.80334
+        },
+        "accessible": false,
+        "built": "13-16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/liscarroll-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Keepless"
+    },
+    {
         "id": "019e0308-b458-735b-ac11-a5308033f947",
         "name": "Lismore Castle",
         "country": "IE",
@@ -1185,6 +1293,20 @@
         "condition": "Partially Restored",
         "ownedBy": "Private",
         "type": "Tower House"
+    },
+    {
+        "id": "019e2c46-c487-71a7-b07f-66cd6ca34d7a",
+        "name": "Listowel Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.44439,
+            "longitude": -9.48697
+        },
+        "built": "15th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/listowel-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Square Keep"
     },
     {
         "id": "019e0308-b458-735b-ac11-be7f50b2bfdf",
@@ -1228,6 +1350,20 @@
         "type": "Fortified Manor House"
     },
     {
+        "id": "019e2c46-c487-71a7-b07f-69914dbf28bd",
+        "name": "Mannan Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 54.00725,
+            "longitude": -6.69885
+        },
+        "built": "12th Century",
+        "condition": "Earthworks",
+        "homepage": "https://heritageireland.ie/unguided-sites/mannan-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Motte and Bailey"
+    },
+    {
         "id": "019e02b7-3d81-77e6-8f33-af4b4c7a85dc",
         "name": "Markree Castle",
         "country": "IE",
@@ -1240,6 +1376,35 @@
         "homepage": "https://www.markreecastle.ie",
         "ownedBy": "Private",
         "type": "Fortified Manor House"
+    },
+    {
+        "id": "019e2c46-c487-71a7-b07f-6d7115146a1d",
+        "name": "Maynooth Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.38085,
+            "longitude": -6.59436
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/maynooth-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Motte and Bailey"
+    },
+    {
+        "id": "019e2c46-c487-71a7-b07f-720c862afac1",
+        "name": "McDermott's Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.98944,
+            "longitude": -8.2327
+        },
+        "accessible": false,
+        "built": "16-19th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/mcdermotts-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
     },
     {
         "id": "019e02b7-3d81-77e6-8f33-c4a2d6203d5a",
@@ -1257,6 +1422,53 @@
         "homepage": "https://www.galwaytourism.ie/menlo-castle",
         "ownedBy": "Galway City Council",
         "type": "Tower House"
+    },
+    {
+        "id": "019e2c46-c487-71a7-b07f-75aa843fe03d",
+        "name": "Monkstown Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.28888,
+            "longitude": -6.15064
+        },
+        "accessible": false,
+        "built": "15-16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/monkstown-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2c46-c487-71a7-b07f-7ab80e01f493",
+        "name": "Mortimer's Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.64895,
+            "longitude": -7.34056
+        },
+        "alternativeNames": [
+            "Fahatty Castle",
+            "The Old Court"
+        ],
+        "built": "14-15th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://heritageireland.ie/unguided-sites/mortimers-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Keepless"
+    },
+    {
+        "id": "019e2c46-c487-71a7-b07f-7ff8e43373d7",
+        "name": "Nenagh Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.86492,
+            "longitude": -8.19811
+        },
+        "built": "13th Century",
+        "condition": "Fragmented Remains",
+        "homepage": "https://heritageireland.ie/unguided-sites/nenagh-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Round Keep"
     },
     {
         "id": "019e02b7-3d81-77e6-8f33-d71b72aebc67",
@@ -1343,204 +1555,6 @@
         "built": "12th Century",
         "condition": "Partial Ruins",
         "homepage": "https://heritageireland.ie/visit/places-to-visit/trim-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Round Keep"
-    },
-    {
-        "name": "Kilbolane Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.33773,
-            "longitude": -8.84687
-        },
-        "accessible": false,
-        "built": "13th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/kilbolane-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Shell Keep"
-    },
-    {
-        "name": "Kildavnet Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.88084,
-            "longitude": -9.94593
-        },
-        "accessible": false,
-        "built": "15th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/kildavnet-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Kindlestown Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.14119,
-            "longitude": -6.08902
-        },
-        "accessible": false,
-        "built": "14th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/kindlestown-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Keepless"
-    },
-    {
-        "name": "King John's Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.40137,
-            "longitude": -8.57665
-        },
-        "accessible": false,
-        "built": "15th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/king-johns-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Keepless"
-    },
-    {
-        "name": "Kinlough Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.49844,
-            "longitude": -9.11481
-        },
-        "accessible": false,
-        "alternativeNames": [
-            "MacWilliam's House"
-        ],
-        "built": "16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/kinlough-abbey-and-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Leighlinbridge Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.73602,
-            "longitude": -6.9778
-        },
-        "accessible": false,
-        "built": "16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/leighlinbridge-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Liscarroll Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.26092,
-            "longitude": -8.80334
-        },
-        "accessible": false,
-        "built": "13-16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/liscarroll-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Keepless"
-    },
-    {
-        "name": "Listowel Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.44439,
-            "longitude": -9.48697
-        },
-        "built": "15th Century",
-        "condition": "Partially Restored",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/listowel-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Mannan Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 54.00725,
-            "longitude": -6.69885
-        },
-        "built": "12th Century",
-        "condition": "Earthworks",
-        "homepage": "https://heritageireland.ie/unguided-sites/mannan-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Motte and Bailey"
-    },
-    {
-        "name": "Maynooth Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.38085,
-            "longitude": -6.59436
-        },
-        "built": "13th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/maynooth-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Motte and Bailey"
-    },
-    {
-        "name": "McDermott's Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.98944,
-            "longitude": -8.2327
-        },
-        "accessible": false,
-        "built": "16-19th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/mcdermotts-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Monkstown Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.28888,
-            "longitude": -6.15064
-        },
-        "accessible": false,
-        "built": "15-16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/monkstown-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Mortimer's Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.64895,
-            "longitude": -7.34056
-        },
-        "alternativeNames": [
-            "Fahatty Castle",
-            "The Old Court"
-        ],
-        "built": "14-15th Century",
-        "condition": "Fragmented Remains",
-        "homepage": "https://heritageireland.ie/unguided-sites/mortimers-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Keepless"
-    },
-    {
-        "name": "Nenagh Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.86492,
-            "longitude": -8.19811
-        },
-        "built": "13th Century",
-        "condition": "Fragmented Remains",
-        "homepage": "https://heritageireland.ie/unguided-sites/nenagh-castle",
         "ownedBy": "Office of Public Works",
         "type": "Round Keep"
     }
