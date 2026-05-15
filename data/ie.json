@@ -1487,6 +1487,122 @@
         "type": "Tower House"
     },
     {
+        "id": "019e2c7f-43a6-748e-947c-3023f66e066e",
+        "name": "O'Doherty's Keep",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 55.13979,
+            "longitude": -7.46277
+        },
+        "built": "14th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/odohertys-keep",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2c7f-43a6-748e-947c-35dcec924d10",
+        "name": "Ormond Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.34522,
+            "longitude": -7.40709
+        },
+        "built": "16th Century",
+        "condition": "Intact",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/ormond-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Fortified Manor House"
+    },
+    {
+        "id": "019e2c7f-43a6-748e-947c-383203a9b9ae",
+        "name": "Pallas Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.12665,
+            "longitude": -8.36241
+        },
+        "accessible": false,
+        "built": "15-16th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/pallas-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2c7f-43a6-748e-947c-3e2185a51277",
+        "name": "Parke's Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 54.26467,
+            "longitude": -8.33436
+        },
+        "built": "17th Century",
+        "condition": "Restored",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/parkes-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Fortified Manor House"
+    },
+    {
+        "id": "019e2c7f-43a6-748e-947c-427ef61aae84",
+        "name": "Portumna Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.08659,
+            "longitude": -8.22072
+        },
+        "built": "17th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/portumna-castle-and-gardens",
+        "ownedBy": "Office of Public Works",
+        "type": "Fortified Manor House"
+    },
+    {
+        "id": "019e2c7f-43a6-748e-947c-46501828182a",
+        "name": "Rathfarnham Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.29807,
+            "longitude": -6.28363
+        },
+        "built": "16-18th Century",
+        "condition": "Restored",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/rathfarnham-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Fortified Manor House"
+    },
+    {
+        "id": "019e2c7f-43a6-748e-947c-49112920b08d",
+        "name": "Rockfleet Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.89603,
+            "longitude": -9.62709
+        },
+        "alternativeNames": [
+            "Carrickahowley Castle"
+        ],
+        "built": "16th Century",
+        "condition": "Partially Restored",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/rockfleet-castle",
+        "ownedBy": "Private / Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2c7f-43a6-748e-947c-4d4f3804557f",
+        "name": "Roscrea Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.95495,
+            "longitude": -7.79804
+        },
+        "built": "13th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/roscrea-castle-gardens-damer-house-black-mills",
+        "ownedBy": "Office of Public Works",
+        "type": "Motte and Bailey"
+    },
+    {
         "id": "019e0308-b458-735b-ac11-ba808f7d3ec9",
         "name": "Ross Castle",
         "country": "IE",
@@ -1497,6 +1613,21 @@
         "built": "15th Century",
         "condition": "Restored",
         "homepage": "https://heritageireland.ie/visit/places-to-visit/ross-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2c7f-43a6-748e-947c-51f54f942208",
+        "name": "Slade Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.13385,
+            "longitude": -6.91061
+        },
+        "accessible": false,
+        "built": "15-16th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/slade-castle",
         "ownedBy": "Office of Public Works",
         "type": "Tower House"
     },
@@ -1528,6 +1659,41 @@
         "type": "Square Keep"
     },
     {
+        "id": "019e2c7f-43a6-748e-947c-57af8f87f92c",
+        "name": "Termonfeckin Tower House",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.76029,
+            "longitude": -6.26689
+        },
+        "alternativeNames": [
+            "Termonfeckin Castle"
+        ],
+        "built": "15-16th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/termonfeckin-tower-house",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2c7f-43a6-748e-947c-595ffc02982d",
+        "name": "Terryglass Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.05944,
+            "longitude": -8.21193
+        },
+        "accessible": false,
+        "alternativeNames": [
+            "The Old Court"
+        ],
+        "built": "15-16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/terryglass-castle",
+        "ownedBy": "Private / Office of Public Works",
+        "type": "Fortified Manor House"
+    },
+    {
         "id": "019e02b7-3d81-77e6-8f33-fc628d3a0937",
         "name": "The Rock of Cashel",
         "country": "IE",
@@ -1557,160 +1723,5 @@
         "homepage": "https://heritageireland.ie/visit/places-to-visit/trim-castle",
         "ownedBy": "Office of Public Works",
         "type": "Round Keep"
-    },
-    {
-        "name": "O'Doherty's Keep",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 55.13979,
-            "longitude": -7.46277
-        },
-        "built": "14th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/odohertys-keep",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Ormond Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.34522,
-            "longitude": -7.40709
-        },
-        "built": "16th Century",
-        "condition": "Intact",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/ormond-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Fortified Manor House"
-    },
-    {
-        "name": "Pallas Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.12665,
-            "longitude": -8.36241
-        },
-        "accessible": false,
-        "built": "15-16th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/pallas-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Parke's Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 54.26467,
-            "longitude": -8.33436
-        },
-        "built": "17th Century",
-        "condition": "Restored",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/parkes-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Fortified Manor House"
-    },
-    {
-        "name": "Portumna Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.08659,
-            "longitude": -8.22072
-        },
-        "built": "17th Century",
-        "condition": "Partially Restored",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/portumna-castle-and-gardens",
-        "ownedBy": "Office of Public Works",
-        "type": "Fortified Manor House"
-    },
-    {
-        "name": "Rathfarnham Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.29807,
-            "longitude": -6.28363
-        },
-        "built": "16-18th Century",
-        "condition": "Restored",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/rathfarnham-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Fortified Manor House"
-    },
-    {
-        "name": "Rockfleet Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.89603,
-            "longitude": -9.62709
-        },
-        "alternativeNames": [
-            "Carrickahowley Castle"
-        ],
-        "built": "16th Century",
-        "condition": "Partially Restored",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/rockfleet-castle",
-        "ownedBy": "Private / Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Roscrea Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.95495,
-            "longitude": -7.79804
-        },
-        "built": "13th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/roscrea-castle-gardens-damer-house-black-mills",
-        "ownedBy": "Office of Public Works",
-        "type": "Motte and Bailey"
-    },
-    {
-        "name": "Slade Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.13385,
-            "longitude": -6.91061
-        },
-        "accessible": false,
-        "built": "15-16th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/slade-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Termonfeckin Tower House",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.76029,
-            "longitude": -6.26689
-        },
-        "alternativeNames": [
-            "Termonfeckin Castle"
-        ],
-        "built": "15-16th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/termonfeckin-tower-house",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Terryglass Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.05944,
-            "longitude": -8.21193
-        },
-        "accessible": false,
-        "alternativeNames": [
-            "The Old Court"
-        ],
-        "built": "15-16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/terryglass-castle",
-        "ownedBy": "Private / Office of Public Works",
-        "type": "Fortified Manor House"
     }
 ]
