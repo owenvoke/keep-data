@@ -1,5 +1,51 @@
 [
     {
+        "id": "019e2b85-5e83-739e-a09a-d7e011bdf3af",
+        "name": "Adare Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.5695,
+            "longitude": -8.7826
+        },
+        "alternativeNames": [
+            "Desmond Castle"
+        ],
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/adare-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019e2b85-5e83-739e-a09a-da3a5e731730",
+        "name": "Archbold's Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.27793,
+            "longitude": -6.10644
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/archbolds-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2b85-5e83-739e-a09a-ddd4be0c3952",
+        "name": "Ardamullivan Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.00422,
+            "longitude": -8.82932
+        },
+        "accessible": false,
+        "built": "16th Century",
+        "condition": "Restored",
+        "homepage": "https://heritageireland.ie/unguided-sites/ardamullivan-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
         "id": "019e02b7-3d81-77e6-8f33-b0ba8d73125c",
         "name": "Ashford Castle",
         "country": "IE",
@@ -12,6 +58,40 @@
         "homepage": "https://ashfordcastle.com",
         "ownedBy": "Private",
         "type": "Fortified Manor House"
+    },
+    {
+        "id": "019e2b85-5e83-739e-a09a-e31e7addc9fc",
+        "name": "Askeaton Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.6,
+            "longitude": -8.97401
+        },
+        "accessible": false,
+        "alternativeNames": [
+            "Askettin Castle",
+            "Desmond Castle"
+        ],
+        "built": "12-13th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/askeaton-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019e2b85-5e83-739e-a09a-e7b82deb0d96",
+        "name": "Athcarne Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.62198,
+            "longitude": -6.44118
+        },
+        "accessible": false,
+        "built": "12-16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/athcarne-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
     },
     {
         "id": "019e02b7-3d81-77e6-8f33-c33e4cd38c43",
@@ -43,6 +123,51 @@
         "homepage": "https://www.athlonecastle.ie",
         "ownedBy": "City of Athlone",
         "type": "Round Keep"
+    },
+    {
+        "id": "019e2b85-5e83-739e-a09a-e915b357c6b8",
+        "name": "Athlumney Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.65028,
+            "longitude": -6.67513
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/athlumney-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2b85-5e83-739e-a09a-efd126ad40e5",
+        "name": "Aughnanure Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.41876,
+            "longitude": -9.27567
+        },
+        "built": "15-16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/aughnanure-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2b85-5e83-739e-a09a-f2c6f9fe8891",
+        "name": "Ballinafad Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 54.026,
+            "longitude": -8.33578
+        },
+        "alternativeNames": [
+            "Castle of the Curlews"
+        ],
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/ballinafad-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Square Keep"
     },
     {
         "id": "019e02b7-3d81-77e6-8f33-b48f9679223c",
@@ -98,6 +223,65 @@
         "built": "15th Century",
         "condition": "Partially Restored",
         "homepage": "https://heritageireland.ie/places-to-visit/ballyhack-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2b85-5e83-739e-a09a-f566a90a6e4e",
+        "name": "Ballyloughan Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.67309,
+            "longitude": -6.89821
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/ballyloughan-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Keepless"
+    },
+    {
+        "id": "019e2b85-5e83-739e-a09a-f8c1148d1ef2",
+        "name": "Ballymalis Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.08458,
+            "longitude": -9.69242
+        },
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/ballymalis-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2b85-5e83-739e-a09a-fe4a82d7486b",
+        "name": "Ballymote Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 54.08746,
+            "longitude": -8.51968
+        },
+        "built": "14th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/ballymote-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Keepless"
+    },
+    {
+        "id": "019e2b85-5e83-739e-a09b-0300560a7f6f",
+        "name": "Ballynacarriga Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.70547,
+            "longitude": -9.0316
+        },
+        "alternativeNames": [
+            "Ballinacarriga Castle"
+        ],
+        "built": "15-16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/ballynacarriga-castle",
         "ownedBy": "Office of Public Works",
         "type": "Tower House"
     },
@@ -190,6 +374,21 @@
         "type": "Tower House"
     },
     {
+        "id": "019e2b85-5e84-73c4-ada7-119bb3abd02d",
+        "name": "Burnchurch Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.90456,
+            "longitude": -8.25921
+        },
+        "accessible": false,
+        "built": "15-16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/burnchurch-castle-and-turret",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
         "id": "019e02b7-3d81-77e6-8f33-cf2a39c1a0dd",
         "name": "Cahir Castle",
         "country": "IE",
@@ -202,6 +401,43 @@
         "homepage": "https://heritageireland.ie/places-to-visit/cahir-castle",
         "ownedBy": "Office of Public Works",
         "type": "Square Keep"
+    },
+    {
+        "id": "019e2b85-5e84-73c4-ada7-2da705374d48",
+        "name": "Caisleán Aircín",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.10484,
+            "longitude": -9.66249
+        },
+        "accessible": false,
+        "alternativeNames": [
+            "Arkin's Castle",
+            "Arkyn Castle",
+            "Cromwell’s Fort"
+        ],
+        "built": "17th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/caislean-aircin-arkins-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Keepless"
+    },
+    {
+        "id": "019e2b85-5e84-73c4-ada7-306be8c67731",
+        "name": "Carlingford Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 54.04323,
+            "longitude": -6.18683
+        },
+        "alternativeNames": [
+            "King John's Castle"
+        ],
+        "built": "12th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/carlingford-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Keepless"
     },
     {
         "id": "019e02b7-3d81-77e6-8f33-efcfa19e8f6f",
@@ -246,6 +482,35 @@
         "type": "Square Keep"
     },
     {
+        "id": "019e2b85-5e84-73c4-ada7-148d130c5df6",
+        "name": "Carrigafoyle Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.56988,
+            "longitude": -9.49411
+        },
+        "built": "15th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/carrigafoyle-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2b85-5e84-73c4-ada7-1a2fb8913982",
+        "name": "Carrigaholt Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.59992,
+            "longitude": -9.69943
+        },
+        "accessible": false,
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/carrigaholt-castle-and-sea-wall",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
         "id": "019e0308-b458-735b-ac11-da63862f32e3",
         "name": "Carriganass Castle",
         "country": "IE",
@@ -257,6 +522,20 @@
         "condition": "Ruins",
         "homepage": "https://carriganasscastle.com",
         "ownedBy": "Community / Carriganass Development Association",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2b85-5e84-73c4-ada7-1ffa8faeec3b",
+        "name": "Carrigaphooca Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.90854,
+            "longitude": -9.02843
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/carrigaphooca-castle",
+        "ownedBy": "Office of Public Works",
         "type": "Tower House"
     },
     {
@@ -291,6 +570,103 @@
         "type": "Square Keep"
     },
     {
+        "id": "019e2b85-5e84-73c4-ada7-20fb2022c3dc",
+        "name": "Castlecarra Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.72136,
+            "longitude": -9.25549
+        },
+        "accessible": false,
+        "built": "13-15th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/castlecarra-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2b85-5e84-73c4-ada7-2623189d90c1",
+        "name": "Castlekirk Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.49253,
+            "longitude": -9.51339
+        },
+        "accessible": false,
+        "alternativeNames": [
+            "Hen’s Castle"
+        ],
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/castlekirk-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019e2b85-5e84-73c4-ada7-28853a1d7ec7",
+        "name": "Castleroche Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 54.04639,
+            "longitude": -6.48838
+        },
+        "accessible": false,
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/castleroche-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019e2b85-5e84-73c4-ada7-35fbc044bf60",
+        "name": "Clara Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.66745,
+            "longitude": -7.15236
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/clara-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2b85-5e84-73c4-ada7-38c23f3bf62d",
+        "name": "Clare Island Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.79969,
+            "longitude": -9.95106
+        },
+        "accessible": false,
+        "alternativeNames": [
+            "Granuaile’s Castle"
+        ],
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/clare-island-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2b85-5e84-73c4-ada7-3f2ba98f7e4d",
+        "name": "Cloughoughter Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 54.01866,
+            "longitude": -7.45484
+        },
+        "alternativeNames": [
+            "Castle of Crannog O'Reilly"
+        ],
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/cloughoughter-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Round Keep"
+    },
+    {
         "id": "019e0308-b458-735b-ac11-a97ff84c1cfe",
         "name": "Conna Castle",
         "country": "IE",
@@ -303,6 +679,35 @@
         "homepage": "https://heritageireland.ie/unguided-sites/conna-castle",
         "ownedBy": "Office of Public Works",
         "type": "Tower House"
+    },
+    {
+        "id": "019e2b85-5e84-73c4-ada7-42759da48c4a",
+        "name": "Coolhill Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.46497,
+            "longitude": -6.93219
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/coolhill-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Round Keep"
+    },
+    {
+        "id": "019e2b85-5e84-73c4-ada7-44ce53291376",
+        "name": "Coolhull Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.23422,
+            "longitude": -6.70457
+        },
+        "accessible": false,
+        "built": "16th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/coolhull-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Fortified Manor House"
     },
     {
         "id": "019e02b7-3d81-77e6-8f33-a66cefa47c92",
@@ -689,384 +1094,5 @@
         "homepage": "https://heritageireland.ie/visit/places-to-visit/trim-castle",
         "ownedBy": "Office of Public Works",
         "type": "Round Keep"
-    },
-    {
-        "name": "Adare Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.5695,
-            "longitude": -8.78260
-        },
-        "alternativeNames": [
-            "Desmond Castle"
-        ],
-        "built": "12th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/adare-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Archbold's Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.27793,
-            "longitude": -6.10644
-        },
-        "built": "16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/archbolds-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Ardamullivan Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.00422,
-            "longitude": -8.82932
-        },
-        "accessible": false,
-        "built": "16th Century",
-        "condition": "Restored",
-        "homepage": "https://heritageireland.ie/unguided-sites/ardamullivan-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Askeaton Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.6,
-            "longitude": -8.97401
-        },
-        "accessible": false,
-        "alternativeNames": [
-            "Askettin Castle",
-            "Desmond Castle"
-        ],
-        "built": "12-13th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/askeaton-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Athcarne Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.62198,
-            "longitude": -6.44118
-        },
-        "accessible": false,
-        "built": "12-16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/athcarne-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Athlumney Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.65028,
-            "longitude": -6.67513
-        },
-        "built": "15th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/athlumney-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Aughnanure Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.41876,
-            "longitude": -9.27567
-        },
-        "built": "15-16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/aughnanure-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Ballinafad Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 54.026,
-            "longitude": -8.33578
-        },
-        "alternativeNames": [
-            "Castle of the Curlews"
-        ],
-        "built": "16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/ballinafad-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Ballyloughan Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.67309,
-            "longitude": -6.89821
-        },
-        "built": "13th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/ballyloughan-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Keepless"
-    },
-    {
-        "name": "Ballymalis Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.08458,
-            "longitude": -9.69242
-        },
-        "built": "16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/ballymalis-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Ballymote Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 54.08746,
-            "longitude": -8.51968
-        },
-        "built": "14th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/ballymote-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Keepless"
-    },
-    {
-        "name": "Ballynacarriga Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 51.70547,
-            "longitude": -9.0316
-        },
-        "alternativeNames": [
-            "Ballinacarriga Castle"
-        ],
-        "built": "15-16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/ballynacarriga-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Burnchurch Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 51.90456,
-            "longitude": -8.25921
-        },
-        "accessible": false,
-        "built": "15-16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/burnchurch-castle-and-turret",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Carrigafoyle Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.56988,
-            "longitude": -9.49411
-        },
-        "built": "15th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/carrigafoyle-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Carrigaholt Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.59992,
-            "longitude": -9.69943
-        },
-        "accessible": false,
-        "built": "15th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/carrigaholt-castle-and-sea-wall",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Carrigaphooca Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 51.90854,
-            "longitude": -9.02843
-        },
-        "built": "15th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/carrigaphooca-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Castlecarra Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.72136,
-            "longitude": -9.25549
-        },
-        "accessible": false,
-        "built": "13-15th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/castlecarra-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Castlekirk Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.49253,
-            "longitude": -9.51339
-        },
-        "accessible": false,
-        "alternativeNames": [
-            "Hen’s Castle"
-        ],
-        "built": "13th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/castlekirk-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Castleroche Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 54.04639,
-            "longitude": -6.48838
-        },
-        "accessible": false,
-        "built": "13th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/castleroche-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Caisleán Aircín",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.10484,
-            "longitude": -9.66249
-        },
-        "accessible": false,
-        "alternativeNames": [
-            "Arkin's Castle",
-            "Arkyn Castle",
-            "Cromwell’s Fort"
-        ],
-        "built": "17th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/caislean-aircin-arkins-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Keepless"
-    },
-    {
-        "name": "Carlingford Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 54.04323,
-            "longitude": -6.18683
-        },
-        "alternativeNames": [
-            "King John's Castle"
-        ],
-        "built": "12th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/carlingford-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Keepless"
-    },
-    {
-        "name": "Clara Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.66745,
-            "longitude": -7.15236
-        },
-        "built": "15th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/clara-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Clare Island Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.79969,
-            "longitude": -9.95106
-        },
-        "accessible": false,
-        "alternativeNames": [
-            "Granuaile’s Castle"
-        ],
-        "built": "16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/clare-island-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Cloughoughter Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 54.01866,
-            "longitude": -7.45484
-        },
-        "alternativeNames": [
-            "Castle of Crannog O'Reilly"
-        ],
-        "built": "13th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/cloughoughter-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Round Keep"
-    },
-    {
-        "name": "Coolhill Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.46497,
-            "longitude": -6.93219
-        },
-        "built": "13th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/coolhill-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Round Keep"
-    },
-    {
-        "name": "Coolhull Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.23422,
-            "longitude": -6.70457
-        },
-        "accessible": false,
-        "built": "16th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/coolhull-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Fortified Manor House"
     }
 ]
