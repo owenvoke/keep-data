@@ -710,6 +710,50 @@
         "type": "Fortified Manor House"
     },
     {
+        "id": "019e2c23-76bb-712b-b2d6-a18327b2f69c",
+        "name": "Delvin Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.61118,
+            "longitude": -7.09364
+        },
+        "accessible": false,
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/delvin-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019e2c23-76bb-712b-b2d6-a73e5880f9a0",
+        "name": "Desmond Castle Kinsale",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 51.70725,
+            "longitude": -8.52466
+        },
+        "accessible": false,
+        "built": "14th Century",
+        "condition": "Restored",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/desmond-castle-kinsale",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2c23-76bb-712b-b2d6-a978007ce6d9",
+        "name": "Desmond Castle Newcastlewest",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.45061,
+            "longitude": -9.06072
+        },
+        "built": "13-15th Century",
+        "condition": "Restored",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/desmond-castle-newcastlewest",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
         "id": "019e02b7-3d81-77e6-8f33-a66cefa47c92",
         "name": "Doe Castle",
         "country": "IE",
@@ -739,6 +783,53 @@
         "homepage": "https://heritageireland.ie/places-to-visit/donegal-castle",
         "ownedBy": "Office of Public Works",
         "type": "Tower House"
+    },
+    {
+        "id": "019e2c23-76bb-712b-b2d6-af181e7389de",
+        "name": "Dromore Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.92541,
+            "longitude": -8.9628
+        },
+        "accessible": false,
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/dromore-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2c23-76bb-712b-b2d6-b3e7995c4e78",
+        "name": "Drumharsna Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.14329,
+            "longitude": -8.84299
+        },
+        "accessible": false,
+        "built": "16th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/drumharsna-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2c23-76bb-712b-b2d6-b5d6c5d95d99",
+        "name": "Dún Dealgan",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 54.01384,
+            "longitude": -6.43022
+        },
+        "alternativeNames": [
+            "Byrne's Folly"
+        ],
+        "built": "18th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/dun-dealgan",
+        "ownedBy": "Office of Public Works",
+        "type": "Folly"
     },
     {
         "id": "019e02b7-3d81-77e6-8f33-e8c02d0989c2",
@@ -772,6 +863,20 @@
         "type": "Tower House"
     },
     {
+        "id": "019e2c23-76bb-712b-b2d6-b82cfc0c46ef",
+        "name": "Dungarvan Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.0894,
+            "longitude": -7.61636
+        },
+        "built": "13th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/dungarvan-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Round Keep"
+    },
+    {
         "id": "019e02b7-3d81-77e6-8f33-de5e6d3e15ff",
         "name": "Dunguaire Castle",
         "country": "IE",
@@ -803,6 +908,64 @@
         "type": "Tower House"
     },
     {
+        "id": "019e2c23-76bb-712b-b2d6-bf9d35ea5ab2",
+        "name": "Dunmoe Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.674,
+            "longitude": -6.63734
+        },
+        "built": "15th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/dunmoe-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019e2c23-76bb-712b-b2d6-c03b89c00954",
+        "name": "Dunmore Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.62377,
+            "longitude": -8.75553
+        },
+        "accessible": false,
+        "built": "13-19th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/dunmore-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019e2c23-76bb-712b-b2d6-c493d300a9dc",
+        "name": "Dunsoghly Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.42692,
+            "longitude": -6.31827
+        },
+        "accessible": false,
+        "built": "15th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/dunsoghly-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019e2c23-76bb-712b-b2d6-cbfc4cb9e1d4",
+        "name": "Ferns Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.5907,
+            "longitude": -6.49918
+        },
+        "built": "13th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/visit/places-to-visit/ferns-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Square Keep"
+    },
+    {
         "id": "019e02b7-3d81-77e6-8f33-e030a2e36628",
         "name": "Fiddaun Castle",
         "country": "IE",
@@ -817,6 +980,52 @@
         "type": "Tower House"
     },
     {
+        "id": "019e2c23-76bb-712b-b2d6-cf7c931f9628",
+        "name": "Gallarus Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.17593,
+            "longitude": -10.3558
+        },
+        "accessible": false,
+        "built": "15th Century",
+        "condition": "Intact",
+        "homepage": "https://heritageireland.ie/unguided-sites/gallarus-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2c23-76bb-712b-b2d6-d3f879c4dbf3",
+        "name": "Glanworth Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.18816,
+            "longitude": -8.35461
+        },
+        "alternativeNames": [
+            "Condon Castle"
+        ],
+        "built": "12-13th Century",
+        "condition": "Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/glanworth-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Square Keep"
+    },
+    {
+        "id": "019e2c23-76bb-712b-b2d6-d678ba5d3f8c",
+        "name": "Gleninagh Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.13767,
+            "longitude": -9.20591
+        },
+        "built": "16th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/gleninagh-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
         "id": "019e0308-b457-71ef-a04d-8600850e3600",
         "name": "Glenquin Castle",
         "country": "IE",
@@ -827,6 +1036,48 @@
         "built": "15-16th Century",
         "condition": "Intact",
         "homepage": "https://heritageireland.ie/unguided-sites/glenquin-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2c23-76bb-712b-b2d6-db761ef82e48",
+        "name": "Grallagh Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.59481,
+            "longitude": -7.77119
+        },
+        "built": "15-16th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/grallagh-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2c23-76bb-712b-b2d6-dcfa66c805b7",
+        "name": "Grange Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 53.37512,
+            "longitude": -7.06817
+        },
+        "built": "15th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/grange-castle",
+        "ownedBy": "Office of Public Works",
+        "type": "Tower House"
+    },
+    {
+        "id": "019e2c23-76bb-712b-b2d6-e3404499da7f",
+        "name": "Grannagh (Granny) Castle",
+        "country": "IE",
+        "coordinates": {
+            "latitude": 52.28087,
+            "longitude": -7.16051
+        },
+        "built": "15th Century",
+        "condition": "Partial Ruins",
+        "homepage": "https://heritageireland.ie/unguided-sites/grannagh-granny-castle",
         "ownedBy": "Office of Public Works",
         "type": "Tower House"
     },
@@ -1094,239 +1345,5 @@
         "homepage": "https://heritageireland.ie/visit/places-to-visit/trim-castle",
         "ownedBy": "Office of Public Works",
         "type": "Round Keep"
-    },
-    {
-        "name": "Delvin Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.61118,
-            "longitude": -7.09364
-        },
-        "accessible": false,
-        "built": "15th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/delvin-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Desmond Castle Kinsale",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 51.70725,
-            "longitude": -8.52466
-        },
-        "accessible": false,
-        "built": "14th Century",
-        "condition": "Restored",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/desmond-castle-kinsale",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Desmond Castle Newcastlewest",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.45061,
-            "longitude": -9.06072
-        },
-        "built": "13-15th Century",
-        "condition": "Restored",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/desmond-castle-newcastlewest",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Dromore Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.92541,
-            "longitude": -8.9628
-        },
-        "accessible": false,
-        "built": "16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/dromore-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Drumharsna Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.14329,
-            "longitude": -8.84299
-        },
-        "accessible": false,
-        "built": "16th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/drumharsna-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Dún Dealgan",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 54.01384,
-            "longitude": -6.43022
-        },
-        "alternativeNames": [
-            "Byrne's Folly"
-        ],
-        "built": "18th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/dun-dealgan",
-        "ownedBy": "Office of Public Works",
-        "type": "Folly"
-    },
-    {
-        "name": "Dungarvan Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.0894,
-            "longitude": -7.61636
-        },
-        "built": "13th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/dungarvan-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Round Keep"
-    },
-    {
-        "name": "Dunmoe Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.674,
-            "longitude": -6.63734
-        },
-        "built": "15th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/dunmoe-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Dunmore Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.62377,
-            "longitude": -8.75553
-        },
-        "accessible": false,
-        "built": "13-19th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/dunmore-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Dunsoghly Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.42692,
-            "longitude": -6.31827
-        },
-        "accessible": false,
-        "built": "15th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/dunsoghly-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Ferns Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.5907,
-            "longitude": -6.49918
-        },
-        "built": "13th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/visit/places-to-visit/ferns-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Gallarus Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.17593,
-            "longitude": -10.3558
-        },
-        "accessible": false,
-        "built": "15th Century",
-        "condition": "Intact",
-        "homepage": "https://heritageireland.ie/unguided-sites/gallarus-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Glanworth Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.18816,
-            "longitude": -8.35461
-        },
-        "alternativeNames": [
-            "Condon Castle"
-        ],
-        "built": "12-13th Century",
-        "condition": "Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/glanworth-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Square Keep"
-    },
-    {
-        "name": "Gleninagh Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.13767,
-            "longitude": -9.20591
-        },
-        "built": "16th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/gleninagh-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Grallagh Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.59481,
-            "longitude": -7.77119
-        },
-        "built": "15-16th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/grallagh-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Grange Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 53.37512,
-            "longitude": -7.06817
-        },
-        "built": "15th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/grange-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
-    },
-    {
-        "name": "Grannagh (Granny) Castle",
-        "country": "IE",
-        "coordinates": {
-            "latitude": 52.28087,
-            "longitude": -7.16051
-        },
-        "built": "15th Century",
-        "condition": "Partial Ruins",
-        "homepage": "https://heritageireland.ie/unguided-sites/grannagh-granny-castle",
-        "ownedBy": "Office of Public Works",
-        "type": "Tower House"
     }
 ]
