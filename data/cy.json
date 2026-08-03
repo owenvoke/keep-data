@@ -1,0 +1,37 @@
+[
+    {
+        "id": "019fc77b-216e-7382-8040-28f2644477da",
+        "name": "Paphos Castle",
+        "country": "CY",
+        "coordinates": {
+            "latitude": 34.75365,
+            "longitude": 32.40695
+        },
+        "alternativeNames": [
+            "Pafos Castle",
+            "Κάστρο της Πάφου",
+            "Baf Kalesi"
+        ],
+        "built": "13th Century BCE",
+        "condition": "Restored",
+        "ownedBy": "Department of Antiquities",
+        "type": "Fort"
+    },
+    {
+        "id": "019fc783-55b9-70f1-b2e2-01f8579974b2",
+        "name": "Saranta Kolones",
+        "country": "CY",
+        "coordinates": {
+            "latitude": 34.75365,
+            "longitude": 32.40695
+        },
+        "alternativeNames": [
+            "Forty Columns Castle",
+            "Κάστρο Σαράντα Κολώνες"
+        ],
+        "built": "7th Century BCE",
+        "condition": "Ruins",
+        "ownedBy": "Department of Antiquities",
+        "type": "Fort"
+    }
+]
