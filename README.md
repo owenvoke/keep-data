@@ -13,6 +13,7 @@ data such as the available countries and hashes.
 
 <!-- COUNTRIES -->
 - [Åland Islands](data/ax) ([JSON](data/ax.json))
+- [Cyprus](data/cy) ([JSON](data/cy.json))
 - [Denmark](data/dk) ([JSON](data/dk.json))
 - [Germany](data/de) ([JSON](data/de.json))
 - [Guernsey](data/gg) ([JSON](data/gg.json))
