@@ -1035,6 +1035,20 @@
         "type": "Square Keep"
     },
     {
+        "id": "01a0b093-d1f5-7578-bb95-11ffb3104c7d",
+        "name": "Fishguard Fort",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.00119,
+            "longitude": -4.97019
+        },
+        "built": "18th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Artillery Fort"
+    },
+    {
         "id": "019d72bd-61f5-779b-8c35-d992e45ac617",
         "name": "Flint Castle",
         "country": "GB",
@@ -2110,18 +2124,5 @@
         "condition": "No Visible Remains",
         "ownedBy": "Private",
         "type": "Fortified Manor House"
-    },
-    {
-        "name": "Fishguard Fort",
-        "country": "GB",
-        "region": "GB-WLS",
-        "coordinates": {
-            "latitude": 52.00119,
-            "longitude": -4.97019
-        },
-        "built": "18th Century",
-        "condition": "Ruins",
-        "ownedBy": "Scheduled Ancient Monument",
-        "type": "Artillery Fort"
     }
 ]
