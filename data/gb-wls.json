@@ -2110,5 +2110,18 @@
         "condition": "No Visible Remains",
         "ownedBy": "Private",
         "type": "Fortified Manor House"
+    },
+    {
+        "name": "Fishguard Fort",
+        "country": "GB",
+        "region": "GB-WLS",
+        "coordinates": {
+            "latitude": 52.00119,
+            "longitude": -4.97019
+        },
+        "built": "18th Century",
+        "condition": "Ruins",
+        "ownedBy": "Scheduled Ancient Monument",
+        "type": "Artillery Fort"
     }
 ]
