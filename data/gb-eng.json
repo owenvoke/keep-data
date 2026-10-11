@@ -1,5 +1,18 @@
 [
     {
+    "id": "01a12b23-efdd-7619-a9b9-8f6878a27722",
+    "name": "Royal Citadel",
+    "country": "GB",
+    "region": "GB-ENG",
+    "coordinates": { "latitude": 50.36472, "longitude": -4.1375 },
+    "alternativeNames": ["Plymouth Citadel"],
+    "built": "17th Century",
+    "condition": "Intact",
+    "homepage": "https://www.english-heritage.org.uk/visit/places/royal-citadel-plymouth",
+    "ownedBy": "Ministry of Defence",
+    "type": "Artillery Fort"
+    },
+    {
         "id": "019d6948-63cd-715f-909e-ad8e48de3328",
         "name": "Acre Castle",
         "country": "GB",
